@@ -1,0 +1,44 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: gradient(to right, #ffefba, #ffffff);
+    margin: 0;
+    padding: 20px;
+}
+
+#all-locations-container {
+    margin-top: 20px;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 30px;
+}
+
+.location-card {
+  display: inline-block;
+  width: 400px;
+  gap: 10px;
+  height: auto;
+  border: 5px black solid;
+  border-radius: 20px;
+  background-color: #ffefba;
+}
+
+.location-card #name{
+  color: blue;
+}
+
+.location-card #town{
+  color: orange;
+}
+
+.location-card #use{
+  color: green;
+}
+
+.location-card #image {
+  align-items: center;
+  justify-content: center;
+  width: 80%;
+  height: auto;
+  border: 5px solid black;
+  border-radius: 10px;
+}

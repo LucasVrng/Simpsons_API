@@ -1,0 +1,66 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: gradient(to right, #ffefba, #ffffff);
+    margin: 0;
+    padding: 20px;
+}
+
+#episode-info {
+    margin-top: 20px;
+}
+
+#episode.name {
+    font-size: 24px;
+    font-weight: bold;
+    color: pink;
+}
+
+#all-episodes-container {
+    margin-top: 20px;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 30px;
+}
+
+.episode-card {
+  display: inline-block;
+  width: 400px;
+  gap: 10px;
+  height: auto;
+  border: 5px black solid;
+  border-radius: 20px;
+  background-color: #ffefba;
+}
+
+.episode-card #name{
+  color: blue;
+}
+
+.episode-card #synopsis{
+  color: orange;
+}
+
+.episode-card #season{
+  color: green;
+}
+
+.episode-card #number{
+  color: red;
+}
+
+.episode-card #image {
+  align-items: center;
+  justify-content: center;
+  width: 80%;
+  height: auto;
+  border: 5px solid black;
+  border-radius: 10px;
+}
+
+#phrases {
+    font-style: italic;
+}
+
+#birthdate {
+    color: gray;
+}
