@@ -5,9 +5,6 @@ let currentData = [];
 
 addEventListener("DOMContentLoaded", (event) => { fetchPage(currentPage); })
 
-document.getElementById("fetch-btn").addEventListener("click", fetchCharacterData);
-document.getElementById("fetch-all-btn").addEventListener("click", fetchPage(currentPage));
-
 document.getElementById("prev-btn").addEventListener("click", () => {
     if (currentPage > 1) {
         fetchPage(currentPage - 1);
@@ -24,6 +21,7 @@ document.getElementById("next-btn").addEventListener("click", () => {
     }
 });
 
+
 document.getElementById("page-info").textContent = `Page: ${currentPage}`;
 
 
@@ -36,56 +34,12 @@ for (let page = 1; page <= 60; page++) {
 
 console.log(cache);
 
-async function fetchCharacterData() {
-  try {
-    const inputName = document.getElementById("character-name").value.trim().toLowerCase();
-
-    const character = cache.find(c => c.name.toLowerCase().includes (inputName.toLowerCase()));
-
-    if (character) {
-      console.log("Personnage trouvé :", character);
-    } else {
-      console.log("Personnage non trouvé");
-    }
-    const portrait =  `https://cdn.thesimpsonsapi.com/500/character/${character.id}.webp`;
-    const imageElement = document.getElementById("character-image");
-    imageElement.src = portrait;
-    imageElement.style.display = "block";
-
-    const nameElement = document.getElementById("name");
-    nameElement.textContent = `Name: ${character.name}`;
-
-    const birthdateElement = document.getElementById("birth-date");
-    if (character.birthdate==null) {
-      birthdateElement.textContent = `Birth Date: Unknown`;
-    } else {
-      birthdateElement.textContent = `Birth Date: ${character.birthdate}`;
-    }
-
-    const ageElement = document.getElementById("age");
-    if (character.age==null) {
-      ageElement.textContent = `Age: Unknown`;
-    } else {
-      ageElement.textContent = `Age: ${character.age}`;
-    }
-
-    const occupationElement = document.getElementById("occupation");
-    if (character.occupation==null) {
-      occupationElement.textContent = `Occupation: Unknown`;
-    } else {
-      occupationElement.textContent = `Occupation: ${character.occupation}`;
-    }
-
-    const phrasesElement = document.getElementById("phrases");
-    phrasesElement.textContent = `${character.phrases.join(" ")}`;
-
-    currentPage = 1
-
-    console.log(character);
-  } catch (error) {
-    console.error(error);
-  }
-}
+document.getElementById("character-input").addEventListener("input", event =>{
+  console.log(event.target.value);
+  currentData = cache.filter(c => c.name.toLowerCase().includes (event.target.value.toLowerCase()));
+  console.log(currentData)
+  displayCurrentData();
+})
 
 async function fetchPage(page) {
     try {

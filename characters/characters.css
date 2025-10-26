@@ -19,17 +19,18 @@ body {
     margin-top: 20px;
     display: flex;
     flex-wrap: wrap;
-    gap: 30px;
+    gap: 10px;
 }
 
 .character-card {
   display: inline-block;
-  width: 400px;
+  width: 300px;
   gap: 10px;
   height: auto;
   border: 5px black solid;
   border-radius: 20px;
   background-color: #ffefba;
+  padding: 25px;
 }
 
 .character-card #name{
