@@ -1,87 +1,92 @@
 .sky {
-    position: fixed;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100vh;
-    background: linear-gradient(to bottom, #87CEEB 0%, #E0F6FF 100%);
-    overflow: hidden;
-    z-index: -10;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100vh;
+  background: linear-gradient(to bottom, #87ceeb 0%, #e0f6ff 100%);
+  overflow: hidden;
+  z-index: -10;
 }
 
 .cloud {
-    position: absolute;
-    background: white;
-    border-radius: 100px;
-    opacity: 0.8;
+  position: absolute;
+  background: white;
+  border-radius: 100px;
+  opacity: 0.8;
 }
 
 .cloud::before,
 .cloud::after {
-    content: '';
-    position: absolute;
-    background: white;
-    border-radius: 100px;
+  content: "";
+  position: absolute;
+  background: white;
+  border-radius: 100px;
 }
 
 .cloud::before {
-    width: 50px;
-    height: 50px;
-    top: -25px;
-    left: 10px;
+  width: 50px;
+  height: 50px;
+  top: -25px;
+  left: 10px;
 }
 
 .cloud::after {
-    width: 40px;
-    height: 40px;
-    top: -15px;
-    right: 10px;
+  width: 40px;
+  height: 40px;
+  top: -15px;
+  right: 10px;
 }
 
 .cloud1 {
-    width: 100px;
-    height: 40px;
-    top: 10%;
-    animation: drift 20s infinite linear;
+  width: 100px;
+  height: 40px;
+  top: 10%;
+  animation: drift 20s infinite linear;
 }
 
 .cloud2 {
-    width: 120px;
-    height: 45px;
-    top: 30%;
-    animation: drift 25s infinite linear;
-    animation-delay: -5s;
+  width: 120px;
+  height: 45px;
+  top: 30%;
+  animation: drift 25s infinite linear;
+  animation-delay: -5s;
 }
 
 .cloud3 {
-    width: 90px;
-    height: 35px;
-    top: 50%;
-    animation: drift 30s infinite linear;
-    animation-delay: -10s;
-    opacity: 0.7;
+  width: 90px;
+  height: 35px;
+  top: 50%;
+  animation: drift 30s infinite linear;
+  animation-delay: -10s;
+  opacity: 0.7;
 }
 
 .cloud4 {
-    width: 110px;
-    height: 42px;
-    top: 70%;
-    animation: drift 22s infinite linear;
-    animation-delay: -15s;
+  width: 110px;
+  height: 42px;
+  top: 70%;
+  animation: drift 22s infinite linear;
+  animation-delay: -15s;
 }
 
 @keyframes drift {
-    from {
-        left: -150px;
-    }
-    to {
-        left: 100%;
-    }
+  from {
+    left: -150px;
+  }
+  to {
+    left: 100%;
+  }
 }
 
 /* ===== MODE NUIT ===== */
 body.dark-mode .sky {
-  background: radial-gradient(circle at top, #0b132b 0%, #1c2541 60%, #3a506b 100%);
+  background: radial-gradient(
+    circle at top,
+    #0b132b 0%,
+    #1c2541 60%,
+    #3a506b 100%
+  );
 }
 
 body.dark-mode .cloud {
@@ -96,7 +101,6 @@ body.dark-mode .cloud::after {
   background: grey;
 }
 
-
 .sun {
   position: absolute;
   top: 5%;
@@ -104,9 +108,16 @@ body.dark-mode .cloud::after {
   width: 80px;
   height: 80px;
   border-radius: 50%;
-  background: radial-gradient(circle at 30% 30%, #fff8a1 0%, #ffe066 40%, #ffb703 100%);
+  background: radial-gradient(
+    circle at 30% 30%,
+    #fff8a1 0%,
+    #ffe066 40%,
+    #ffb703 100%
+  );
   box-shadow: 0 0 60px rgba(255, 221, 0, 0.6);
-  transition: opacity 1s ease, transform 1s ease;
+  transition:
+    opacity 1s ease,
+    transform 1s ease;
 }
 
 /* Cachée la nuit */
@@ -115,10 +126,9 @@ body.dark-mode .sun {
   transform: scale(0.7) translateY(-30px);
 }
 
-
 /* Ajout d'étoiles scintillantes */
 body.dark-mode .sky::before {
-  content: '';
+  content: "";
   position: absolute;
   top: 0;
   left: 0;
@@ -131,8 +141,13 @@ body.dark-mode .sky::before {
 
 /* Animation des étoiles */
 @keyframes twinkle {
-  0%, 100% { opacity: 0.5; }
-  50% { opacity: 0.8; }
+  0%,
+  100% {
+    opacity: 0.5;
+  }
+  50% {
+    opacity: 0.8;
+  }
 }
 
 .moon {
@@ -142,7 +157,12 @@ body.dark-mode .sky::before {
   width: 80px;
   height: 80px;
   border-radius: 50%;
-  background: radial-gradient(circle at 30% 30%, #fff 0%, #f4f4f4 40%, #cfcfcf 100%);
+  background: radial-gradient(
+    circle at 30% 30%,
+    #fff 0%,
+    #f4f4f4 40%,
+    #cfcfcf 100%
+  );
   box-shadow: 0 0 40px rgba(255, 255, 255, 0.4);
   opacity: 0;
   transition: opacity 1s ease;
@@ -153,6 +173,15 @@ body.dark-mode .moon {
   opacity: 1;
 }
 
-.sky, .cloud, .cloud::before, .cloud::after, .sun, .moon {
-  transition: background 1.2s ease, opacity 1.2s ease, transform 1.2s ease, box-shadow 1.2s ease;
+.sky,
+.cloud,
+.cloud::before,
+.cloud::after,
+.sun,
+.moon {
+  transition:
+    background 1.2s ease,
+    opacity 1.2s ease,
+    transform 1.2s ease,
+    box-shadow 1.2s ease;
 }

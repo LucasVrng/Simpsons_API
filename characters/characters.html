@@ -1,55 +1,54 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>The Simpsons API</title>
-    <link rel="stylesheet" href="characters.css">
-    <link rel="stylesheet" href="../background.css">
-    <link rel="stylesheet" href="../fonts/fonts.css">
-</head>
-<body>
-
+    <link rel="stylesheet" href="characters.css" />
+    <link rel="stylesheet" href="../background.css" />
+    <link rel="stylesheet" href="../fonts/fonts.css" />
+  </head>
+  <body>
     <div class="sky">
-       <div class="moon"></div>
-       <div class="sun"></div>
-        <div class="cloud cloud1"></div>
-        <div class="cloud cloud2"></div>
-        <div class="cloud cloud3"></div>
-        <div class="cloud cloud4"></div>
+      <div class="moon"></div>
+      <div class="sun"></div>
+      <div class="cloud cloud1"></div>
+      <div class="cloud cloud2"></div>
+      <div class="cloud cloud3"></div>
+      <div class="cloud cloud4"></div>
     </div>
 
-    
     <!-- <input type="text" id="phrases-input" placeholder="Rechercher qui dit quoi..."> -->
 
     <h1 id="page-title">Characters</h1>
 
     <div class="search-controls">
-    <input type="text" id="name-input" placeholder="Rechercher un personnage par son nom...">
-    
-    <p id="number-of-results"></p>
-    
-    <label for="pagesize">How many elements per page:</label>
-    
-    <select name="pagesize" id="pagesize">
+      <input
+        type="text"
+        id="name-input"
+        placeholder="Rechercher un personnage par son nom..."
+      />
+
+      <p id="number-of-results"></p>
+
+      <label for="pagesize">How many elements per page:</label>
+
+      <select name="pagesize" id="pagesize">
         <option value="8">8</option>
         <option value="20" selected>20</option>
         <option value="40">40</option>
         <option value="100">100</option>
-    </select>
-</div>
+      </select>
+    </div>
 
-<div id="all-characters-container"></div>
+    <div id="all-characters-container"></div>
 
-<div id="pagination">
-  <button id="prev-btn">Previous Page</button>
-  <span id="page-info"></span>
-  <button id="next-btn">Next Page</button>
-</div>
+    <div id="pagination">
+      <button id="prev-btn">Previous Page</button>
+      <span id="page-info"></span>
+      <button id="next-btn">Next Page</button>
+    </div>
 
-
-    <script type="module"
-        src="characters.js">
-    </script>
-</body>
+    <script type="module" src="characters.js"></script>
+  </body>
 </html>

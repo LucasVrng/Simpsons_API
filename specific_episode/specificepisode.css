@@ -1,8 +1,8 @@
 body {
-    font-family: Arial, sans-serif;
-    background: linear-gradient(to right, #ffefba, #ffffff);
-    margin: 0;
-    padding: 20px;
+  font-family: Arial, sans-serif;
+  background: linear-gradient(to right, #ffefba, #ffffff);
+  margin: 0;
+  padding: 20px;
 }
 
 #episodecontainer {
@@ -24,25 +24,25 @@ body {
   align-items: flex-start;
 }
 
-#name{
+#name {
   color: yellow;
   margin-top: 10px;
   font-family: Simpsons;
   text-shadow: black 0.1em 0.1em 0.2em;
 }
 
-#season{
+#season {
   color: orange;
   font-family: Mario286;
   font-style: italic;
 }
 
-#episode_number{
+#episode_number {
   color: green;
   font-family: Mario286;
 }
 
-#airdate{
+#airdate {
   color: red;
   font-family: Mario286;
 }
@@ -55,8 +55,8 @@ body {
 }
 
 #synopsis {
-    color: gray;
-    font-family: Mario286;
+  color: gray;
+  font-family: Mario286;
 }
 
 #pagination {
@@ -64,10 +64,11 @@ body {
   align-items: center;
   justify-content: center;
   text-align: center;
-  gap: 150px
+  gap: 150px;
 }
 
-#prev-btn, #next-btn {
+#prev-btn,
+#next-btn {
   width: 20%;
   padding: 17px 40px;
   border-radius: 50px;
@@ -80,7 +81,8 @@ body {
   transition: all 0.5s ease;
 }
 
-#prev-btn:hover, #next-btn:hover {
+#prev-btn:hover,
+#next-btn:hover {
   background-color: yellow;
   transform: scale(1.1);
 }

@@ -2,15 +2,17 @@ let episodeId = localStorage.getItem("episodeId");
 console.log(episodeId);
 loadEpisode(episodeId);
 
-async function loadEpisode(episodeId) { 
-    const response = await fetch(`https://thesimpsonsapi.com/api/episodes/${episodeId}`);
-    const episode = await response.json();
-    const container = document.getElementById("episodecontainer");
-    container.innerHTML = "";
-    const episodeDiv = document.createElement("div");
-    episodeDiv.classList.add("episode-card");
-    const portrait = `https://cdn.thesimpsonsapi.com/1280/episode/${episode.id}.webp`;
-    episodeDiv.innerHTML = `  
+async function loadEpisode(episodeId) {
+  const response = await fetch(
+    `https://thesimpsonsapi.com/api/episodes/${episodeId}`,
+  );
+  const episode = await response.json();
+  const container = document.getElementById("episodecontainer");
+  container.innerHTML = "";
+  const episodeDiv = document.createElement("div");
+  episodeDiv.classList.add("episode-card");
+  const portrait = `https://cdn.thesimpsonsapi.com/1280/episode/${episode.id}.webp`;
+  episodeDiv.innerHTML = `  
         <div class="image-container">
             <img src="${portrait}" alt="${episode.name}" id="image"/>
         </div>
@@ -22,25 +24,25 @@ async function loadEpisode(episodeId) {
             <p id="synopsis">Synopsis: ${episode.synopsis ? episode.synopsis : "Unknown"}</p>
         </div>
     `;
-    container.appendChild(episodeDiv);
+  container.appendChild(episodeDiv);
 }
 
 document.getElementById("prev-btn").addEventListener("click", () => {
-    if (episodeId == 1) {
-        episodeId = 768
-    } else {
-        episodeId--;
-    }
-    localStorage.setItem("episodeId",episodeId)
-    loadEpisode(episodeId);
-})
+  if (episodeId == 1) {
+    episodeId = 768;
+  } else {
+    episodeId--;
+  }
+  localStorage.setItem("episodeId", episodeId);
+  loadEpisode(episodeId);
+});
 
 document.getElementById("next-btn").addEventListener("click", () => {
-    if (episodeId == 768) {
-        episodeId = 1
-    } else {
-        episodeId++;
-    }
-    localStorage.setItem("episodeId",episodeId)
-    loadEpisode(episodeId);
-})
+  if (episodeId == 768) {
+    episodeId = 1;
+  } else {
+    episodeId++;
+  }
+  localStorage.setItem("episodeId", episodeId);
+  loadEpisode(episodeId);
+});

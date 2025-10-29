@@ -6,12 +6,11 @@ body {
   text-align: center;
   align-items: center;
 }
-*
-.button-link a{
+* .button-link a {
   text-align: center;
 }
 
-.button-link{
+.button-link {
   background-color: #fff;
 }
 .button-link:hover {
@@ -22,7 +21,10 @@ body {
 
 .button-link {
   border: 2px solid #000;
-  transition: background-color 0.3s, transform 0.3s, box-shadow 0.3s;
+  transition:
+    background-color 0.3s,
+    transform 0.3s,
+    box-shadow 0.3s;
   position: relative;
 }
 
@@ -34,6 +36,7 @@ body {
   margin: 0 auto;
   padding: 20px;
 }
+
 .button-link {
   display: flex;
   justify-content: center;

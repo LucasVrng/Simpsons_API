@@ -1,0 +1,244 @@
+body {
+  font-family: "Arial", sans-serif;
+  background: linear-gradient(to bottom, #87ceeb, #e0f6ff);
+  margin: 0;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+h1 {
+  font-size: 48px;
+  color: #ffd700;
+  text-shadow: 3px 3px 6px rgba(0, 0, 0, 0.3);
+  margin: 20px 0 20px 0;
+  letter-spacing: 7px;
+  font-family: Mario286;
+  text-align: center;
+  font-size: 36px;
+  margin-bottom: 20px;
+}
+
+#score {
+  position: absolute;
+  bottom: 50px;
+}
+
+#quiz-wrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 60px;
+  max-width: 1400px;
+  width: 100%;
+  padding: 40px;
+}
+
+.character-card {
+  display: inline-block;
+  width: 500px;
+  height: auto;
+  border: 8px solid black;
+  border-radius: 30px;
+  background-color: white;
+  padding: 30px;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.3);
+  transition: transform 0.3s;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+}
+
+.character-card:hover {
+  transform: scale(1.02);
+}
+
+.character-card #image {
+  width: 80%;
+  height: auto;
+  border: 5px solid black;
+  border-radius: 20px;
+  display: block;
+}
+
+.episode-card {
+  display: inline-block;
+  width: 700px;
+  height: auto;
+  border: 8px solid black;
+  border-radius: 30px;
+  background-color: white;
+  padding: 30px;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.3);
+  transition: transform 0.3s;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+}
+
+.episode-card:hover {
+  transform: scale(1.02);
+}
+
+.episode-card #image {
+  align-items: center;
+  justify-content: center;
+  width: 80%;
+  height: auto;
+  border: 5px solid black;
+  border-radius: 20px;
+  display: block;
+}
+
+.location-card {
+  display: flex;
+  width: 650px;
+  height: auto;
+  border: 8px solid black;
+  border-radius: 30px;
+  background-color: white;
+  padding: 30px;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.3);
+  transition: transform 0.3s;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+}
+
+.location-card:hover {
+  transform: scale(1.02);
+}
+
+.location-card #image {
+  align-items: center;
+  justify-content: center;
+  width: 75%;
+  height: auto;
+  border: 5px solid black;
+  border-radius: 20px;
+  display: block;
+}
+
+#answers-container {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 25px;
+  flex: 0 0 auto;
+  max-width: 600px;
+}
+
+.answer {
+  background-color: white;
+  padding: 30px 20px;
+  border: 4px solid black;
+  border-radius: 20px;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
+  min-height: 80px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.answer h3 {
+  margin: 0;
+  font-size: 25px;
+  color: #333;
+  text-align: center;
+}
+
+.answer:hover {
+  transform: translateY(-5px);
+  background-color: yellow;
+  box-shadow: 0 8px 25px rgba(0, 0, 0, 0.3);
+  border-color: #ffa500;
+}
+
+.answer:active {
+  transform: translateY(-2px);
+}
+
+.synopsis-card {
+  display: inline-block;
+  width: 700px;
+  border: 8px solid black;
+  border-radius: 30px;
+  background-color: white;
+  padding: 30px;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.3);
+  transition: transform 0.3s;
+  font-size: 25px;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+}
+
+.synopsis-card:hover {
+  transform: scale(1.02);
+}
+
+.answer-image {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: 150px;
+  gap: 10px;
+  border: 5px black solid;
+  border-radius: 20px;
+  background-color: white;
+  padding: 20px;
+  transition: transform 0.2s ease-in-out;
+  text-align: center;
+}
+
+.answer-image .answer-img {
+  width: 100%;
+  height: auto;
+  border: 3px solid black;
+  border-radius: 10px;
+}
+
+.answer:hover {
+  transform: translateY(-5px);
+  background-color: yellow;
+  box-shadow: 0 8px 25px rgba(0, 0, 0, 0.3);
+  border-color: #ffa500;
+}
+
+.answer:active {
+  transform: translateY(-2px);
+}
+
+@media (max-width: 1200px) {
+  #quiz-wrapper {
+    flex-direction: column;
+    gap: 40px;
+  }
+
+  .character-card {
+    width: 400px;
+  }
+
+  #answers-container {
+    max-width: 500px;
+  }
+}
+
+@media (max-width: 768px) {
+  .character-card {
+    width: 320px;
+    padding: 20px;
+  }
+
+  #answers-container {
+    grid-template-columns: 1fr;
+    max-width: 350px;
+  }
+
+  h1 {
+    font-size: 36px;
+  }
+}
