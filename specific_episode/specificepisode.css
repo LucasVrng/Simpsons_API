@@ -1,0 +1,104 @@
+body {
+    font-family: Arial, sans-serif;
+    background: linear-gradient(to right, #ffefba, #ffffff);
+    margin: 0;
+    padding: 20px;
+}
+
+#episodecontainer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 80vh;
+}
+
+.episode-card {
+  display: flex;
+  gap: 15px;
+  width: 1200px;
+  height: auto;
+  border: 5px black solid;
+  border-radius: 20px;
+  background-color: white;
+  padding: 25px;
+  align-items: flex-start;
+}
+
+#name{
+  color: yellow;
+  margin-top: 10px;
+  font-family: Simpsons;
+  text-shadow: black 0.1em 0.1em 0.2em;
+}
+
+#season{
+  color: orange;
+  font-family: Mario286;
+  font-style: italic;
+}
+
+#episode_number{
+  color: green;
+  font-family: Mario286;
+}
+
+#airdate{
+  color: red;
+  font-family: Mario286;
+}
+
+#image {
+  width: 650px;
+  height: auto;
+  border: 5px solid black;
+  border-radius: 10px;
+}
+
+#synopsis {
+    color: gray;
+    font-family: Mario286;
+}
+
+#pagination {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  gap: 150px
+}
+
+#prev-btn, #next-btn {
+  width: 20%;
+  padding: 17px 40px;
+  border-radius: 50px;
+  cursor: pointer;
+  background-color: white;
+  box-shadow: rgb(0 0 0 / 5%) 0 0 8px;
+  letter-spacing: 1.5px;
+  text-transform: uppercase;
+  font-size: 15px;
+  transition: all 0.5s ease;
+}
+
+#prev-btn:hover, #next-btn:hover {
+  background-color: yellow;
+  transform: scale(1.1);
+}
+
+#previouspage {
+  width: 14%;
+  padding: 14px;
+  border-radius: 50px;
+  cursor: pointer;
+  background-color: white;
+  box-shadow: rgb(0 0 0 / 5%) 0 0 8px;
+  letter-spacing: 1.5px;
+  text-transform: uppercase;
+  font-size: 15px;
+  transition: all 0.5s ease;
+}
+
+#previouspage:hover {
+  background-color: yellow;
+  transform: translateX(-5%);
+}

@@ -6,6 +6,7 @@
     <title>The Simpsons API</title>
     <link rel="stylesheet" href="characters.css">
     <link rel="stylesheet" href="../background.css">
+    <link rel="stylesheet" href="../fonts/fonts.css">
 </head>
 <body>
 
@@ -18,28 +19,34 @@
         <div class="cloud cloud4"></div>
     </div>
 
-    <h1>Characters</h1>
+    
+    <!-- <input type="text" id="phrases-input" placeholder="Rechercher qui dit quoi..."> -->
 
-    <input type="text" id="character-input" placeholder="Type the name of a simpson character"> 
+    <h1 id="page-title">Characters</h1>
 
-    <div id="character-info">
-        <h2 id="name"></h2>
-        <h3 id="birth-date"></h3>
-        <h3 id="age"></h3>
-        <h3 id="occupation"></h3>
-        <p id="phrases"></p>
-        <img src="" alt="character-image-info" id="character-image" style="display:none">
-    </div>
+    <div class="search-controls">
+    <input type="text" id="name-input" placeholder="Rechercher un personnage par son nom...">
+    
+    <p id="number-of-results"></p>
+    
+    <label for="pagesize">How many elements per page:</label>
+    
+    <select name="pagesize" id="pagesize">
+        <option value="8">8</option>
+        <option value="20" selected>20</option>
+        <option value="40">40</option>
+        <option value="100">100</option>
+    </select>
+</div>
 
-    <div id="all-characters-container">
-        <div id="characters-container"></div>
-    </div>
+<div id="all-characters-container"></div>
 
-    <button id="prev-btn">Previous</button>
-        <span id="page-info"></span>
-        <button id="next-btn">Next</button>
-        <input type="number" id="jump-to-page" min="1" max="60" placeholder="Page #">
-        <button id="jump-btn">Jump</button>
+<div id="pagination">
+  <button id="prev-btn">Previous Page</button>
+  <span id="page-info"></span>
+  <button id="next-btn">Next Page</button>
+</div>
+
 
     <script type="module"
         src="characters.js">

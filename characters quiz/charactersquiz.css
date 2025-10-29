@@ -1,0 +1,67 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: gradient(to right, #ffefba, #ffffff);
+    margin: 0;
+    padding: 20px;
+}
+
+#character-info {
+    margin-top: 20px;
+}
+
+#character.name {
+    font-size: 24px;
+    font-weight: bold;
+    color: pink;
+}
+
+#all-characters-container {
+    margin-top: 20px;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+}
+
+.character-card {
+  display: inline-block;
+  width: 300px;
+  gap: 10px;
+  height: auto;
+  border: 5px black solid;
+  border-radius: 20px;
+  background-color: #ffefba;
+  padding: 25px;
+}
+
+.character-card #name{
+  color: blue;
+}
+
+.character-card #phrases{
+  color: orange;
+}
+
+.character-card #occupation{
+  color: green;
+}
+
+.character-card #age{
+  color: red;
+}
+
+.character-card #image {
+  align-items: center;
+  justify-content: center;
+  width: 80%;
+  height: auto;
+  border: 5px solid black;
+  border-radius: 10px;
+}
+
+#phrases {
+    font-style: italic;
+}
+
+#birthdate {
+    color: gray;
+}

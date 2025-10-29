@@ -1,0 +1,23 @@
+@font-face {
+  font-family: Simpsons;
+  src: local("Simpsons"),
+    url("Simpsons.otf") format("opentype") tech(color-COLRv1);
+}
+@font-face {
+  font-family: Wayoshi;
+  src: local("Wayoshi"),
+    url("wayoshi.ttf") format("truetype") tech(color-COLRv1), url("wayoshi.ttf");
+}
+@font-face {
+  font-family: Mario256;
+  src: local("Mario256"),
+    url("Mario256.ttf") format("truetype") tech(color-COLRv1),
+    url("Mario256.ttf");
+}
+
+@font-face {
+  font-family: Mario286;
+  src: local("Mario286"),
+    url("Mario286.ttf") format("truetype") tech(color-COLRv1),
+    url("Mario286.ttf");
+}
