@@ -8,10 +8,11 @@ const locationResponse = await fetch("../database/locations.json");
 const locations = await locationResponse.json();
 
 let score = 0;
+let nbQuestions = 0;
 let currentAnswer = null;
 let isAnswering = false;
 
-document.getElementById("score").textContent = `Score: ${score}`;
+document.getElementById("score").textContent = `Score: ${score}/${nbQuestions}`;
 
 document
   .getElementById("answers-container")
@@ -24,6 +25,7 @@ function handleAnswer(event) {
   if (!choice || !currentAnswer || isAnswering) return;
 
   isAnswering = true;
+  document.getElementById("answers-container").style.pointerEvents = "none";
   let userchoice = choice.querySelector("#name").textContent;
   console.log(userchoice);
   console.log(currentAnswer);
@@ -32,9 +34,31 @@ function handleAnswer(event) {
     score++;
     console.log("Excellent! 🎉");
     choice.style.backgroundColor = "#90EE90";
+    
+    const scoreElement = document.getElementById("score");
+    scoreElement.textContent = `Score: ${score}/${nbQuestions}`;
+    
+    const plusOne = document.createElement("span");
+    plusOne.textContent = "+1";
+    plusOne.classList.add("plusOne")
+    
+    scoreElement.appendChild(plusOne);
+    
+    setTimeout(() => {
+      plusOne.style.transform = "translateY(-30px)";
+      plusOne.style.opacity = "0";
+    }, 10);
+    
+    setTimeout(() => {
+      plusOne.remove();
+    }, 850);
+    
   } else {
     console.log("You suck McBain! 😢");
     choice.style.backgroundColor = "#FFB6C1";
+
+    const scoreElement = document.getElementById("score");
+    scoreElement.textContent = `Score: ${score}/${nbQuestions}`;
 
     const allAnswers = document.querySelectorAll(".answer");
     allAnswers.forEach((answer) => {
@@ -56,13 +80,14 @@ function handleAnswer(event) {
     });
   }
 
-  document.getElementById("score").textContent = `Score: ${score}`;
-
   setTimeout(() => {
     isAnswering = false;
+    document.getElementById("answers-container").style.pointerEvents = "auto";
     chooseTheQuestion();
   }, 1500);
 }
+///créez condition pour que la bonne réponse ne soit pas en deux fois dans les proposition
+///peut être ajouter condition pour cacher l nom du personnage à trouver s'il se trouve dans la description (semble compliqué à faire)
 
 function chooseTheQuestion() {
   const questionsstyles = [
@@ -71,8 +96,11 @@ function chooseTheQuestion() {
     "guessTheEpisodeByScreenshot",
     "guessTheLocation",
     "guessTheEpisodeBySynopsis",
+    "renderGuessTheCharacterByPhrase",
   ];
+  
   const choosequestion = Math.floor(Math.random() * questionsstyles.length);
+  nbQuestions++;
 
   switch (questionsstyles[choosequestion]) {
     case "guessTheCharacterByScreenshot":
@@ -89,6 +117,9 @@ function chooseTheQuestion() {
       break;
     case "guessTheEpisodeBySynopsis":
       renderGuessTheEpisodeBySynopsis();
+      break;
+    case "renderGuessTheCharacterByPhrase":
+      renderGuessTheCharacterByPhrase();
       break;
   }
 }
@@ -114,6 +145,9 @@ function renderGuessTheCharacterByScreenshot() {
   characterDiv.classList.add("character-card");
   const portrait = `https://cdn.thesimpsonsapi.com/1280/character/${answerCharacter.id}.webp`;
   characterDiv.innerHTML = `<img src="${portrait}" alt="${currentAnswer}" id="image"/>`;
+  const question = document.getElementById("question");
+  question.innerHTML = "";
+  question.innerHTML = `<p id="question">What's the name of this character?</p>`
   questionContainer.appendChild(characterDiv);
 
   renderAnswers(answers);
@@ -141,6 +175,49 @@ function renderGuessTheCharacterByName() {
   const characterDiv = document.createElement("div");
   characterDiv.classList.add("character-card");
   characterDiv.innerHTML = `<p id="name">${answerCharacter.name}</p>`;
+  const question = document.getElementById("question");
+  question.innerHTML = "";
+  question.innerHTML = `<p id="question">Which character goes by that name?</p>`
+  questionContainer.appendChild(characterDiv);
+
+  renderAnswersImages(answers, "character");
+}
+
+function renderGuessTheCharacterByPhrase() {
+  let answers = [];
+
+  for (let i = 0; i < 3; i++) {
+    answers.push(characters[Math.floor(Math.random() * characters.length)]);
+  }
+
+  let answerCharacter;
+  let answerChoice
+
+  do {
+    answerChoice = Math.floor(Math.random() * characters.length);
+    answerCharacter = characters[answerChoice];
+  } while (answerCharacter.phrases.length==0)
+
+  console.log(answerCharacter.phrases)
+  let phraseID = Math.floor(Math.random() * answerCharacter.phrases.length)
+  let phrase = answerCharacter.phrases[phraseID]
+  currentAnswer = answerCharacter.name;
+  console.log(currentAnswer)
+
+  answers.splice(
+    ((answers.length + 1) * Math.random()) | 0,
+    0,
+    answerCharacter,
+  );
+
+  const questionContainer = document.getElementById("question-container");
+  questionContainer.innerHTML = "";
+  const characterDiv = document.createElement("div");
+  characterDiv.classList.add("character-card");
+  characterDiv.innerHTML = `<p id="phrase">${phrase}</p> `;
+  const question = document.getElementById("question");
+  question.innerHTML = "";
+  question.innerHTML = `<p id="question">Which character said this phrase?</p>`
   questionContainer.appendChild(characterDiv);
 
   renderAnswersImages(answers, "character");
@@ -165,6 +242,9 @@ function renderGuessTheEpisodeByScreenshot() {
   episodeDiv.classList.add("episode-card");
   const portrait = `https://cdn.thesimpsonsapi.com/1280/episode/${answerEpisode.id}.webp`;
   episodeDiv.innerHTML = `<img src="${portrait}" alt="${currentAnswer}" id="image"/>`;
+  const question = document.getElementById("question");
+  question.innerHTML = "";
+  question.innerHTML = `<p id="question">From which episode is that screenshot from?</p>`
   questionContainer.appendChild(episodeDiv);
 
   renderAnswers(answers);
@@ -192,6 +272,9 @@ function renderGuessTheEpisodeBySynopsis() {
   const episodeDiv = document.createElement("div");
   episodeDiv.classList.add("synopsis-card");
   episodeDiv.innerHTML = `<p id="synopsis">${answerEpisode.synopsis}</p>`;
+  const question = document.getElementById("question");
+  question.innerHTML = "";
+  question.innerHTML = `<p id="question">Which episode corresponds to that synopsis?</p>`
   questionContainer.appendChild(episodeDiv);
 
   renderAnswersImages(answers, "episode");
@@ -216,6 +299,9 @@ function renderGuessTheLocation() {
   locationDiv.classList.add("location-card");
   const portrait = `https://cdn.thesimpsonsapi.com/1280/location/${answerLocation.id}.webp`;
   locationDiv.innerHTML = `<img src="${portrait}" alt="${currentAnswer}" id="image"/>`;
+  const question = document.getElementById("question");
+  question.innerHTML = "";
+  question.innerHTML = `<p id="question">What's the name of this location?</p>`
   questionContainer.appendChild(locationDiv);
 
   renderAnswers(answers);

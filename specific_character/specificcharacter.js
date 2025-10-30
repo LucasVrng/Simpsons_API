@@ -24,6 +24,7 @@ async function loadCharacter(characterId) {
             <p id="birthdate">Birth Date: ${character.birthdate ? character.birthdate : "Unknown"}</p> 
             <p id="age">Age: ${character.age ? character.age : "Unknown"}</p>
             <p id="occupation">Occupation: ${character.occupation ? character.occupation : "Unknown"}</p>
+            <p id="description">${character.description ? character.description : "Unknown"}</p>
             <p id="phrases">Phrases: ${character.phrases ? character.phrases : "Unknown"}</p>
         </div>
     `;

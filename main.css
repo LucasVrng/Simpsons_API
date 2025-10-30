@@ -6,32 +6,44 @@ body {
   text-align: center;
   align-items: center;
 }
-* .button-link a {
-  text-align: center;
+
+h1 {
+  font-family: Mario256, sans-serif;
+  font-size: 56px;
+  color: #FFD90F;
+  text-shadow: 
+    4px 4px 0 #000,
+    -2px -2px 0 #000,
+    2px -2px 0 #000,
+    -2px 2px 0 #000,
+    2px 2px 0 #000;
+  letter-spacing: 3px;
+  margin: 40px 20px 20px 20px;
+  animation: bounce 2s ease-in-out infinite;
 }
 
-.button-link {
-  background-color: #fff;
-}
-.button-link:hover {
-  background-color: #d3d3d3;
-  transform: translateY(-4px);
-  box-shadow: 0 8px 15px rgba(0, 0, 0, 0.25);
+@keyframes bounce {
+  0%, 100% { transform: translateY(0); }
+  50% { transform: translateY(-10px); }
 }
 
-.button-link {
-  border: 2px solid #000;
-  transition:
-    background-color 0.3s,
-    transform 0.3s,
-    box-shadow 0.3s;
-  position: relative;
+p {
+  font-family: Arial, sans-serif;
+  font-size: 24px;
+  color: #333;
+  background-color: rgba(255, 255, 255, 0.9);
+  padding: 15px 30px;
+  border-radius: 20px;
+  border: 3px solid #000;
+  max-width: 600px;
+  margin: 20px auto 40px auto;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
 }
 
 .button-links {
   display: grid;
   grid-template-columns: repeat(2, 1fr);
-  gap: 20px;
+  gap: 25px;
   max-width: 80%;
   margin: 0 auto;
   padding: 20px;
@@ -42,21 +54,36 @@ body {
   justify-content: center;
   align-items: center;
   width: 90%;
-  min-height: 100px;
+  min-height: 120px;
   height: auto;
   margin: auto;
-  border-radius: 15px;
+  border-radius: 20px;
+  position: relative;
+  border: 6px solid #000;
+  box-shadow: 
+    0 6px 0 #000,
+    0 8px 15px rgba(0, 0, 0, 0.3);
+  transition: all 0.3s cubic-bezier(0.68, -0.55, 0.265, 1.55);
 }
 
-.button-link a {
-  justify-content: center;
-  display: flex;
+.button-link{
+  background: linear-gradient(135deg, #FFD90F 0%, #FFC700 100%);
 }
+
+.button-link:hover {
+  transform: translateY(-8px) scale(1.05);
+  box-shadow: 
+    0 10px 0 #000,
+    0 15px 30px rgba(0, 0, 0, 0.4);
+}
+
 .button-link:active {
-  background-color: #b0b0b0;
   transform: translateY(2px);
-  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.15);
+  box-shadow: 
+    0 2px 0 #000,
+    0 4px 8px rgba(0, 0, 0, 0.2);
 }
+
 .button-link a {
   position: absolute;
   top: 0;
@@ -66,14 +93,44 @@ body {
   text-decoration: none;
   color: #000;
   padding: 20px;
-  font-size: 22px;
-  font-family: Mario256, sans-serif;
+  font-size: 28px;
+  font-weight: bold;
+  font-family: Arial, sans-serif;
+  display: flex;
   align-items: center;
+  justify-content: center;
   box-sizing: border-box;
+  text-shadow: 
+    2px 2px 0 #FFF,
+    3px 3px 0 rgba(0, 0, 0, 0.3);
+  letter-spacing: 1px;
+}
+
+.button-link:hover a {
+  animation: wiggle 0.5s ease;
+}
+
+@keyframes wiggle {
+  0%, 100% { transform: rotate(0deg); }
+  25% { transform: rotate(-2deg); }
+  75% { transform: rotate(2deg); }
 }
 
 @media (max-width: 768px) {
   .button-links {
     grid-template-columns: 1fr;
+  }
+  
+  h1 {
+    font-size: 42px;
+  }
+  
+  p {
+    font-size: 18px;
+    padding: 12px 20px;
+  }
+  
+  .button-link a {
+    font-size: 22px;
   }
 }
