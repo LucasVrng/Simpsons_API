@@ -10,8 +10,8 @@ body {
 h1 {
   font-family: Mario256, sans-serif;
   font-size: 56px;
-  color: #FFD90F;
-  text-shadow: 
+  color: #ffd90f;
+  text-shadow:
     4px 4px 0 #000,
     -2px -2px 0 #000,
     2px -2px 0 #000,
@@ -23,8 +23,13 @@ h1 {
 }
 
 @keyframes bounce {
-  0%, 100% { transform: translateY(0); }
-  50% { transform: translateY(-10px); }
+  0%,
+  100% {
+    transform: translateY(0);
+  }
+  50% {
+    transform: translateY(-10px);
+  }
 }
 
 p {
@@ -60,26 +65,26 @@ p {
   border-radius: 20px;
   position: relative;
   border: 6px solid #000;
-  box-shadow: 
+  box-shadow:
     0 6px 0 #000,
     0 8px 15px rgba(0, 0, 0, 0.3);
   transition: all 0.3s cubic-bezier(0.68, -0.55, 0.265, 1.55);
 }
 
-.button-link{
-  background: linear-gradient(135deg, #FFD90F 0%, #FFC700 100%);
+.button-link {
+  background: linear-gradient(135deg, #ffd90f 0%, #ffc700 100%);
 }
 
 .button-link:hover {
   transform: translateY(-8px) scale(1.05);
-  box-shadow: 
+  box-shadow:
     0 10px 0 #000,
     0 15px 30px rgba(0, 0, 0, 0.4);
 }
 
 .button-link:active {
   transform: translateY(2px);
-  box-shadow: 
+  box-shadow:
     0 2px 0 #000,
     0 4px 8px rgba(0, 0, 0, 0.2);
 }
@@ -100,8 +105,8 @@ p {
   align-items: center;
   justify-content: center;
   box-sizing: border-box;
-  text-shadow: 
-    2px 2px 0 #FFF,
+  text-shadow:
+    2px 2px 0 #fff,
     3px 3px 0 rgba(0, 0, 0, 0.3);
   letter-spacing: 1px;
 }
@@ -111,25 +116,32 @@ p {
 }
 
 @keyframes wiggle {
-  0%, 100% { transform: rotate(0deg); }
-  25% { transform: rotate(-2deg); }
-  75% { transform: rotate(2deg); }
+  0%,
+  100% {
+    transform: rotate(0deg);
+  }
+  25% {
+    transform: rotate(-2deg);
+  }
+  75% {
+    transform: rotate(2deg);
+  }
 }
 
 @media (max-width: 768px) {
   .button-links {
     grid-template-columns: 1fr;
   }
-  
+
   h1 {
     font-size: 42px;
   }
-  
+
   p {
     font-size: 18px;
     padding: 12px 20px;
   }
-  
+
   .button-link a {
     font-size: 22px;
   }
