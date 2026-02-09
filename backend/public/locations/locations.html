@@ -1,0 +1,70 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>The Simpsons API</title>
+    <link rel="stylesheet" href="locations.css" />
+    <link rel="stylesheet" href="../background.css" />
+    <link rel="stylesheet" href="../customCheckbox.css" />
+    <link rel="stylesheet" href="../fonts/fonts.css" />
+  </head>
+  <body>
+    <div class="sky">
+      <div class="moon"></div>
+      <div class="sun"></div>
+      <div class="cloud cloud1"></div>
+      <div class="cloud cloud2"></div>
+      <div class="cloud cloud3"></div>
+      <div class="cloud cloud4"></div>
+    </div>
+
+    <div class="header-container">
+  <button
+    id="previouspage"
+    onclick="location.href='../index.html'"
+  >
+    Go Back
+  </button>
+
+    <h1 id="page-title">Locations</h1>
+    </div>
+
+    <div class="search-controls">
+      <input
+        type="text"
+        id="location-input"
+        placeholder="Type the name of a simpson location"
+      />
+
+      <p id="number-of-results"></p>
+
+      <label for="pagesize">How many elements per page:</label>
+
+      <select name="pagesize" id="pagesize">
+        <option value="8">8</option>
+        <option value="20" selected>20</option>
+        <option value="40">40</option>
+        <option value="100">100</option>
+      </select>
+    </div>
+
+    <div id="all-locations-container"></div>
+
+    <div id="pagination">
+      <button id="prev-btn">Previous Page</button>
+      <span id="page-info"></span>
+      <button id="next-btn">Next Page</button>
+      <input
+        type="number"
+        id="jump-to-page"
+        min="1"
+        max="60"
+        placeholder="Page #"
+      />
+      <button id="jump-btn">Jump</button>
+    </div>
+
+    <script type="module" src="locations.js"></script>
+  </body>
+</html>

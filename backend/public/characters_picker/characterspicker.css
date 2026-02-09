@@ -1,0 +1,96 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: gradient(to right, #ffefba, #ffffff);
+  margin: 0;
+  text-align: center;
+}
+
+#character-picker {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(150px,1fr));
+  flex-wrap: wrap;
+  padding: 30px;
+  gap: 20px;
+}
+
+.character-card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  border: 5px solid black;
+  border-radius: 20px;
+  background-color: white;
+  padding: 20px;
+  transition: transform 0.2s ease;
+}
+
+.character-card.selected {
+  border-color: green;
+  background-color: lightgrey;
+}
+
+.character-card:hover {
+  cursor: pointer;
+  transform: scale(1.05) rotate(1deg);
+  transition: transform 0.2s ease;
+}
+
+.character-name {
+  color: blue;
+  font-size: 15px
+}
+
+.character-card img {
+  width: 100%;
+  border: 5px solid black;
+  border-radius: 10px;
+}
+
+#loading {
+  width: 90px;
+  height: 90px;
+  border: 5px solid #fff;
+  border-bottom-color: transparent;
+  border-radius: 50%;
+  display: inline-block;
+  align-items: center;
+  justify-content: center;
+  box-sizing: border-box;
+  animation: rotation 1s linear infinite;
+}
+
+@keyframes rotation {
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
+}
+
+#loading-text {
+  margin-top: 20px;
+  font-size: 1.2em;
+}
+
+.character-card.winner {
+  border: 5px black solid;
+  border-radius: 20px;
+  background-color: #ffefba;
+  padding: 25px;
+}
+
+.character-card.winner:hover {
+  cursor: default;
+  transform: none;
+  pointer-events: none;
+}
+
+.results {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+  font-size: 1.2em;
+  margin-top: 20px;
+}

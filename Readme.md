@@ -1,0 +1,1 @@
+npm run dev to lauch the server which automatically updates
