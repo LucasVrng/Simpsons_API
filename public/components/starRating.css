@@ -1,0 +1,68 @@
+/* components/star-rating.css */
+.star-rating {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+}
+
+.stars-wrapper {
+  display: flex;
+  gap: 4px;
+}
+
+/* Chaque étoile */
+.star {
+  position: relative;
+  width: 32px;
+  height: 32px;
+  cursor: pointer;
+  color: #ccc;
+  transition: color 0.15s;
+}
+
+/* Étoile remplie */
+.star[data-state="full"] {
+  color: #f5c518;
+}
+
+/* Demi-étoile */
+.star[data-state="half"] {
+  color: #ccc;
+}
+
+.star[data-state="half"]::before {
+  content: "★";
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 50%;
+  overflow: hidden;
+  color: #f5c518;
+  font-size: 32px;
+  line-height: 1;
+}
+
+/* SVG ou caractère étoile */
+.star::after {
+  content: "★";
+  font-size: 32px;
+  line-height: 1;
+}
+
+/* Les deux moitiés invisibles mais cliquables */
+.star-half {
+  position: absolute;
+  top: 0;
+  width: 50%;
+  height: 100%;
+  z-index: 1;
+}
+
+.star-half--left  { left: 0; }
+.star-half--right { right: 0; }
+
+.star-meta {
+  font-size: 0.8rem;
+  color: #888;
+  margin: 0;
+}

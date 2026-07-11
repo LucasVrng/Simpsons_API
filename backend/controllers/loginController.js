@@ -1,7 +1,6 @@
 import db from "../config/db.js";
 import bcrypt from "bcrypt";
 import jwt from "jsonwebtoken";
-import { ref } from "process";
 
 const generateAccessToken = (user) => {
   return jwt.sign(
@@ -46,13 +45,71 @@ export const login = async (req, res) => {
     res.cookie("refreshToken", refreshToken, {
       httpOnly: true,
       secure: process.env.NODE_ENV === "production",
-      sameSite: "secure",
+      sameSite: "lax",
       maxAge: 7 * 24 * 60 * 60 * 1000
-    })
+    });
 
     res.json({ accessToken });
   } catch (error) {
     console.error(error);
     res.status(500).json({ message: "Erreur lors de la connexion" });
+  }
+};
+
+export const refresh = async (req, res) => {
+  try {
+    const refreshToken = req.cookies.refreshToken;
+
+    if (!refreshToken) {
+      return res.status(401).json({ message: "Refresh token manquant" });
+    }
+
+    const stored = await db.get(
+      "SELECT * FROM RefreshTokens WHERE token = ?",
+      [refreshToken]
+    );
+
+    if (!stored) {
+      return res.status(403).json({ message: "Refresh token invalide ou révoqué" });
+    }
+
+    if (new Date(stored.expires_at) < new Date()) {
+      await db.run("DELETE FROM RefreshTokens WHERE token = ?", [refreshToken]);
+      return res.status(403).json({ message: "Refresh token expiré" });
+    }
+
+    jwt.verify(refreshToken, process.env.REFRESH_TOKEN_SECRET, async (err, decoded) => {
+      if (err) return res.status(403).json({ message: "Refresh token invalide" });
+
+      const user = await db.get("SELECT * FROM Users WHERE id = ?", [decoded.id]);
+      if (!user) return res.status(404).json({ message: "Utilisateur introuvable" });
+
+      const newAccessToken = generateAccessToken(user);
+      res.json({ accessToken: newAccessToken });
+    });
+  } catch (error) {
+    console.error(error);
+    res.status(500).json({ message: "Erreur lors du refresh" });
+  }
+};
+
+export const logout = async (req, res) => {
+  try {
+    const refreshToken = req.cookies.refreshToken;
+
+    if (refreshToken) {
+      await db.run("DELETE FROM RefreshTokens WHERE token = ?", [refreshToken]);
+    }
+
+    res.clearCookie("refreshToken", {
+      httpOnly: true,
+      secure: process.env.NODE_ENV === "production",
+      sameSite: "lax"
+    });
+
+    res.json({ message: "Déconnecté avec succès" });
+  } catch (error) {
+    console.error(error);
+    res.status(500).json({ message: "Erreur lors de la déconnexion" });
   }
 };

@@ -47,7 +47,7 @@ document
     if (!card) return;
     localStorage.clear();
     localStorage.setItem("locationId", card.querySelector("#id").textContent);
-    window.location.href = "../specific_location/specificlocation.html";
+    window.location.href = "../specificLocation/specificLocation.html";
   });
 
 function renderPage() {

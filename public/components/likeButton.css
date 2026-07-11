@@ -1,0 +1,49 @@
+/* components/like-button.css */
+.like-wrapper {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+}
+
+.like-btn {
+  background: none;
+  border: none;
+  cursor: pointer;
+  padding: 0;
+  display: flex;
+  align-items: center;
+  transition: transform 0.1s;
+}
+
+.like-btn svg {
+  width: 28px;
+  height: 28px;
+  fill: none;
+  stroke: #999;
+  stroke-width: 2;
+  transition: fill 0.2s, stroke 0.2s;
+}
+
+/* État liké */
+.like-btn.liked svg {
+  fill: #e63946;
+  stroke: #e63946;
+}
+
+/* Animation pop au clic */
+@keyframes pop {
+  0%   { transform: scale(1); }
+  40%  { transform: scale(1.35); }
+  70%  { transform: scale(0.9); }
+  100% { transform: scale(1); }
+}
+
+.like-btn.pop {
+  animation: pop 0.35s ease forwards;
+}
+
+.like-count {
+  font-size: 0.85rem;
+  color: #888;
+  min-width: 20px;
+}

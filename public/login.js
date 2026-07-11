@@ -1,3 +1,5 @@
+import { setAccessToken } from "./api.js";
+
 document.getElementById("loginForm").addEventListener("submit", async (e) => {
   e.preventDefault(); // empêche le reload
 
@@ -5,8 +7,9 @@ document.getElementById("loginForm").addEventListener("submit", async (e) => {
   const password = document.getElementById("password").value;
 
   try {
-    const res = await fetch("http://localhost:3000/users/login", {
+    const res = await fetch("http://localhost:3000/login", {
       method: "POST",
+      credentials: "include",
       headers: { "Content-Type": "application/json" },
       body: JSON.stringify({ username, password })
     });
@@ -14,8 +17,8 @@ document.getElementById("loginForm").addEventListener("submit", async (e) => {
     const data = await res.json();
 
     if (res.ok) {
-      // stocke le token
-      localStorage.setItem("accessToken", data.accessToken);
+      setAccessToken(data.accessToken);
+      setTimeout(() => window.location.href = "index.html", 1500);
       document.getElementById("message").textContent = "Login réussi !";
       setTimeout(() => window.location.href = "index.html", 1500);
     } else {
