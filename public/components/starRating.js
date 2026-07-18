@@ -1,5 +1,7 @@
     // components/StarRating.js
 import { getRating, upsertRating, deleteRating } from "../api.js";
+import { isLoggedIn } from "../auth.js";
+import { showLoginPopup } from "../popup.js";
 
 export class StarRating {
   /**
@@ -63,11 +65,16 @@ export class StarRating {
     } else {
       meta.textContent = this.total > 0
         ? `Moyenne : ${this.average}/10 (${this.total} notes)`
-        : "Pas encore de notes";
+        : "Nobody voted yet";
     }
   }
 
   async handleClick(ratingValue) {
+    if (!isLoggedIn()) {
+      showLoginPopup();
+      return;
+    }
+
     try {
       // Si on reclique sur sa propre note → on la supprime
       if (ratingValue === this.userRating) {

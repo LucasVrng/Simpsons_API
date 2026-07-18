@@ -1,5 +1,7 @@
 // components/LikeButton.js
 import { getLike, toggleLike } from "../api.js";
+import { isLoggedIn } from "../auth.js";
+import { showLoginPopup } from "../popup.js";
 
 export class LikeButton {
   /**
@@ -24,10 +26,16 @@ export class LikeButton {
   }
 
   async loadLike() {
+    if (!isLoggedIn()) {
+      this.liked = false;
+      this.total = 0;
+      this.update();
+      return;
+    }
     try {
       const data = await getLike(this.type, this.id);
-      this.liked = data.liked;
-      this.total = data.total;
+      this.liked = data.liked ?? false;
+      this.total = data.total ?? 0;
       this.update();
     } catch (err) {
       console.error("Erreur chargement like :", err);
@@ -35,6 +43,11 @@ export class LikeButton {
   }
 
   async handleClick() {
+    if (!isLoggedIn()) {  
+    showLoginPopup();
+    return;
+  }
+
     if (this.loading) return;
     this.loading = true;
 

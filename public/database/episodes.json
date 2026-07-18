@@ -119,7 +119,7 @@
     {
         "id": 14,
         "airdate": "1990-10-11",
-        "episode_number": 14,
+        "episode_number": 1,
         "image_path": "/episode/14.webp",
         "name": "Bart Gets an \"F\"",
         "season": 2,
@@ -128,7 +128,7 @@
     {
         "id": 15,
         "airdate": "1990-10-18",
-        "episode_number": 15,
+        "episode_number": 2,
         "image_path": "/episode/15.webp",
         "name": "Simpson and Delilah",
         "season": 2,
@@ -137,7 +137,7 @@
     {
         "id": 16,
         "airdate": "1990-10-25",
-        "episode_number": 16,
+        "episode_number": 3,
         "image_path": "/episode/16.webp",
         "name": "Treehouse of Horror",
         "season": 2,
@@ -146,7 +146,7 @@
     {
         "id": 17,
         "airdate": "1990-11-01",
-        "episode_number": 17,
+        "episode_number": 4,
         "image_path": "/episode/17.webp",
         "name": "Two Cars in Every Garage and Three Eyes on Every Fish",
         "season": 2,
@@ -155,7 +155,7 @@
     {
         "id": 18,
         "airdate": "1990-11-08",
-        "episode_number": 18,
+        "episode_number": 5,
         "image_path": "/episode/18.webp",
         "name": "Dancin' Homer",
         "season": 2,
@@ -164,7 +164,7 @@
     {
         "id": 19,
         "airdate": "1990-11-15",
-        "episode_number": 19,
+        "episode_number": 6,
         "image_path": "/episode/19.webp",
         "name": "Dead Putting Society",
         "season": 2,
@@ -173,7 +173,7 @@
     {
         "id": 20,
         "airdate": "1990-11-22",
-        "episode_number": 20,
+        "episode_number": 7,
         "image_path": "/episode/20.webp",
         "name": "Bart vs. Thanksgiving",
         "season": 2,
@@ -182,7 +182,7 @@
     {
         "id": 21,
         "airdate": "1990-12-06",
-        "episode_number": 21,
+        "episode_number": 8,
         "image_path": "/episode/21.webp",
         "name": "Bart the Daredevil",
         "season": 2,
@@ -191,7 +191,7 @@
     {
         "id": 22,
         "airdate": "1990-12-20",
-        "episode_number": 22,
+        "episode_number": 9,
         "image_path": "/episode/22.webp",
         "name": "Itchy & Scratchy & Marge",
         "season": 2,
@@ -200,7 +200,7 @@
     {
         "id": 23,
         "airdate": "1991-01-10",
-        "episode_number": 23,
+        "episode_number": 10,
         "image_path": "/episode/23.webp",
         "name": "Bart Gets Hit by a Car",
         "season": 2,
@@ -209,7 +209,7 @@
     {
         "id": 24,
         "airdate": "1991-01-24",
-        "episode_number": 24,
+        "episode_number": 11,
         "image_path": "/episode/24.webp",
         "name": "One Fish, Two Fish, Blowfish, Blue Fish",
         "season": 2,
@@ -218,7 +218,7 @@
     {
         "id": 25,
         "airdate": "1991-01-31",
-        "episode_number": 25,
+        "episode_number": 12,
         "image_path": "/episode/25.webp",
         "name": "The Way We Was",
         "season": 2,
@@ -227,7 +227,7 @@
     {
         "id": 26,
         "airdate": "1991-02-07",
-        "episode_number": 26,
+        "episode_number": 13,
         "image_path": "/episode/26.webp",
         "name": "Homer vs. Lisa and the 8th Commandment",
         "season": 2,
@@ -236,7 +236,7 @@
     {
         "id": 27,
         "airdate": "1991-02-14",
-        "episode_number": 27,
+        "episode_number": 14,
         "image_path": "/episode/27.webp",
         "name": "Principal Charming",
         "season": 2,
@@ -245,7 +245,7 @@
     {
         "id": 28,
         "airdate": "1991-02-21",
-        "episode_number": 28,
+        "episode_number": 15,
         "image_path": "/episode/28.webp",
         "name": "Oh Brother, Where Art Thou?",
         "season": 2,
@@ -254,7 +254,7 @@
     {
         "id": 29,
         "airdate": "1991-03-07",
-        "episode_number": 29,
+        "episode_number": 16,
         "image_path": "/episode/29.webp",
         "name": "Bart's Dog Gets an F",
         "season": 2,
@@ -263,7 +263,7 @@
     {
         "id": 30,
         "airdate": "1991-03-28",
-        "episode_number": 30,
+        "episode_number": 17,
         "image_path": "/episode/30.webp",
         "name": "Old Money",
         "season": 2,
@@ -272,7 +272,7 @@
     {
         "id": 31,
         "airdate": "1991-04-11",
-        "episode_number": 31,
+        "episode_number": 18,
         "image_path": "/episode/31.webp",
         "name": "Brush with Greatness",
         "season": 2,
@@ -281,7 +281,7 @@
     {
         "id": 32,
         "airdate": "1991-04-25",
-        "episode_number": 32,
+        "episode_number": 19,
         "image_path": "/episode/32.webp",
         "name": "Lisa's Substitute",
         "season": 2,
@@ -290,7 +290,7 @@
     {
         "id": 33,
         "airdate": "1991-05-02",
-        "episode_number": 33,
+        "episode_number": 20,
         "image_path": "/episode/33.webp",
         "name": "The War of the Simpsons",
         "season": 2,
@@ -299,7 +299,7 @@
     {
         "id": 34,
         "airdate": "1991-05-09",
-        "episode_number": 34,
+        "episode_number": 21,
         "image_path": "/episode/34.webp",
         "name": "Three Men and a Comic Book",
         "season": 2,
@@ -308,7 +308,7 @@
     {
         "id": 35,
         "airdate": "1991-07-11",
-        "episode_number": 35,
+        "episode_number": 22,
         "image_path": "/episode/35.webp",
         "name": "Blood Feud",
         "season": 2,
@@ -317,7 +317,7 @@
     {
         "id": 36,
         "airdate": "1991-09-19",
-        "episode_number": 36,
+        "episode_number": 1,
         "image_path": "/episode/36.webp",
         "name": "Stark Raving Dad",
         "season": 3,
@@ -326,7 +326,7 @@
     {
         "id": 37,
         "airdate": "1991-09-26",
-        "episode_number": 37,
+        "episode_number": 2,
         "image_path": "/episode/37.webp",
         "name": "Mr. Lisa Goes to Washington",
         "season": 3,
@@ -335,7 +335,7 @@
     {
         "id": 38,
         "airdate": "1991-10-03",
-        "episode_number": 38,
+        "episode_number": 3,
         "image_path": "/episode/38.webp",
         "name": "When Flanders Failed",
         "season": 3,
@@ -344,7 +344,7 @@
     {
         "id": 39,
         "airdate": "1991-10-10",
-        "episode_number": 39,
+        "episode_number": 4,
         "image_path": "/episode/39.webp",
         "name": "Bart the Murderer",
         "season": 3,
@@ -353,7 +353,7 @@
     {
         "id": 40,
         "airdate": "1991-10-17",
-        "episode_number": 40,
+        "episode_number": 5,
         "image_path": "/episode/40.webp",
         "name": "Homer Defined",
         "season": 3,
@@ -362,7 +362,7 @@
     {
         "id": 41,
         "airdate": "1991-10-24",
-        "episode_number": 41,
+        "episode_number": 6,
         "image_path": "/episode/41.webp",
         "name": "Like Father, Like Clown",
         "season": 3,
@@ -371,7 +371,7 @@
     {
         "id": 42,
         "airdate": "1991-10-31",
-        "episode_number": 42,
+        "episode_number": 7,
         "image_path": "/episode/42.webp",
         "name": "Treehouse of Horror II",
         "season": 3,
@@ -380,7 +380,7 @@
     {
         "id": 43,
         "airdate": "1991-11-07",
-        "episode_number": 43,
+        "episode_number": 8,
         "image_path": "/episode/43.webp",
         "name": "Lisa's Pony",
         "season": 3,
@@ -389,7 +389,7 @@
     {
         "id": 44,
         "airdate": "1991-11-15",
-        "episode_number": 44,
+        "episode_number": 9,
         "image_path": "/episode/44.webp",
         "name": "Saturdays of Thunder",
         "season": 3,
@@ -398,7 +398,7 @@
     {
         "id": 45,
         "airdate": "1991-11-21",
-        "episode_number": 45,
+        "episode_number": 10,
         "image_path": "/episode/45.webp",
         "name": "Flaming Moe's",
         "season": 3,
@@ -407,7 +407,7 @@
     {
         "id": 46,
         "airdate": "1991-12-05",
-        "episode_number": 46,
+        "episode_number": 11,
         "image_path": "/episode/46.webp",
         "name": "Burns Verkaufen der Kraftwerk (Burns to Sell the Power Plant)",
         "season": 3,
@@ -416,7 +416,7 @@
     {
         "id": 47,
         "airdate": "1991-12-26",
-        "episode_number": 47,
+        "episode_number": 12,
         "image_path": "/episode/47.webp",
         "name": "I Married Marge",
         "season": 3,
@@ -425,7 +425,7 @@
     {
         "id": 48,
         "airdate": "1992-01-09",
-        "episode_number": 48,
+        "episode_number": 13,
         "image_path": "/episode/48.webp",
         "name": "Radio Bart",
         "season": 3,
@@ -434,7 +434,7 @@
     {
         "id": 49,
         "airdate": "1992-01-24",
-        "episode_number": 49,
+        "episode_number": 14,
         "image_path": "/episode/49.webp",
         "name": "Lisa the Greek",
         "season": 3,
@@ -443,7 +443,7 @@
     {
         "id": 50,
         "airdate": "1992-02-06",
-        "episode_number": 50,
+        "episode_number": 15,
         "image_path": "/episode/50.webp",
         "name": "Homer Alone",
         "season": 3,
@@ -452,7 +452,7 @@
     {
         "id": 51,
         "airdate": "1992-02-13",
-        "episode_number": 51,
+        "episode_number": 16,
         "image_path": "/episode/51.webp",
         "name": "Bart the Lover",
         "season": 3,
@@ -461,7 +461,7 @@
     {
         "id": 52,
         "airdate": "1992-02-20",
-        "episode_number": 52,
+        "episode_number": 17,
         "image_path": "/episode/52.webp",
         "name": "Homer at the Bat",
         "season": 3,
@@ -470,7 +470,7 @@
     {
         "id": 53,
         "airdate": "1992-02-27",
-        "episode_number": 53,
+        "episode_number": 18,
         "image_path": "/episode/53.webp",
         "name": "Separate Vocations",
         "season": 3,
@@ -479,7 +479,7 @@
     {
         "id": 54,
         "airdate": "1992-03-12",
-        "episode_number": 54,
+        "episode_number": 19,
         "image_path": "/episode/54.webp",
         "name": "Dog of Death",
         "season": 3,
@@ -488,7 +488,7 @@
     {
         "id": 55,
         "airdate": "1992-03-26",
-        "episode_number": 55,
+        "episode_number": 20,
         "image_path": "/episode/55.webp",
         "name": "Colonel Homer",
         "season": 3,
@@ -497,7 +497,7 @@
     {
         "id": 56,
         "airdate": "1992-04-09",
-        "episode_number": 56,
+        "episode_number": 21,
         "image_path": "/episode/56.webp",
         "name": "Black Widower",
         "season": 3,
@@ -506,7 +506,7 @@
     {
         "id": 57,
         "airdate": "1992-04-23",
-        "episode_number": 57,
+        "episode_number": 22,
         "image_path": "/episode/57.webp",
         "name": "The Otto Show",
         "season": 3,
@@ -515,7 +515,7 @@
     {
         "id": 58,
         "airdate": "1992-05-07",
-        "episode_number": 58,
+        "episode_number": 23,
         "image_path": "/episode/58.webp",
         "name": "Bart's Friend Falls in Love",
         "season": 3,
@@ -524,7 +524,7 @@
     {
         "id": 59,
         "airdate": "1992-08-27",
-        "episode_number": 59,
+        "episode_number": 24,
         "image_path": "/episode/59.webp",
         "name": "Brother, Can You Spare Two Dimes?",
         "season": 3,
@@ -533,7 +533,7 @@
     {
         "id": 60,
         "airdate": "1992-09-24",
-        "episode_number": 60,
+        "episode_number": 1,
         "image_path": "/episode/60.webp",
         "name": "Kamp Krusty",
         "season": 4,
@@ -542,7 +542,7 @@
     {
         "id": 61,
         "airdate": "1992-10-01",
-        "episode_number": 61,
+        "episode_number": 2,
         "image_path": "/episode/61.webp",
         "name": "A Streetcar Named Marge",
         "season": 4,
@@ -551,7 +551,7 @@
     {
         "id": 62,
         "airdate": "1992-10-08",
-        "episode_number": 62,
+        "episode_number": 3,
         "image_path": "/episode/62.webp",
         "name": "Homer the Heretic",
         "season": 4,
@@ -560,7 +560,7 @@
     {
         "id": 63,
         "airdate": "1992-10-15",
-        "episode_number": 63,
+        "episode_number": 4,
         "image_path": "/episode/63.webp",
         "name": "Lisa the Beauty Queen",
         "season": 4,
@@ -569,7 +569,7 @@
     {
         "id": 64,
         "airdate": "1992-10-29",
-        "episode_number": 64,
+        "episode_number": 5,
         "image_path": "/episode/64.webp",
         "name": "Treehouse of Horror III",
         "season": 4,
@@ -578,7 +578,7 @@
     {
         "id": 65,
         "airdate": "1992-11-03",
-        "episode_number": 65,
+        "episode_number": 6,
         "image_path": "/episode/65.webp",
         "name": "Itchy & Scratchy: The Movie",
         "season": 4,
@@ -587,7 +587,7 @@
     {
         "id": 66,
         "airdate": "1992-11-05",
-        "episode_number": 66,
+        "episode_number": 7,
         "image_path": "/episode/66.webp",
         "name": "Marge Gets a Job",
         "season": 4,
@@ -596,7 +596,7 @@
     {
         "id": 67,
         "airdate": "1992-11-12",
-        "episode_number": 67,
+        "episode_number": 8,
         "image_path": "/episode/67.webp",
         "name": "New Kid on the Block",
         "season": 4,
@@ -605,7 +605,7 @@
     {
         "id": 68,
         "airdate": "1992-11-19",
-        "episode_number": 68,
+        "episode_number": 9,
         "image_path": "/episode/68.webp",
         "name": "Mr. Plow",
         "season": 4,
@@ -614,7 +614,7 @@
     {
         "id": 69,
         "airdate": "1992-12-03",
-        "episode_number": 69,
+        "episode_number": 10,
         "image_path": "/episode/69.webp",
         "name": "Lisa's First Word",
         "season": 4,
@@ -623,7 +623,7 @@
     {
         "id": 70,
         "airdate": "1992-12-17",
-        "episode_number": 70,
+        "episode_number": 11,
         "image_path": "/episode/70.webp",
         "name": "Homer's Triple Bypass",
         "season": 4,
@@ -632,7 +632,7 @@
     {
         "id": 71,
         "airdate": "1993-01-14",
-        "episode_number": 71,
+        "episode_number": 12,
         "image_path": "/episode/71.webp",
         "name": "Marge vs. the Monorail",
         "season": 4,
@@ -641,7 +641,7 @@
     {
         "id": 72,
         "airdate": "1993-01-21",
-        "episode_number": 72,
+        "episode_number": 13,
         "image_path": "/episode/72.webp",
         "name": "Selma's Choice",
         "season": 4,
@@ -650,7 +650,7 @@
     {
         "id": 73,
         "airdate": "1993-02-04",
-        "episode_number": 73,
+        "episode_number": 14,
         "image_path": "/episode/73.webp",
         "name": "Brother from the Same Planet",
         "season": 4,
@@ -659,7 +659,7 @@
     {
         "id": 74,
         "airdate": "1993-02-11",
-        "episode_number": 74,
+        "episode_number": 15,
         "image_path": "/episode/74.webp",
         "name": "I Love Lisa",
         "season": 4,
@@ -668,7 +668,7 @@
     {
         "id": 75,
         "airdate": "1993-02-18",
-        "episode_number": 75,
+        "episode_number": 16,
         "image_path": "/episode/75.webp",
         "name": "Duffless",
         "season": 4,
@@ -677,7 +677,7 @@
     {
         "id": 76,
         "airdate": "1993-03-11",
-        "episode_number": 76,
+        "episode_number": 17,
         "image_path": "/episode/76.webp",
         "name": "Last Exit to Springfield",
         "season": 4,
@@ -686,7 +686,7 @@
     {
         "id": 77,
         "airdate": "1993-04-01",
-        "episode_number": 77,
+        "episode_number": 18,
         "image_path": "/episode/77.webp",
         "name": "So It's Come to This: A Simpsons Clip Show",
         "season": 4,
@@ -695,7 +695,7 @@
     {
         "id": 78,
         "airdate": "1993-04-15",
-        "episode_number": 78,
+        "episode_number": 19,
         "image_path": "/episode/78.webp",
         "name": "The Front",
         "season": 4,
@@ -704,7 +704,7 @@
     {
         "id": 79,
         "airdate": "1993-04-29",
-        "episode_number": 79,
+        "episode_number": 20,
         "image_path": "/episode/79.webp",
         "name": "Whacking Day",
         "season": 4,
@@ -713,7 +713,7 @@
     {
         "id": 80,
         "airdate": "1993-05-06",
-        "episode_number": 80,
+        "episode_number": 21,
         "image_path": "/episode/80.webp",
         "name": "Marge in Chains",
         "season": 4,
@@ -722,7 +722,7 @@
     {
         "id": 81,
         "airdate": "1993-05-13",
-        "episode_number": 81,
+        "episode_number": 22,
         "image_path": "/episode/81.webp",
         "name": "Krusty Gets Kancelled",
         "season": 4,
@@ -731,7 +731,7 @@
     {
         "id": 82,
         "airdate": "1993-09-30",
-        "episode_number": 82,
+        "episode_number": 1,
         "image_path": "/episode/82.webp",
         "name": "Homer's Barbershop Quartet",
         "season": 5,
@@ -740,7 +740,7 @@
     {
         "id": 83,
         "airdate": "",
-        "episode_number": 83,
+        "episode_number": 2,
         "image_path": "/episode/83.webp",
         "name": "Cape Feare",
         "season": 5,
@@ -749,7 +749,7 @@
     {
         "id": 84,
         "airdate": "1993-10-14",
-        "episode_number": 84,
+        "episode_number": 3,
         "image_path": "/episode/84.webp",
         "name": "Homer Goes to College",
         "season": 5,
@@ -758,7 +758,7 @@
     {
         "id": 85,
         "airdate": "1993-10-21",
-        "episode_number": 85,
+        "episode_number": 4,
         "image_path": "/episode/85.webp",
         "name": "Rosebud",
         "season": 5,
@@ -767,7 +767,7 @@
     {
         "id": 86,
         "airdate": "1993-10-28",
-        "episode_number": 86,
+        "episode_number": 5,
         "image_path": "/episode/86.webp",
         "name": "Treehouse of Horror IV",
         "season": 5,
@@ -776,7 +776,7 @@
     {
         "id": 87,
         "airdate": "1993-11-04",
-        "episode_number": 87,
+        "episode_number": 6,
         "image_path": "/episode/87.webp",
         "name": "Marge on the Lam",
         "season": 5,
@@ -785,7 +785,7 @@
     {
         "id": 88,
         "airdate": "1993-11-11",
-        "episode_number": 88,
+        "episode_number": 7,
         "image_path": "/episode/88.webp",
         "name": "Bart's Inner Child",
         "season": 5,
@@ -794,7 +794,7 @@
     {
         "id": 89,
         "airdate": "1993-11-19",
-        "episode_number": 89,
+        "episode_number": 8,
         "image_path": "/episode/89.webp",
         "name": "Boy-Scoutz 'n the Hood",
         "season": 5,
@@ -803,7 +803,7 @@
     {
         "id": 90,
         "airdate": "1993-12-09",
-        "episode_number": 90,
+        "episode_number": 9,
         "image_path": "/episode/90.webp",
         "name": "The Last Temptation of Homer",
         "season": 5,
@@ -812,7 +812,7 @@
     {
         "id": 91,
         "airdate": "1993-12-16",
-        "episode_number": 91,
+        "episode_number": 10,
         "image_path": "/episode/91.webp",
         "name": "$pringfield (Or, How I Learned to Stop Worrying and Love Legalized Gambling)",
         "season": 5,
@@ -821,7 +821,7 @@
     {
         "id": 92,
         "airdate": "1994-01-06",
-        "episode_number": 92,
+        "episode_number": 11,
         "image_path": "/episode/92.webp",
         "name": "Homer the Vigilante",
         "season": 5,
@@ -830,7 +830,7 @@
     {
         "id": 93,
         "airdate": "1994-02-03",
-        "episode_number": 93,
+        "episode_number": 12,
         "image_path": "/episode/93.webp",
         "name": "Bart Gets Famous",
         "season": 5,
@@ -839,7 +839,7 @@
     {
         "id": 94,
         "airdate": "1994-02-10",
-        "episode_number": 94,
+        "episode_number": 13,
         "image_path": "/episode/94.webp",
         "name": "Homer and Apu",
         "season": 5,
@@ -848,7 +848,7 @@
     {
         "id": 95,
         "airdate": "1994-02-17",
-        "episode_number": 95,
+        "episode_number": 14,
         "image_path": "/episode/95.webp",
         "name": "Lisa vs. Malibu Stacy",
         "season": 5,
@@ -857,7 +857,7 @@
     {
         "id": 96,
         "airdate": "1994-02-24",
-        "episode_number": 96,
+        "episode_number": 15,
         "image_path": "/episode/96.webp",
         "name": "Deep Space Homer",
         "season": 5,
@@ -866,7 +866,7 @@
     {
         "id": 97,
         "airdate": "1994-03-17",
-        "episode_number": 97,
+        "episode_number": 16,
         "image_path": "/episode/97.webp",
         "name": "Homer Loves Flanders",
         "season": 5,
@@ -875,7 +875,7 @@
     {
         "id": 98,
         "airdate": "1994-03-31",
-        "episode_number": 98,
+        "episode_number": 17,
         "image_path": "/episode/98.webp",
         "name": "Bart Gets an Elephant",
         "season": 5,
@@ -884,7 +884,7 @@
     {
         "id": 99,
         "airdate": "1994-04-14",
-        "episode_number": 99,
+        "episode_number": 18,
         "image_path": "/episode/99.webp",
         "name": "Burns' Heir",
         "season": 5,
@@ -893,7 +893,7 @@
     {
         "id": 100,
         "airdate": "1994-04-28",
-        "episode_number": 100,
+        "episode_number": 19,
         "image_path": "/episode/100.webp",
         "name": "Sweet Seymour Skinner's Baadasssss Song",
         "season": 5,
@@ -902,7 +902,7 @@
     {
         "id": 101,
         "airdate": "1994-05-05",
-        "episode_number": 101,
+        "episode_number": 20,
         "image_path": "/episode/101.webp",
         "name": "The Boy Who Knew Too Much",
         "season": 5,
@@ -911,7 +911,7 @@
     {
         "id": 102,
         "airdate": "1994-05-12",
-        "episode_number": 102,
+        "episode_number": 21,
         "image_path": "/episode/102.webp",
         "name": "Lady Bouvier's Lover",
         "season": 5,
@@ -920,7 +920,7 @@
     {
         "id": 103,
         "airdate": "1994-05-19",
-        "episode_number": 103,
+        "episode_number": 22,
         "image_path": "/episode/103.webp",
         "name": "Secrets of a Successful Marriage",
         "season": 5,
@@ -929,7 +929,7 @@
     {
         "id": 104,
         "airdate": "1994-09-04",
-        "episode_number": 104,
+        "episode_number": 1,
         "image_path": "/episode/104.webp",
         "name": "Bart of Darkness",
         "season": 6,
@@ -938,7 +938,7 @@
     {
         "id": 105,
         "airdate": "1994-09-11",
-        "episode_number": 105,
+        "episode_number": 2,
         "image_path": "/episode/105.webp",
         "name": "Lisa's Rival",
         "season": 6,
@@ -947,7 +947,7 @@
     {
         "id": 106,
         "airdate": "1994-09-25",
-        "episode_number": 106,
+        "episode_number": 3,
         "image_path": "/episode/106.webp",
         "name": "Another Simpsons Clip Show",
         "season": 6,
@@ -956,7 +956,7 @@
     {
         "id": 107,
         "airdate": "1994-10-02",
-        "episode_number": 107,
+        "episode_number": 4,
         "image_path": "/episode/107.webp",
         "name": "Itchy & Scratchy Land",
         "season": 6,
@@ -965,7 +965,7 @@
     {
         "id": 108,
         "airdate": "1994-10-09",
-        "episode_number": 108,
+        "episode_number": 5,
         "image_path": "/episode/108.webp",
         "name": "Sideshow Bob Roberts",
         "season": 6,
@@ -974,7 +974,7 @@
     {
         "id": 109,
         "airdate": "1994-10-30",
-        "episode_number": 109,
+        "episode_number": 6,
         "image_path": "/episode/109.webp",
         "name": "Treehouse of Horror V",
         "season": 6,
@@ -983,7 +983,7 @@
     {
         "id": 110,
         "airdate": "1994-11-06",
-        "episode_number": 110,
+        "episode_number": 7,
         "image_path": "/episode/110.webp",
         "name": "Bart's Girlfriend",
         "season": 6,
@@ -992,7 +992,7 @@
     {
         "id": 111,
         "airdate": "1994-11-13",
-        "episode_number": 111,
+        "episode_number": 8,
         "image_path": "/episode/111.webp",
         "name": "Lisa on Ice",
         "season": 6,
@@ -1001,7 +1001,7 @@
     {
         "id": 112,
         "airdate": "1994-11-27",
-        "episode_number": 112,
+        "episode_number": 9,
         "image_path": "/episode/112.webp",
         "name": "Homer Badman",
         "season": 6,
@@ -1010,7 +1010,7 @@
     {
         "id": 113,
         "airdate": "1994-12-04",
-        "episode_number": 113,
+        "episode_number": 10,
         "image_path": "/episode/113.webp",
         "name": "Grampa vs. Sexual Inadequacy",
         "season": 6,
@@ -1019,7 +1019,7 @@
     {
         "id": 114,
         "airdate": "1994-12-18",
-        "episode_number": 114,
+        "episode_number": 11,
         "image_path": "/episode/114.webp",
         "name": "Fear of Flying",
         "season": 6,
@@ -1028,7 +1028,7 @@
     {
         "id": 115,
         "airdate": "1995-01-08",
-        "episode_number": 115,
+        "episode_number": 12,
         "image_path": "/episode/115.webp",
         "name": "Homer the Great",
         "season": 6,
@@ -1037,7 +1037,7 @@
     {
         "id": 116,
         "airdate": "1995-01-22",
-        "episode_number": 116,
+        "episode_number": 13,
         "image_path": "/episode/116.webp",
         "name": "And Maggie Makes Three",
         "season": 6,
@@ -1046,7 +1046,7 @@
     {
         "id": 117,
         "airdate": "1995-02-05",
-        "episode_number": 117,
+        "episode_number": 14,
         "image_path": "/episode/117.webp",
         "name": "Bart's Comet",
         "season": 6,
@@ -1055,7 +1055,7 @@
     {
         "id": 118,
         "airdate": "1995-02-12",
-        "episode_number": 118,
+        "episode_number": 15,
         "image_path": "/episode/118.webp",
         "name": "Homie the Clown",
         "season": 6,
@@ -1064,7 +1064,7 @@
     {
         "id": 119,
         "airdate": "1995-02-19",
-        "episode_number": 119,
+        "episode_number": 16,
         "image_path": "/episode/119.webp",
         "name": "Bart vs. Australia",
         "season": 6,
@@ -1073,7 +1073,7 @@
     {
         "id": 120,
         "airdate": "1995-02-26",
-        "episode_number": 120,
+        "episode_number": 17,
         "image_path": "/episode/120.webp",
         "name": "Homer vs. Patty and Selma",
         "season": 6,
@@ -1082,7 +1082,7 @@
     {
         "id": 121,
         "airdate": "1995-03-05",
-        "episode_number": 121,
+        "episode_number": 18,
         "image_path": "/episode/121.webp",
         "name": "A Star is Burns",
         "season": 6,
@@ -1091,7 +1091,7 @@
     {
         "id": 122,
         "airdate": "1995-03-19",
-        "episode_number": 122,
+        "episode_number": 19,
         "image_path": "/episode/122.webp",
         "name": "Lisa's Wedding",
         "season": 6,
@@ -1100,7 +1100,7 @@
     {
         "id": 123,
         "airdate": "1995-04-09",
-        "episode_number": 123,
+        "episode_number": 20,
         "image_path": "/episode/123.webp",
         "name": "Two Dozen and One Greyhounds",
         "season": 6,
@@ -1109,7 +1109,7 @@
     {
         "id": 124,
         "airdate": "1995-04-16",
-        "episode_number": 124,
+        "episode_number": 21,
         "image_path": "/episode/124.webp",
         "name": "The PTA Disbands",
         "season": 6,
@@ -1118,7 +1118,7 @@
     {
         "id": 125,
         "airdate": "1995-04-30",
-        "episode_number": 125,
+        "episode_number": 22,
         "image_path": "/episode/125.webp",
         "name": "'Round Springfield",
         "season": 6,
@@ -1127,7 +1127,7 @@
     {
         "id": 126,
         "airdate": "1995-05-07",
-        "episode_number": 126,
+        "episode_number": 23,
         "image_path": "/episode/126.webp",
         "name": "The Springfield Connection",
         "season": 6,
@@ -1136,7 +1136,7 @@
     {
         "id": 127,
         "airdate": "1995-05-14",
-        "episode_number": 127,
+        "episode_number": 24,
         "image_path": "/episode/127.webp",
         "name": "Lemon of Troy",
         "season": 6,
@@ -1145,7 +1145,7 @@
     {
         "id": 128,
         "airdate": "1995-05-21",
-        "episode_number": 128,
+        "episode_number": 25,
         "image_path": "/episode/128.webp",
         "name": "Who Shot Mr. Burns? (Part One)",
         "season": 6,
@@ -1154,7 +1154,7 @@
     {
         "id": 129,
         "airdate": "1995-09-17",
-        "episode_number": 129,
+        "episode_number": 1,
         "image_path": "/episode/129.webp",
         "name": "Who Shot Mr. Burns? (Part Two)",
         "season": 7,
@@ -1163,7 +1163,7 @@
     {
         "id": 130,
         "airdate": "1995-09-24",
-        "episode_number": 130,
+        "episode_number": 2,
         "image_path": "/episode/130.webp",
         "name": "Radioactive Man",
         "season": 7,
@@ -1172,7 +1172,7 @@
     {
         "id": 131,
         "airdate": "1995-10-01",
-        "episode_number": 131,
+        "episode_number": 3,
         "image_path": "/episode/131.webp",
         "name": "Home Sweet Homediddly-Dum-Doodily",
         "season": 7,
@@ -1181,7 +1181,7 @@
     {
         "id": 132,
         "airdate": "1995-10-08",
-        "episode_number": 132,
+        "episode_number": 4,
         "image_path": "/episode/132.webp",
         "name": "Bart Sells His Soul",
         "season": 7,
@@ -1190,7 +1190,7 @@
     {
         "id": 133,
         "airdate": "1995-10-15",
-        "episode_number": 133,
+        "episode_number": 5,
         "image_path": "/episode/133.webp",
         "name": "Lisa the Vegetarian",
         "season": 7,
@@ -1199,7 +1199,7 @@
     {
         "id": 134,
         "airdate": "1995-10-29",
-        "episode_number": 134,
+        "episode_number": 6,
         "image_path": "/episode/134.webp",
         "name": "Treehouse of Horror VI",
         "season": 7,
@@ -1208,7 +1208,7 @@
     {
         "id": 135,
         "airdate": "1995-11-05",
-        "episode_number": 135,
+        "episode_number": 7,
         "image_path": "/episode/135.webp",
         "name": "King-Size Homer",
         "season": 7,
@@ -1217,7 +1217,7 @@
     {
         "id": 136,
         "airdate": "1995-11-19",
-        "episode_number": 136,
+        "episode_number": 8,
         "image_path": "/episode/136.webp",
         "name": "Mother Simpson",
         "season": 7,
@@ -1226,7 +1226,7 @@
     {
         "id": 137,
         "airdate": "1995-11-26",
-        "episode_number": 137,
+        "episode_number": 9,
         "image_path": "/episode/137.webp",
         "name": "Sideshow Bob's Last Gleaming",
         "season": 7,
@@ -1235,7 +1235,7 @@
     {
         "id": 138,
         "airdate": "1995-12-03",
-        "episode_number": 138,
+        "episode_number": 10,
         "image_path": "/episode/138.webp",
         "name": "The Simpsons 138th Episode Spectacular",
         "season": 7,
@@ -1244,7 +1244,7 @@
     {
         "id": 139,
         "airdate": "1995-12-17",
-        "episode_number": 139,
+        "episode_number": 11,
         "image_path": "/episode/139.webp",
         "name": "Marge Be Not Proud",
         "season": 7,
@@ -1253,7 +1253,7 @@
     {
         "id": 140,
         "airdate": "1996-01-07",
-        "episode_number": 140,
+        "episode_number": 12,
         "image_path": "/episode/140.webp",
         "name": "Team Homer",
         "season": 7,
@@ -1262,7 +1262,7 @@
     {
         "id": 141,
         "airdate": "1996-01-14",
-        "episode_number": 141,
+        "episode_number": 13,
         "image_path": "/episode/141.webp",
         "name": "Two Bad Neighbors",
         "season": 7,
@@ -1271,7 +1271,7 @@
     {
         "id": 142,
         "airdate": "1996-02-04",
-        "episode_number": 142,
+        "episode_number": 14,
         "image_path": "/episode/142.webp",
         "name": "Scenes from the Class Struggle in Springfield",
         "season": 7,
@@ -1280,7 +1280,7 @@
     {
         "id": 143,
         "airdate": "1996-02-11",
-        "episode_number": 143,
+        "episode_number": 15,
         "image_path": "/episode/143.webp",
         "name": "Bart the Fink",
         "season": 7,
@@ -1289,7 +1289,7 @@
     {
         "id": 144,
         "airdate": "1996-02-18",
-        "episode_number": 144,
+        "episode_number": 16,
         "image_path": "/episode/144.webp",
         "name": "Lisa the Iconoclast",
         "season": 7,
@@ -1298,7 +1298,7 @@
     {
         "id": 145,
         "airdate": "1996-02-25",
-        "episode_number": 145,
+        "episode_number": 17,
         "image_path": "/episode/145.webp",
         "name": "Homer the Smithers",
         "season": 7,
@@ -1307,7 +1307,7 @@
     {
         "id": 146,
         "airdate": "1996-03-17",
-        "episode_number": 146,
+        "episode_number": 18,
         "image_path": "/episode/146.webp",
         "name": "The Day the Violence Died",
         "season": 7,
@@ -1316,7 +1316,7 @@
     {
         "id": 147,
         "airdate": "1996-03-24",
-        "episode_number": 147,
+        "episode_number": 19,
         "image_path": "/episode/147.webp",
         "name": "A Fish Called Selma",
         "season": 7,
@@ -1325,7 +1325,7 @@
     {
         "id": 148,
         "airdate": "1996-03-31",
-        "episode_number": 148,
+        "episode_number": 20,
         "image_path": "/episode/148.webp",
         "name": "Bart on the Road",
         "season": 7,
@@ -1334,7 +1334,7 @@
     {
         "id": 149,
         "airdate": "1996-04-14",
-        "episode_number": 149,
+        "episode_number": 21,
         "image_path": "/episode/149.webp",
         "name": "22 Short Films About Springfield",
         "season": 7,
@@ -1343,7 +1343,7 @@
     {
         "id": 150,
         "airdate": "1996-04-28",
-        "episode_number": 150,
+        "episode_number": 22,
         "image_path": "/episode/150.webp",
         "name": "Raging Abe Simpson and His Grumbling Grandson in \"The Curse of the Flying Hellfish\"",
         "season": 7,
@@ -1352,7 +1352,7 @@
     {
         "id": 151,
         "airdate": "1996-05-05",
-        "episode_number": 151,
+        "episode_number": 23,
         "image_path": "/episode/151.webp",
         "name": "Much Apu About Nothing",
         "season": 7,
@@ -1361,7 +1361,7 @@
     {
         "id": 152,
         "airdate": "1996-05-19",
-        "episode_number": 152,
+        "episode_number": 24,
         "image_path": "/episode/152.webp",
         "name": "Homerpalooza",
         "season": 7,
@@ -1370,7 +1370,7 @@
     {
         "id": 153,
         "airdate": "1996-05-19",
-        "episode_number": 153,
+        "episode_number": 25,
         "image_path": "/episode/153.webp",
         "name": "Summer of 4 Ft. 2",
         "season": 7,
@@ -1379,7 +1379,7 @@
     {
         "id": 154,
         "airdate": "1996-10-27",
-        "episode_number": 154,
+        "episode_number": 1,
         "image_path": "/episode/154.webp",
         "name": "Treehouse of Horror VII",
         "season": 8,
@@ -1388,7 +1388,7 @@
     {
         "id": 155,
         "airdate": "1996-11-03",
-        "episode_number": 155,
+        "episode_number": 2,
         "image_path": "/episode/155.webp",
         "name": "You Only Move Twice",
         "season": 8,
@@ -1397,7 +1397,7 @@
     {
         "id": 156,
         "airdate": "1996-11-10",
-        "episode_number": 156,
+        "episode_number": 3,
         "image_path": "/episode/156.webp",
         "name": "The Homer They Fall",
         "season": 8,
@@ -1406,7 +1406,7 @@
     {
         "id": 157,
         "airdate": "1996-11-17",
-        "episode_number": 157,
+        "episode_number": 4,
         "image_path": "/episode/157.webp",
         "name": "Burns, Baby Burns",
         "season": 8,
@@ -1415,7 +1415,7 @@
     {
         "id": 158,
         "airdate": "1996-11-24",
-        "episode_number": 158,
+        "episode_number": 5,
         "image_path": "/episode/158.webp",
         "name": "Bart After Dark",
         "season": 8,
@@ -1424,7 +1424,7 @@
     {
         "id": 159,
         "airdate": "1996-12-01",
-        "episode_number": 159,
+        "episode_number": 6,
         "image_path": "/episode/159.webp",
         "name": "A Milhouse Divided",
         "season": 8,
@@ -1433,7 +1433,7 @@
     {
         "id": 160,
         "airdate": "1996-12-15",
-        "episode_number": 160,
+        "episode_number": 7,
         "image_path": "/episode/160.webp",
         "name": "Lisa's Date with Density",
         "season": 8,
@@ -1442,7 +1442,7 @@
     {
         "id": 161,
         "airdate": "1996-12-29",
-        "episode_number": 161,
+        "episode_number": 8,
         "image_path": "/episode/161.webp",
         "name": "Hurricane Neddy",
         "season": 8,
@@ -1451,7 +1451,7 @@
     {
         "id": 162,
         "airdate": "1997-01-05",
-        "episode_number": 162,
+        "episode_number": 9,
         "image_path": "/episode/162.webp",
         "name": "El Viaje Misterioso de Nuestro Jomer (The Mysterious Voyage of Homer)",
         "season": 8,
@@ -1460,7 +1460,7 @@
     {
         "id": 163,
         "airdate": "1997-01-12",
-        "episode_number": 163,
+        "episode_number": 10,
         "image_path": "/episode/163.webp",
         "name": "The Springfield Files",
         "season": 8,
@@ -1469,7 +1469,7 @@
     {
         "id": 164,
         "airdate": "1997-01-19",
-        "episode_number": 164,
+        "episode_number": 11,
         "image_path": "/episode/164.webp",
         "name": "The Twisted World of Marge Simpson",
         "season": 8,
@@ -1478,7 +1478,7 @@
     {
         "id": 165,
         "airdate": "1997-02-02",
-        "episode_number": 165,
+        "episode_number": 12,
         "image_path": "/episode/165.webp",
         "name": "Mountain of Madness",
         "season": 8,
@@ -1487,7 +1487,7 @@
     {
         "id": 166,
         "airdate": "1997-02-07",
-        "episode_number": 166,
+        "episode_number": 13,
         "image_path": "/episode/166.webp",
         "name": "Simpsoncalifragilisticexpiala(Annoyed Grunt)cious",
         "season": 8,
@@ -1496,7 +1496,7 @@
     {
         "id": 167,
         "airdate": "1997-02-09",
-        "episode_number": 167,
+        "episode_number": 14,
         "image_path": "/episode/167.webp",
         "name": "The Itchy & Scratchy & Poochie Show",
         "season": 8,
@@ -1505,7 +1505,7 @@
     {
         "id": 168,
         "airdate": "1997-02-16",
-        "episode_number": 168,
+        "episode_number": 15,
         "image_path": "/episode/168.webp",
         "name": "Homer's Phobia",
         "season": 8,
@@ -1514,7 +1514,7 @@
     {
         "id": 169,
         "airdate": "1997-02-23",
-        "episode_number": 169,
+        "episode_number": 16,
         "image_path": "/episode/169.webp",
         "name": "Brother from Another Series",
         "season": 8,
@@ -1523,7 +1523,7 @@
     {
         "id": 170,
         "airdate": "1997-03-02",
-        "episode_number": 170,
+        "episode_number": 17,
         "image_path": "/episode/170.webp",
         "name": "My Sister, My Sitter",
         "season": 8,
@@ -1532,7 +1532,7 @@
     {
         "id": 171,
         "airdate": "1997-03-16",
-        "episode_number": 171,
+        "episode_number": 18,
         "image_path": "/episode/171.webp",
         "name": "Homer vs. the Eighteenth Amendment",
         "season": 8,
@@ -1541,7 +1541,7 @@
     {
         "id": 172,
         "airdate": "1997-04-06",
-        "episode_number": 172,
+        "episode_number": 19,
         "image_path": "/episode/172.webp",
         "name": "Grade School Confidential",
         "season": 8,
@@ -1550,7 +1550,7 @@
     {
         "id": 173,
         "airdate": "1997-04-13",
-        "episode_number": 173,
+        "episode_number": 20,
         "image_path": "/episode/173.webp",
         "name": "The Canine Mutiny",
         "season": 8,
@@ -1559,7 +1559,7 @@
     {
         "id": 174,
         "airdate": "1997-04-20",
-        "episode_number": 174,
+        "episode_number": 21,
         "image_path": "/episode/174.webp",
         "name": "The Old Man and the Lisa",
         "season": 8,
@@ -1568,7 +1568,7 @@
     {
         "id": 175,
         "airdate": "1997-04-27",
-        "episode_number": 175,
+        "episode_number": 22,
         "image_path": "/episode/175.webp",
         "name": "In Marge We Trust",
         "season": 8,
@@ -1577,7 +1577,7 @@
     {
         "id": 176,
         "airdate": "1997-05-04",
-        "episode_number": 176,
+        "episode_number": 23,
         "image_path": "/episode/176.webp",
         "name": "Homer's Enemy",
         "season": 8,
@@ -1586,7 +1586,7 @@
     {
         "id": 177,
         "airdate": "1997-05-11",
-        "episode_number": 177,
+        "episode_number": 24,
         "image_path": "/episode/177.webp",
         "name": "The Simpsons Spin-Off Showcase",
         "season": 8,
@@ -1595,7 +1595,7 @@
     {
         "id": 178,
         "airdate": "1997-05-18",
-        "episode_number": 178,
+        "episode_number": 25,
         "image_path": "/episode/178.webp",
         "name": "The Secret War of Lisa Simpson",
         "season": 8,
@@ -1604,7 +1604,7 @@
     {
         "id": 179,
         "airdate": "1997-09-21",
-        "episode_number": 179,
+        "episode_number": 1,
         "image_path": "/episode/179.webp",
         "name": "The City of New York vs. Homer Simpson",
         "season": 9,
@@ -1613,7 +1613,7 @@
     {
         "id": 180,
         "airdate": "1997-09-28",
-        "episode_number": 180,
+        "episode_number": 2,
         "image_path": "/episode/180.webp",
         "name": "The Principal and the Pauper",
         "season": 9,
@@ -1622,7 +1622,7 @@
     {
         "id": 181,
         "airdate": "1997-10-19",
-        "episode_number": 181,
+        "episode_number": 3,
         "image_path": "/episode/181.webp",
         "name": "Lisa's Sax",
         "season": 9,
@@ -1631,7 +1631,7 @@
     {
         "id": 182,
         "airdate": "1997-10-26",
-        "episode_number": 182,
+        "episode_number": 4,
         "image_path": "/episode/182.webp",
         "name": "Treehouse of Horror VIII",
         "season": 9,
@@ -1640,7 +1640,7 @@
     {
         "id": 183,
         "airdate": "1997-11-02",
-        "episode_number": 183,
+        "episode_number": 5,
         "image_path": "/episode/183.webp",
         "name": "The Cartridge Family",
         "season": 9,
@@ -1649,7 +1649,7 @@
     {
         "id": 184,
         "airdate": "1997-11-09",
-        "episode_number": 184,
+        "episode_number": 6,
         "image_path": "/episode/184.webp",
         "name": "Bart Star",
         "season": 9,
@@ -1658,7 +1658,7 @@
     {
         "id": 185,
         "airdate": "1997-11-16",
-        "episode_number": 185,
+        "episode_number": 7,
         "image_path": "/episode/185.webp",
         "name": "The Two Mrs. Nahasapeemapetilons",
         "season": 9,
@@ -1667,7 +1667,7 @@
     {
         "id": 186,
         "airdate": "1997-11-23",
-        "episode_number": 186,
+        "episode_number": 8,
         "image_path": "/episode/186.webp",
         "name": "Lisa the Skeptic",
         "season": 9,
@@ -1676,7 +1676,7 @@
     {
         "id": 187,
         "airdate": "1997-12-07",
-        "episode_number": 187,
+        "episode_number": 9,
         "image_path": "/episode/187.webp",
         "name": "Realty Bites",
         "season": 9,
@@ -1685,7 +1685,7 @@
     {
         "id": 188,
         "airdate": "1997-12-21",
-        "episode_number": 188,
+        "episode_number": 10,
         "image_path": "/episode/188.webp",
         "name": "Miracle on Evergreen Terrace",
         "season": 9,
@@ -1694,7 +1694,7 @@
     {
         "id": 189,
         "airdate": "1998-01-04",
-        "episode_number": 189,
+        "episode_number": 11,
         "image_path": "/episode/189.webp",
         "name": "All Singing, All Dancing",
         "season": 9,
@@ -1703,7 +1703,7 @@
     {
         "id": 190,
         "airdate": "1998-01-11",
-        "episode_number": 190,
+        "episode_number": 12,
         "image_path": "/episode/190.webp",
         "name": "Bart Carny",
         "season": 9,
@@ -1712,7 +1712,7 @@
     {
         "id": 191,
         "airdate": "1998-02-08",
-        "episode_number": 191,
+        "episode_number": 13,
         "image_path": "/episode/191.webp",
         "name": "The Joy of Sect",
         "season": 9,
@@ -1721,7 +1721,7 @@
     {
         "id": 192,
         "airdate": "1998-02-15",
-        "episode_number": 192,
+        "episode_number": 14,
         "image_path": "/episode/192.webp",
         "name": "Das Bus",
         "season": 9,
@@ -1730,7 +1730,7 @@
     {
         "id": 193,
         "airdate": "1998-02-22",
-        "episode_number": 193,
+        "episode_number": 15,
         "image_path": "/episode/193.webp",
         "name": "The Last Temptation of Krust",
         "season": 9,
@@ -1739,7 +1739,7 @@
     {
         "id": 194,
         "airdate": "1998-03-01",
-        "episode_number": 194,
+        "episode_number": 16,
         "image_path": "/episode/194.webp",
         "name": "Dumbbell Indemnity",
         "season": 9,
@@ -1748,7 +1748,7 @@
     {
         "id": 195,
         "airdate": "1998-03-08",
-        "episode_number": 195,
+        "episode_number": 17,
         "image_path": "/episode/195.webp",
         "name": "Lisa the Simpson",
         "season": 9,
@@ -1757,7 +1757,7 @@
     {
         "id": 196,
         "airdate": "1998-03-22",
-        "episode_number": 196,
+        "episode_number": 18,
         "image_path": "/episode/196.webp",
         "name": "This Little Wiggy",
         "season": 9,
@@ -1766,7 +1766,7 @@
     {
         "id": 197,
         "airdate": "1998-03-29",
-        "episode_number": 197,
+        "episode_number": 19,
         "image_path": "/episode/197.webp",
         "name": "Simpson Tide",
         "season": 9,
@@ -1775,7 +1775,7 @@
     {
         "id": 198,
         "airdate": "1998-04-05",
-        "episode_number": 198,
+        "episode_number": 20,
         "image_path": "/episode/198.webp",
         "name": "The Trouble with Trillions",
         "season": 9,
@@ -1784,7 +1784,7 @@
     {
         "id": 199,
         "airdate": "1998-04-19",
-        "episode_number": 199,
+        "episode_number": 21,
         "image_path": "/episode/199.webp",
         "name": "Girly Edition",
         "season": 9,
@@ -1793,7 +1793,7 @@
     {
         "id": 200,
         "airdate": "1998-04-26",
-        "episode_number": 200,
+        "episode_number": 22,
         "image_path": "/episode/200.webp",
         "name": "Trash of the Titans",
         "season": 9,
@@ -1802,7 +1802,7 @@
     {
         "id": 201,
         "airdate": "1998-05-03",
-        "episode_number": 201,
+        "episode_number": 23,
         "image_path": "/episode/201.webp",
         "name": "King of the Hill",
         "season": 9,
@@ -1811,7 +1811,7 @@
     {
         "id": 202,
         "airdate": "1998-05-10",
-        "episode_number": 202,
+        "episode_number": 24,
         "image_path": "/episode/202.webp",
         "name": "Lost Our Lisa",
         "season": 9,
@@ -1820,7 +1820,7 @@
     {
         "id": 203,
         "airdate": "1998-05-17",
-        "episode_number": 203,
+        "episode_number": 25,
         "image_path": "/episode/203.webp",
         "name": "Natural Born Kissers",
         "season": 9,
@@ -1829,7 +1829,7 @@
     {
         "id": 204,
         "airdate": "1998-08-23",
-        "episode_number": 204,
+        "episode_number": 1,
         "image_path": "/episode/204.webp",
         "name": "Lard of the Dance",
         "season": 10,
@@ -1838,7 +1838,7 @@
     {
         "id": 205,
         "airdate": "1998-09-20",
-        "episode_number": 205,
+        "episode_number": 2,
         "image_path": "/episode/205.webp",
         "name": "The Wizard of Evergreen Terrace",
         "season": 10,
@@ -1847,7 +1847,7 @@
     {
         "id": 206,
         "airdate": "1998-09-27",
-        "episode_number": 206,
+        "episode_number": 3,
         "image_path": "/episode/206.webp",
         "name": "Bart the Mother",
         "season": 10,
@@ -1856,7 +1856,7 @@
     {
         "id": 207,
         "airdate": "1998-10-25",
-        "episode_number": 207,
+        "episode_number": 4,
         "image_path": "/episode/207.webp",
         "name": "Treehouse of Horror IX",
         "season": 10,
@@ -1865,7 +1865,7 @@
     {
         "id": 208,
         "airdate": "1998-11-08",
-        "episode_number": 208,
+        "episode_number": 5,
         "image_path": "/episode/208.webp",
         "name": "When You Dish Upon a Star",
         "season": 10,
@@ -1874,7 +1874,7 @@
     {
         "id": 209,
         "airdate": "1998-11-15",
-        "episode_number": 209,
+        "episode_number": 6,
         "image_path": "/episode/209.webp",
         "name": "D'oh-in' in the Wind",
         "season": 10,
@@ -1883,7 +1883,7 @@
     {
         "id": 210,
         "airdate": "1998-11-22",
-        "episode_number": 210,
+        "episode_number": 7,
         "image_path": "/episode/210.webp",
         "name": "Lisa Gets an \"A\"",
         "season": 10,
@@ -1892,7 +1892,7 @@
     {
         "id": 211,
         "airdate": "1998-12-06",
-        "episode_number": 211,
+        "episode_number": 8,
         "image_path": "/episode/211.webp",
         "name": "Homer Simpson in: \"Kidney Trouble\"",
         "season": 10,
@@ -1901,7 +1901,7 @@
     {
         "id": 212,
         "airdate": "1998-12-20",
-        "episode_number": 212,
+        "episode_number": 9,
         "image_path": "/episode/212.webp",
         "name": "Mayored to the Mob",
         "season": 10,
@@ -1910,7 +1910,7 @@
     {
         "id": 213,
         "airdate": "1999-01-10",
-        "episode_number": 213,
+        "episode_number": 10,
         "image_path": "/episode/213.webp",
         "name": "Viva Ned Flanders",
         "season": 10,
@@ -1919,7 +1919,7 @@
     {
         "id": 214,
         "airdate": "1999-01-17",
-        "episode_number": 214,
+        "episode_number": 11,
         "image_path": "/episode/214.webp",
         "name": "Wild Barts Can't Be Broken",
         "season": 10,
@@ -1928,7 +1928,7 @@
     {
         "id": 215,
         "airdate": "1999-01-31",
-        "episode_number": 215,
+        "episode_number": 12,
         "image_path": "/episode/215.webp",
         "name": "Sunday, Cruddy Sunday",
         "season": 10,
@@ -1937,7 +1937,7 @@
     {
         "id": 216,
         "airdate": "1999-02-07",
-        "episode_number": 216,
+        "episode_number": 13,
         "image_path": "/episode/216.webp",
         "name": "Homer to the Max",
         "season": 10,
@@ -1946,7 +1946,7 @@
     {
         "id": 217,
         "airdate": "1999-02-14",
-        "episode_number": 217,
+        "episode_number": 14,
         "image_path": "/episode/217.webp",
         "name": "I'm with Cupid",
         "season": 10,
@@ -1955,7 +1955,7 @@
     {
         "id": 218,
         "airdate": "1999-02-21",
-        "episode_number": 218,
+        "episode_number": 15,
         "image_path": "/episode/218.webp",
         "name": "Marge Simpson in: \"Screaming Yellow Honkers\"",
         "season": 10,
@@ -1964,7 +1964,7 @@
     {
         "id": 219,
         "airdate": "1999-02-28",
-        "episode_number": 219,
+        "episode_number": 16,
         "image_path": "/episode/219.webp",
         "name": "Make Room for Lisa",
         "season": 10,
@@ -1973,7 +1973,7 @@
     {
         "id": 220,
         "airdate": "1999-03-28",
-        "episode_number": 220,
+        "episode_number": 17,
         "image_path": "/episode/220.webp",
         "name": "Maximum Homerdrive",
         "season": 10,
@@ -1982,7 +1982,7 @@
     {
         "id": 221,
         "airdate": "1999-04-04",
-        "episode_number": 221,
+        "episode_number": 18,
         "image_path": "/episode/221.webp",
         "name": "Simpsons Bible Stories",
         "season": 10,
@@ -1991,7 +1991,7 @@
     {
         "id": 222,
         "airdate": "1999-04-11",
-        "episode_number": 222,
+        "episode_number": 19,
         "image_path": "/episode/222.webp",
         "name": "Mom and Pop Art",
         "season": 10,
@@ -2000,7 +2000,7 @@
     {
         "id": 223,
         "airdate": "1999-04-25",
-        "episode_number": 223,
+        "episode_number": 20,
         "image_path": "/episode/223.webp",
         "name": "The Old Man and the \"C\" Student",
         "season": 10,
@@ -2009,7 +2009,7 @@
     {
         "id": 224,
         "airdate": "1999-05-02",
-        "episode_number": 224,
+        "episode_number": 21,
         "image_path": "/episode/224.webp",
         "name": "Monty Can't Buy Me Love",
         "season": 10,
@@ -2018,7 +2018,7 @@
     {
         "id": 225,
         "airdate": "1999-05-09",
-        "episode_number": 225,
+        "episode_number": 22,
         "image_path": "/episode/225.webp",
         "name": "They Saved Lisa's Brain",
         "season": 10,
@@ -2027,7 +2027,7 @@
     {
         "id": 226,
         "airdate": "1999-05-16",
-        "episode_number": 226,
+        "episode_number": 23,
         "image_path": "/episode/226.webp",
         "name": "Thirty Minutes Over Tokyo",
         "season": 10,
@@ -2036,7 +2036,7 @@
     {
         "id": 227,
         "airdate": "1999-09-26",
-        "episode_number": 227,
+        "episode_number": 1,
         "image_path": "/episode/227.webp",
         "name": "Beyond Blunderdome",
         "season": 11,
@@ -2045,7 +2045,7 @@
     {
         "id": 228,
         "airdate": "1999-10-03",
-        "episode_number": 228,
+        "episode_number": 2,
         "image_path": "/episode/228.webp",
         "name": "Brother's Little Helper",
         "season": 11,
@@ -2054,7 +2054,7 @@
     {
         "id": 229,
         "airdate": "1999-10-24",
-        "episode_number": 229,
+        "episode_number": 3,
         "image_path": "/episode/229.webp",
         "name": "Guess Who's Coming to Criticize Dinner?",
         "season": 11,
@@ -2063,7 +2063,7 @@
     {
         "id": 230,
         "airdate": "1999-10-31",
-        "episode_number": 230,
+        "episode_number": 4,
         "image_path": "/episode/230.webp",
         "name": "Treehouse of Horror X",
         "season": 11,
@@ -2072,7 +2072,7 @@
     {
         "id": 231,
         "airdate": "1999-11-07",
-        "episode_number": 231,
+        "episode_number": 5,
         "image_path": "/episode/231.webp",
         "name": "E-I-E-I-D'oh",
         "season": 11,
@@ -2081,7 +2081,7 @@
     {
         "id": 232,
         "airdate": "1999-11-14",
-        "episode_number": 232,
+        "episode_number": 6,
         "image_path": "/episode/232.webp",
         "name": "Hello Gutter, Hello Fadder",
         "season": 11,
@@ -2090,7 +2090,7 @@
     {
         "id": 233,
         "airdate": "1999-11-21",
-        "episode_number": 233,
+        "episode_number": 7,
         "image_path": "/episode/233.webp",
         "name": "Eight Misbehavin'",
         "season": 11,
@@ -2099,7 +2099,7 @@
     {
         "id": 234,
         "airdate": "1999-11-28",
-        "episode_number": 234,
+        "episode_number": 8,
         "image_path": "/episode/234.webp",
         "name": "Take My Wife, Sleaze",
         "season": 11,
@@ -2108,7 +2108,7 @@
     {
         "id": 235,
         "airdate": "1999-12-19",
-        "episode_number": 235,
+        "episode_number": 9,
         "image_path": "/episode/235.webp",
         "name": "Grift of the Magi",
         "season": 11,
@@ -2117,7 +2117,7 @@
     {
         "id": 236,
         "airdate": "2000-01-09",
-        "episode_number": 236,
+        "episode_number": 10,
         "image_path": "/episode/236.webp",
         "name": "Little Big Mom",
         "season": 11,
@@ -2126,7 +2126,7 @@
     {
         "id": 237,
         "airdate": "2000-01-16",
-        "episode_number": 237,
+        "episode_number": 11,
         "image_path": "/episode/237.webp",
         "name": "Faith Off",
         "season": 11,
@@ -2135,7 +2135,7 @@
     {
         "id": 238,
         "airdate": "2000-01-23",
-        "episode_number": 238,
+        "episode_number": 12,
         "image_path": "/episode/238.webp",
         "name": "The Mansion Family",
         "season": 11,
@@ -2144,7 +2144,7 @@
     {
         "id": 239,
         "airdate": "2000-02-06",
-        "episode_number": 239,
+        "episode_number": 13,
         "image_path": "/episode/239.webp",
         "name": "Saddlesore Galactica",
         "season": 11,
@@ -2153,7 +2153,7 @@
     {
         "id": 240,
         "airdate": "2000-02-13",
-        "episode_number": 240,
+        "episode_number": 14,
         "image_path": "/episode/240.webp",
         "name": "Alone Again, Natura-Diddily",
         "season": 11,
@@ -2162,7 +2162,7 @@
     {
         "id": 241,
         "airdate": "2000-02-20",
-        "episode_number": 241,
+        "episode_number": 15,
         "image_path": "/episode/241.webp",
         "name": "Missionary: Impossible",
         "season": 11,
@@ -2171,7 +2171,7 @@
     {
         "id": 242,
         "airdate": "2000-02-27",
-        "episode_number": 242,
+        "episode_number": 16,
         "image_path": "/episode/242.webp",
         "name": "Pygmoelian",
         "season": 11,
@@ -2180,7 +2180,7 @@
     {
         "id": 243,
         "airdate": "2000-03-19",
-        "episode_number": 243,
+        "episode_number": 17,
         "image_path": "/episode/243.webp",
         "name": "Bart to the Future",
         "season": 11,
@@ -2189,7 +2189,7 @@
     {
         "id": 244,
         "airdate": "2000-04-09",
-        "episode_number": 244,
+        "episode_number": 18,
         "image_path": "/episode/244.webp",
         "name": "Days of Wine and D'oh'ses",
         "season": 11,
@@ -2198,7 +2198,7 @@
     {
         "id": 245,
         "airdate": "2000-04-30",
-        "episode_number": 245,
+        "episode_number": 19,
         "image_path": "/episode/245.webp",
         "name": "Kill the Alligator and Run",
         "season": 11,
@@ -2207,7 +2207,7 @@
     {
         "id": 246,
         "airdate": "2000-05-07",
-        "episode_number": 246,
+        "episode_number": 20,
         "image_path": "/episode/246.webp",
         "name": "Last Tap Dance in Springfield",
         "season": 11,
@@ -2216,7 +2216,7 @@
     {
         "id": 247,
         "airdate": "2000-05-14",
-        "episode_number": 247,
+        "episode_number": 21,
         "image_path": "/episode/247.webp",
         "name": "It's a Mad, Mad, Mad, Mad Marge",
         "season": 11,
@@ -2225,7 +2225,7 @@
     {
         "id": 248,
         "airdate": "2000-05-21",
-        "episode_number": 248,
+        "episode_number": 22,
         "image_path": "/episode/248.webp",
         "name": "Behind the Laughter",
         "season": 11,
@@ -2234,7 +2234,7 @@
     {
         "id": 249,
         "airdate": "2000-11-01",
-        "episode_number": 249,
+        "episode_number": 1,
         "image_path": "/episode/249.webp",
         "name": "Treehouse of Horror XI",
         "season": 12,
@@ -2243,7 +2243,7 @@
     {
         "id": 250,
         "airdate": "2000-11-05",
-        "episode_number": 250,
+        "episode_number": 2,
         "image_path": "/episode/250.webp",
         "name": "A Tale of Two Springfields",
         "season": 12,
@@ -2252,7 +2252,7 @@
     {
         "id": 251,
         "airdate": "2000-11-12",
-        "episode_number": 251,
+        "episode_number": 3,
         "image_path": "/episode/251.webp",
         "name": "Insane Clown Poppy",
         "season": 12,
@@ -2261,7 +2261,7 @@
     {
         "id": 252,
         "airdate": "2000-11-19",
-        "episode_number": 252,
+        "episode_number": 4,
         "image_path": "/episode/252.webp",
         "name": "Lisa the Tree Hugger",
         "season": 12,
@@ -2270,7 +2270,7 @@
     {
         "id": 253,
         "airdate": "2000-11-26",
-        "episode_number": 253,
+        "episode_number": 5,
         "image_path": "/episode/253.webp",
         "name": "Homer vs. Dignity",
         "season": 12,
@@ -2279,7 +2279,7 @@
     {
         "id": 254,
         "airdate": "2000-12-03",
-        "episode_number": 254,
+        "episode_number": 6,
         "image_path": "/episode/254.webp",
         "name": "The Computer Wore Menace Shoes",
         "season": 12,
@@ -2288,7 +2288,7 @@
     {
         "id": 255,
         "airdate": "2000-12-10",
-        "episode_number": 255,
+        "episode_number": 7,
         "image_path": "/episode/255.webp",
         "name": "The Great Money Caper",
         "season": 12,
@@ -2297,7 +2297,7 @@
     {
         "id": 256,
         "airdate": "2000-12-17",
-        "episode_number": 256,
+        "episode_number": 8,
         "image_path": "/episode/256.webp",
         "name": "Skinner's Sense of Snow",
         "season": 12,
@@ -2306,7 +2306,7 @@
     {
         "id": 257,
         "airdate": "2001-01-07",
-        "episode_number": 257,
+        "episode_number": 9,
         "image_path": "/episode/257.webp",
         "name": "HOMЯ",
         "season": 12,
@@ -2315,7 +2315,7 @@
     {
         "id": 258,
         "airdate": "2001-01-14",
-        "episode_number": 258,
+        "episode_number": 10,
         "image_path": "/episode/258.webp",
         "name": "Pokey Mom",
         "season": 12,
@@ -2324,7 +2324,7 @@
     {
         "id": 259,
         "airdate": "2001-02-04",
-        "episode_number": 259,
+        "episode_number": 11,
         "image_path": "/episode/259.webp",
         "name": "Worst Episode Ever",
         "season": 12,
@@ -2333,7 +2333,7 @@
     {
         "id": 260,
         "airdate": "2001-02-11",
-        "episode_number": 260,
+        "episode_number": 12,
         "image_path": "/episode/260.webp",
         "name": "Tennis the Menace",
         "season": 12,
@@ -2342,7 +2342,7 @@
     {
         "id": 261,
         "airdate": "2001-02-18",
-        "episode_number": 261,
+        "episode_number": 13,
         "image_path": "/episode/261.webp",
         "name": "Day of the Jackanapes",
         "season": 12,
@@ -2351,7 +2351,7 @@
     {
         "id": 262,
         "airdate": "2001-02-25",
-        "episode_number": 262,
+        "episode_number": 14,
         "image_path": "/episode/262.webp",
         "name": "New Kids on the Blecch",
         "season": 12,
@@ -2360,7 +2360,7 @@
     {
         "id": 263,
         "airdate": "2001-03-04",
-        "episode_number": 263,
+        "episode_number": 15,
         "image_path": "/episode/263.webp",
         "name": "Hungry, Hungry Homer",
         "season": 12,
@@ -2369,7 +2369,7 @@
     {
         "id": 264,
         "airdate": "2001-03-11",
-        "episode_number": 264,
+        "episode_number": 16,
         "image_path": "/episode/264.webp",
         "name": "Bye Bye Nerdie",
         "season": 12,
@@ -2378,7 +2378,7 @@
     {
         "id": 265,
         "airdate": "2001-04-01",
-        "episode_number": 265,
+        "episode_number": 17,
         "image_path": "/episode/265.webp",
         "name": "Simpson Safari",
         "season": 12,
@@ -2387,7 +2387,7 @@
     {
         "id": 266,
         "airdate": "2001-04-29",
-        "episode_number": 266,
+        "episode_number": 18,
         "image_path": "/episode/266.webp",
         "name": "Trilogy of Error",
         "season": 12,
@@ -2396,7 +2396,7 @@
     {
         "id": 267,
         "airdate": "2001-05-06",
-        "episode_number": 267,
+        "episode_number": 19,
         "image_path": "/episode/267.webp",
         "name": "I'm Goin' to Praiseland",
         "season": 12,
@@ -2405,7 +2405,7 @@
     {
         "id": 268,
         "airdate": "2001-05-13",
-        "episode_number": 268,
+        "episode_number": 20,
         "image_path": "/episode/268.webp",
         "name": "Children of a Lesser Clod",
         "season": 12,
@@ -2414,7 +2414,7 @@
     {
         "id": 269,
         "airdate": "2001-05-20",
-        "episode_number": 269,
+        "episode_number": 21,
         "image_path": "/episode/269.webp",
         "name": "Simpsons Tall Tales",
         "season": 12,
@@ -2423,7 +2423,7 @@
     {
         "id": 270,
         "airdate": "2001-11-06",
-        "episode_number": 270,
+        "episode_number": 1,
         "image_path": "/episode/270.webp",
         "name": "Treehouse of Horror XII",
         "season": 13,
@@ -2432,7 +2432,7 @@
     {
         "id": 271,
         "airdate": "2001-11-11",
-        "episode_number": 271,
+        "episode_number": 2,
         "image_path": "/episode/271.webp",
         "name": "The Parent Rap",
         "season": 13,
@@ -2441,7 +2441,7 @@
     {
         "id": 272,
         "airdate": "2001-11-18",
-        "episode_number": 272,
+        "episode_number": 3,
         "image_path": "/episode/272.webp",
         "name": "Homer the Moe",
         "season": 13,
@@ -2450,7 +2450,7 @@
     {
         "id": 273,
         "airdate": "2001-12-02",
-        "episode_number": 273,
+        "episode_number": 4,
         "image_path": "/episode/273.webp",
         "name": "A Hunka Hunka Burns in Love",
         "season": 13,
@@ -2459,7 +2459,7 @@
     {
         "id": 274,
         "airdate": "2001-12-09",
-        "episode_number": 274,
+        "episode_number": 5,
         "image_path": "/episode/274.webp",
         "name": "The Blunder Years",
         "season": 13,
@@ -2468,7 +2468,7 @@
     {
         "id": 275,
         "airdate": "2001-12-16",
-        "episode_number": 275,
+        "episode_number": 6,
         "image_path": "/episode/275.webp",
         "name": "She of Little Faith",
         "season": 13,
@@ -2477,7 +2477,7 @@
     {
         "id": 276,
         "airdate": "2002-01-06",
-        "episode_number": 276,
+        "episode_number": 7,
         "image_path": "/episode/276.webp",
         "name": "Brawl in the Family",
         "season": 13,
@@ -2486,7 +2486,7 @@
     {
         "id": 277,
         "airdate": "2002-01-20",
-        "episode_number": 277,
+        "episode_number": 8,
         "image_path": "/episode/277.webp",
         "name": "Sweets and Sour Marge",
         "season": 13,
@@ -2495,7 +2495,7 @@
     {
         "id": 278,
         "airdate": "2002-01-27",
-        "episode_number": 278,
+        "episode_number": 9,
         "image_path": "/episode/278.webp",
         "name": "Jaws Wired Shut",
         "season": 13,
@@ -2504,7 +2504,7 @@
     {
         "id": 279,
         "airdate": "2002-02-10",
-        "episode_number": 279,
+        "episode_number": 10,
         "image_path": "/episode/279.webp",
         "name": "Half-Decent Proposal",
         "season": 13,
@@ -2513,7 +2513,7 @@
     {
         "id": 280,
         "airdate": "2002-02-17",
-        "episode_number": 280,
+        "episode_number": 11,
         "image_path": "/episode/280.webp",
         "name": "The Bart Wants What it Wants",
         "season": 13,
@@ -2522,7 +2522,7 @@
     {
         "id": 281,
         "airdate": "2002-02-24",
-        "episode_number": 281,
+        "episode_number": 12,
         "image_path": "/episode/281.webp",
         "name": "The Lastest Gun in the West",
         "season": 13,
@@ -2531,7 +2531,7 @@
     {
         "id": 282,
         "airdate": "2002-03-10",
-        "episode_number": 282,
+        "episode_number": 13,
         "image_path": "/episode/282.webp",
         "name": "The Old Man and the Key",
         "season": 13,
@@ -2540,7 +2540,7 @@
     {
         "id": 283,
         "airdate": "2002-03-17",
-        "episode_number": 283,
+        "episode_number": 14,
         "image_path": "/episode/283.webp",
         "name": "Tales from the Public Domain",
         "season": 13,
@@ -2549,7 +2549,7 @@
     {
         "id": 284,
         "airdate": "2002-03-31",
-        "episode_number": 284,
+        "episode_number": 15,
         "image_path": "/episode/284.webp",
         "name": "Blame it on Lisa",
         "season": 13,
@@ -2558,7 +2558,7 @@
     {
         "id": 285,
         "airdate": "2002-04-07",
-        "episode_number": 285,
+        "episode_number": 16,
         "image_path": "/episode/285.webp",
         "name": "Weekend at Burnsie's",
         "season": 13,
@@ -2567,7 +2567,7 @@
     {
         "id": 286,
         "airdate": "2002-04-21",
-        "episode_number": 286,
+        "episode_number": 17,
         "image_path": "/episode/286.webp",
         "name": "Gump Roast",
         "season": 13,
@@ -2576,7 +2576,7 @@
     {
         "id": 287,
         "airdate": "2002-04-28",
-        "episode_number": 287,
+        "episode_number": 18,
         "image_path": "/episode/287.webp",
         "name": "I Am Furious (Yellow)",
         "season": 13,
@@ -2585,7 +2585,7 @@
     {
         "id": 288,
         "airdate": "2002-05-05",
-        "episode_number": 288,
+        "episode_number": 19,
         "image_path": "/episode/288.webp",
         "name": "The Sweetest Apu",
         "season": 13,
@@ -2594,7 +2594,7 @@
     {
         "id": 289,
         "airdate": "2002-05-12",
-        "episode_number": 289,
+        "episode_number": 20,
         "image_path": "/episode/289.webp",
         "name": "Little Girl in the Big Ten",
         "season": 13,
@@ -2603,7 +2603,7 @@
     {
         "id": 290,
         "airdate": "2002-05-19",
-        "episode_number": 290,
+        "episode_number": 21,
         "image_path": "/episode/290.webp",
         "name": "The Frying Game",
         "season": 13,
@@ -2612,7 +2612,7 @@
     {
         "id": 291,
         "airdate": "2002-05-22",
-        "episode_number": 291,
+        "episode_number": 22,
         "image_path": "/episode/291.webp",
         "name": "Poppa's Got a Brand New Badge",
         "season": 13,
@@ -2621,7 +2621,7 @@
     {
         "id": 292,
         "airdate": "2002-11-03",
-        "episode_number": 292,
+        "episode_number": 1,
         "image_path": "/episode/292.webp",
         "name": "Treehouse of Horror XIII",
         "season": 14,
@@ -2630,7 +2630,7 @@
     {
         "id": 293,
         "airdate": "2002-11-10",
-        "episode_number": 293,
+        "episode_number": 2,
         "image_path": "/episode/293.webp",
         "name": "How I Spent My Strummer Vacation",
         "season": 14,
@@ -2639,7 +2639,7 @@
     {
         "id": 294,
         "airdate": "2002-11-17",
-        "episode_number": 294,
+        "episode_number": 3,
         "image_path": "/episode/294.webp",
         "name": "Bart vs. Lisa vs. the Third Grade",
         "season": 14,
@@ -2648,7 +2648,7 @@
     {
         "id": 295,
         "airdate": "2002-11-24",
-        "episode_number": 295,
+        "episode_number": 4,
         "image_path": "/episode/295.webp",
         "name": "Large Marge",
         "season": 14,
@@ -2657,7 +2657,7 @@
     {
         "id": 296,
         "airdate": "2002-12-01",
-        "episode_number": 296,
+        "episode_number": 5,
         "image_path": "/episode/296.webp",
         "name": "Helter Shelter",
         "season": 14,
@@ -2666,7 +2666,7 @@
     {
         "id": 297,
         "airdate": "2002-12-15",
-        "episode_number": 297,
+        "episode_number": 6,
         "image_path": "/episode/297.webp",
         "name": "The Great Louse Detective",
         "season": 14,
@@ -2675,7 +2675,7 @@
     {
         "id": 298,
         "airdate": "2003-01-05",
-        "episode_number": 298,
+        "episode_number": 7,
         "image_path": "/episode/298.webp",
         "name": "Special Edna",
         "season": 14,
@@ -2684,7 +2684,7 @@
     {
         "id": 299,
         "airdate": "2003-01-12",
-        "episode_number": 299,
+        "episode_number": 8,
         "image_path": "/episode/299.webp",
         "name": "The Dad Who Knew Too Little",
         "season": 14,
@@ -2693,7 +2693,7 @@
     {
         "id": 300,
         "airdate": "2003-02-02",
-        "episode_number": 300,
+        "episode_number": 9,
         "image_path": "/episode/300.webp",
         "name": "The Strong Arms of the Ma",
         "season": 14,
@@ -2702,7 +2702,7 @@
     {
         "id": 301,
         "airdate": "2003-02-09",
-        "episode_number": 301,
+        "episode_number": 10,
         "image_path": "/episode/301.webp",
         "name": "Pray Anything",
         "season": 14,
@@ -2711,7 +2711,7 @@
     {
         "id": 302,
         "airdate": "2003-02-16",
-        "episode_number": 302,
+        "episode_number": 11,
         "image_path": "/episode/302.webp",
         "name": "Barting Over",
         "season": 14,
@@ -2720,7 +2720,7 @@
     {
         "id": 303,
         "airdate": "2003-02-16",
-        "episode_number": 303,
+        "episode_number": 12,
         "image_path": "/episode/303.webp",
         "name": "I'm Spelling as Fast as I Can",
         "season": 14,
@@ -2729,7 +2729,7 @@
     {
         "id": 304,
         "airdate": "2003-03-02",
-        "episode_number": 304,
+        "episode_number": 13,
         "image_path": "/episode/304.webp",
         "name": "A Star is Born-Again",
         "season": 14,
@@ -2738,7 +2738,7 @@
     {
         "id": 305,
         "airdate": "2003-03-09",
-        "episode_number": 305,
+        "episode_number": 14,
         "image_path": "/episode/305.webp",
         "name": "Mr. Spritz Goes to Washington",
         "season": 14,
@@ -2747,7 +2747,7 @@
     {
         "id": 306,
         "airdate": "2003-03-16",
-        "episode_number": 306,
+        "episode_number": 15,
         "image_path": "/episode/306.webp",
         "name": "C.E. D'oh",
         "season": 14,
@@ -2756,7 +2756,7 @@
     {
         "id": 307,
         "airdate": "2003-03-30",
-        "episode_number": 307,
+        "episode_number": 16,
         "image_path": "/episode/307.webp",
         "name": "'Scuse Me While I Miss the Sky",
         "season": 14,
@@ -2765,7 +2765,7 @@
     {
         "id": 308,
         "airdate": "2003-04-13",
-        "episode_number": 308,
+        "episode_number": 17,
         "image_path": "/episode/308.webp",
         "name": "Three Gays of the Condo",
         "season": 14,
@@ -2774,7 +2774,7 @@
     {
         "id": 309,
         "airdate": "2003-04-27",
-        "episode_number": 309,
+        "episode_number": 18,
         "image_path": "/episode/309.webp",
         "name": "Dude, Where's My Ranch?",
         "season": 14,
@@ -2783,7 +2783,7 @@
     {
         "id": 310,
         "airdate": "2003-05-04",
-        "episode_number": 310,
+        "episode_number": 19,
         "image_path": "/episode/310.webp",
         "name": "Old Yeller-Belly",
         "season": 14,
@@ -2792,7 +2792,7 @@
     {
         "id": 311,
         "airdate": "2003-05-11",
-        "episode_number": 311,
+        "episode_number": 20,
         "image_path": "/episode/311.webp",
         "name": "Brake My Wife, Please",
         "season": 14,
@@ -2801,7 +2801,7 @@
     {
         "id": 312,
         "airdate": "2003-05-18",
-        "episode_number": 312,
+        "episode_number": 21,
         "image_path": "/episode/312.webp",
         "name": "The Bart of War",
         "season": 14,
@@ -2810,7 +2810,7 @@
     {
         "id": 313,
         "airdate": "2003-05-18",
-        "episode_number": 313,
+        "episode_number": 22,
         "image_path": "/episode/313.webp",
         "name": "Moe Baby Blues",
         "season": 14,
@@ -2819,7 +2819,7 @@
     {
         "id": 314,
         "airdate": "2003-11-02",
-        "episode_number": 314,
+        "episode_number": 1,
         "image_path": "/episode/314.webp",
         "name": "Treehouse of Horror XIV",
         "season": 15,
@@ -2828,7 +2828,7 @@
     {
         "id": 315,
         "airdate": "2003-11-09",
-        "episode_number": 315,
+        "episode_number": 2,
         "image_path": "/episode/315.webp",
         "name": "My Mother the Carjacker",
         "season": 15,
@@ -2837,7 +2837,7 @@
     {
         "id": 316,
         "airdate": "2003-11-16",
-        "episode_number": 316,
+        "episode_number": 3,
         "image_path": "/episode/316.webp",
         "name": "The President Wore Pearls",
         "season": 15,
@@ -2846,7 +2846,7 @@
     {
         "id": 317,
         "airdate": "",
-        "episode_number": 317,
+        "episode_number": 4,
         "image_path": "/episode/317.webp",
         "name": "The Regina Monologues",
         "season": 15,
@@ -2855,7 +2855,7 @@
     {
         "id": 318,
         "airdate": "2003-11-30",
-        "episode_number": 318,
+        "episode_number": 5,
         "image_path": "/episode/318.webp",
         "name": "The Fat and the Furriest",
         "season": 15,
@@ -2864,7 +2864,7 @@
     {
         "id": 319,
         "airdate": "2003-12-07",
-        "episode_number": 319,
+        "episode_number": 6,
         "image_path": "/episode/319.webp",
         "name": "Today, I Am a Clown",
         "season": 15,
@@ -2873,7 +2873,7 @@
     {
         "id": 320,
         "airdate": "2003-12-14",
-        "episode_number": 320,
+        "episode_number": 7,
         "image_path": "/episode/320.webp",
         "name": "'Tis the Fifteenth Season",
         "season": 15,
@@ -2882,7 +2882,7 @@
     {
         "id": 321,
         "airdate": "2004-01-04",
-        "episode_number": 321,
+        "episode_number": 8,
         "image_path": "/episode/321.webp",
         "name": "Marge vs. Singles, Seniors, Childless Couples and Teens and Gays",
         "season": 15,
@@ -2891,7 +2891,7 @@
     {
         "id": 322,
         "airdate": "2004-01-11",
-        "episode_number": 322,
+        "episode_number": 9,
         "image_path": "/episode/322.webp",
         "name": "I, (Annoyed Grunt)-Bot",
         "season": 15,
@@ -2900,7 +2900,7 @@
     {
         "id": 323,
         "airdate": "2004-01-25",
-        "episode_number": 323,
+        "episode_number": 10,
         "image_path": "/episode/323.webp",
         "name": "Diatribe of a Mad Housewife",
         "season": 15,
@@ -2909,7 +2909,7 @@
     {
         "id": 324,
         "airdate": "2004-02-08",
-        "episode_number": 324,
+        "episode_number": 11,
         "image_path": "/episode/324.webp",
         "name": "Margical History Tour",
         "season": 15,
@@ -2918,7 +2918,7 @@
     {
         "id": 325,
         "airdate": "2004-02-15",
-        "episode_number": 325,
+        "episode_number": 12,
         "image_path": "/episode/325.webp",
         "name": "Milhouse Doesn't Live Here Anymore",
         "season": 15,
@@ -2927,7 +2927,7 @@
     {
         "id": 326,
         "airdate": "2004-02-22",
-        "episode_number": 326,
+        "episode_number": 13,
         "image_path": "/episode/326.webp",
         "name": "Smart and Smarter",
         "season": 15,
@@ -2936,7 +2936,7 @@
     {
         "id": 327,
         "airdate": "2004-03-14",
-        "episode_number": 327,
+        "episode_number": 14,
         "image_path": "/episode/327.webp",
         "name": "The Ziff Who Came to Dinner",
         "season": 15,
@@ -2945,7 +2945,7 @@
     {
         "id": 328,
         "airdate": "2004-03-21",
-        "episode_number": 328,
+        "episode_number": 15,
         "image_path": "/episode/328.webp",
         "name": "Co-Dependent's Day",
         "season": 15,
@@ -2954,7 +2954,7 @@
     {
         "id": 329,
         "airdate": "2004-03-28",
-        "episode_number": 329,
+        "episode_number": 16,
         "image_path": "/episode/329.webp",
         "name": "The Wandering Juvie",
         "season": 15,
@@ -2963,7 +2963,7 @@
     {
         "id": 330,
         "airdate": "2004-04-18",
-        "episode_number": 330,
+        "episode_number": 17,
         "image_path": "/episode/330.webp",
         "name": "My Big Fat Geek Wedding",
         "season": 15,
@@ -2972,7 +2972,7 @@
     {
         "id": 331,
         "airdate": "2004-04-25",
-        "episode_number": 331,
+        "episode_number": 18,
         "image_path": "/episode/331.webp",
         "name": "Catch 'Em if You Can",
         "season": 15,
@@ -2981,7 +2981,7 @@
     {
         "id": 332,
         "airdate": "2004-05-02",
-        "episode_number": 332,
+        "episode_number": 19,
         "image_path": "/episode/332.webp",
         "name": "Simple Simpson",
         "season": 15,
@@ -2990,7 +2990,7 @@
     {
         "id": 333,
         "airdate": "2004-05-09",
-        "episode_number": 333,
+        "episode_number": 20,
         "image_path": "/episode/333.webp",
         "name": "The Way We Weren't",
         "season": 15,
@@ -2999,7 +2999,7 @@
     {
         "id": 334,
         "airdate": "2004-05-16",
-        "episode_number": 334,
+        "episode_number": 21,
         "image_path": "/episode/334.webp",
         "name": "Bart-Mangled Banner",
         "season": 15,
@@ -3008,7 +3008,7 @@
     {
         "id": 335,
         "airdate": "2004-05-23",
-        "episode_number": 335,
+        "episode_number": 22,
         "image_path": "/episode/335.webp",
         "name": "Fraudcast News",
         "season": 15,
@@ -3017,7 +3017,7 @@
     {
         "id": 336,
         "airdate": "2004-11-07",
-        "episode_number": 336,
+        "episode_number": 1,
         "image_path": "/episode/336.webp",
         "name": "Treehouse of Horror XV",
         "season": 16,
@@ -3026,7 +3026,7 @@
     {
         "id": 337,
         "airdate": "2004-11-14",
-        "episode_number": 337,
+        "episode_number": 2,
         "image_path": "/episode/337.webp",
         "name": "All's Fair in Oven War",
         "season": 16,
@@ -3035,7 +3035,7 @@
     {
         "id": 338,
         "airdate": "2004-11-21",
-        "episode_number": 338,
+        "episode_number": 3,
         "image_path": "/episode/338.webp",
         "name": "Sleeping with the Enemy",
         "season": 16,
@@ -3044,7 +3044,7 @@
     {
         "id": 339,
         "airdate": "2004-12-05",
-        "episode_number": 339,
+        "episode_number": 4,
         "image_path": "/episode/339.webp",
         "name": "She Used to Be My Girl",
         "season": 16,
@@ -3053,7 +3053,7 @@
     {
         "id": 340,
         "airdate": "2004-12-12",
-        "episode_number": 340,
+        "episode_number": 5,
         "image_path": "/episode/340.webp",
         "name": "Fat Man and Little Boy",
         "season": 16,
@@ -3062,7 +3062,7 @@
     {
         "id": 341,
         "airdate": "2005-01-16",
-        "episode_number": 341,
+        "episode_number": 6,
         "image_path": "/episode/341.webp",
         "name": "Midnight Rx",
         "season": 16,
@@ -3071,7 +3071,7 @@
     {
         "id": 342,
         "airdate": "2005-01-30",
-        "episode_number": 342,
+        "episode_number": 7,
         "image_path": "/episode/342.webp",
         "name": "Mommie Beerest",
         "season": 16,
@@ -3080,7 +3080,7 @@
     {
         "id": 343,
         "airdate": "2005-02-06",
-        "episode_number": 343,
+        "episode_number": 8,
         "image_path": "/episode/343.webp",
         "name": "Homer and Ned's Hail Mary Pass",
         "season": 16,
@@ -3089,7 +3089,7 @@
     {
         "id": 344,
         "airdate": "2005-02-13",
-        "episode_number": 344,
+        "episode_number": 9,
         "image_path": "/episode/344.webp",
         "name": "Pranksta Rap",
         "season": 16,
@@ -3098,7 +3098,7 @@
     {
         "id": 345,
         "airdate": "2005-02-20",
-        "episode_number": 345,
+        "episode_number": 10,
         "image_path": "/episode/345.webp",
         "name": "There's Something About Marrying",
         "season": 16,
@@ -3107,7 +3107,7 @@
     {
         "id": 346,
         "airdate": "2005-03-06",
-        "episode_number": 346,
+        "episode_number": 11,
         "image_path": "/episode/346.webp",
         "name": "On a Clear Day I Can't See My Sister",
         "season": 16,
@@ -3116,7 +3116,7 @@
     {
         "id": 347,
         "airdate": "2005-03-13",
-        "episode_number": 347,
+        "episode_number": 12,
         "image_path": "/episode/347.webp",
         "name": "Goo Goo Gai Pan",
         "season": 16,
@@ -3125,7 +3125,7 @@
     {
         "id": 348,
         "airdate": "2005-03-20",
-        "episode_number": 348,
+        "episode_number": 13,
         "image_path": "/episode/348.webp",
         "name": "Mobile Homer",
         "season": 16,
@@ -3134,7 +3134,7 @@
     {
         "id": 349,
         "airdate": "2005-04-03",
-        "episode_number": 349,
+        "episode_number": 14,
         "image_path": "/episode/349.webp",
         "name": "The Seven-Beer Snitch",
         "season": 16,
@@ -3143,7 +3143,7 @@
     {
         "id": 350,
         "airdate": "2005-04-17",
-        "episode_number": 350,
+        "episode_number": 15,
         "image_path": "/episode/350.webp",
         "name": "Future-Drama",
         "season": 16,
@@ -3152,7 +3152,7 @@
     {
         "id": 351,
         "airdate": "2005-05-01",
-        "episode_number": 351,
+        "episode_number": 16,
         "image_path": "/episode/351.webp",
         "name": "Don't Fear the Roofer",
         "season": 16,
@@ -3161,7 +3161,7 @@
     {
         "id": 352,
         "airdate": "2005-05-01",
-        "episode_number": 352,
+        "episode_number": 17,
         "image_path": "/episode/352.webp",
         "name": "The Heartbroke Kid",
         "season": 16,
@@ -3170,7 +3170,7 @@
     {
         "id": 353,
         "airdate": "2005-05-08",
-        "episode_number": 353,
+        "episode_number": 18,
         "image_path": "/episode/353.webp",
         "name": "A Star is Torn",
         "season": 16,
@@ -3179,7 +3179,7 @@
     {
         "id": 354,
         "airdate": "2005-05-08",
-        "episode_number": 354,
+        "episode_number": 19,
         "image_path": "/episode/354.webp",
         "name": "Thank God It's Doomsday",
         "season": 16,
@@ -3188,7 +3188,7 @@
     {
         "id": 355,
         "airdate": "2005-05-15",
-        "episode_number": 355,
+        "episode_number": 20,
         "image_path": "/episode/355.webp",
         "name": "Home Away from Homer",
         "season": 16,
@@ -3197,7 +3197,7 @@
     {
         "id": 356,
         "airdate": "2005-05-15",
-        "episode_number": 356,
+        "episode_number": 21,
         "image_path": "/episode/356.webp",
         "name": "The Father, the Son and the Holy Guest Star",
         "season": 16,
@@ -3206,7 +3206,7 @@
     {
         "id": 357,
         "airdate": "2005-09-11",
-        "episode_number": 357,
+        "episode_number": 1,
         "image_path": "/episode/357.webp",
         "name": "The Bonfire of the Manatees",
         "season": 17,
@@ -3215,7 +3215,7 @@
     {
         "id": 358,
         "airdate": "2005-09-18",
-        "episode_number": 358,
+        "episode_number": 2,
         "image_path": "/episode/358.webp",
         "name": "The Girl Who Slept Too Little",
         "season": 17,
@@ -3224,7 +3224,7 @@
     {
         "id": 359,
         "airdate": "2005-09-25",
-        "episode_number": 359,
+        "episode_number": 3,
         "image_path": "/episode/359.webp",
         "name": "Milhouse of Sand and Fog",
         "season": 17,
@@ -3233,7 +3233,7 @@
     {
         "id": 360,
         "airdate": "2005-11-06",
-        "episode_number": 360,
+        "episode_number": 4,
         "image_path": "/episode/360.webp",
         "name": "Treehouse of Horror XVI",
         "season": 17,
@@ -3242,7 +3242,7 @@
     {
         "id": 361,
         "airdate": "2005-11-13",
-        "episode_number": 361,
+        "episode_number": 5,
         "image_path": "/episode/361.webp",
         "name": "Marge's Son Poisoning",
         "season": 17,
@@ -3251,7 +3251,7 @@
     {
         "id": 362,
         "airdate": "2005-11-20",
-        "episode_number": 362,
+        "episode_number": 6,
         "image_path": "/episode/362.webp",
         "name": "See Homer Run",
         "season": 17,
@@ -3260,7 +3260,7 @@
     {
         "id": 363,
         "airdate": "2005-11-27",
-        "episode_number": 363,
+        "episode_number": 7,
         "image_path": "/episode/363.webp",
         "name": "The Last of the Red Hat Mamas",
         "season": 17,
@@ -3269,7 +3269,7 @@
     {
         "id": 364,
         "airdate": "2005-12-11",
-        "episode_number": 364,
+        "episode_number": 8,
         "image_path": "/episode/364.webp",
         "name": "The Italian Bob",
         "season": 17,
@@ -3278,7 +3278,7 @@
     {
         "id": 365,
         "airdate": "2005-12-18",
-        "episode_number": 365,
+        "episode_number": 9,
         "image_path": "/episode/365.webp",
         "name": "Simpsons Christmas Stories",
         "season": 17,
@@ -3287,7 +3287,7 @@
     {
         "id": 366,
         "airdate": "2006-01-08",
-        "episode_number": 366,
+        "episode_number": 10,
         "image_path": "/episode/366.webp",
         "name": "Homer's Paternity Coot",
         "season": 17,
@@ -3296,7 +3296,7 @@
     {
         "id": 367,
         "airdate": "2006-01-29",
-        "episode_number": 367,
+        "episode_number": 11,
         "image_path": "/episode/367.webp",
         "name": "We're on the Road to D'oh-where",
         "season": 17,
@@ -3305,7 +3305,7 @@
     {
         "id": 368,
         "airdate": "2006-02-26",
-        "episode_number": 368,
+        "episode_number": 12,
         "image_path": "/episode/368.webp",
         "name": "My Fair Laddy",
         "season": 17,
@@ -3314,7 +3314,7 @@
     {
         "id": 369,
         "airdate": "2006-03-12",
-        "episode_number": 369,
+        "episode_number": 13,
         "image_path": "/episode/369.webp",
         "name": "The Seemingly Never-Ending Story",
         "season": 17,
@@ -3323,7 +3323,7 @@
     {
         "id": 370,
         "airdate": "2006-03-19",
-        "episode_number": 370,
+        "episode_number": 14,
         "image_path": "/episode/370.webp",
         "name": "Bart Has Two Mommies",
         "season": 17,
@@ -3332,7 +3332,7 @@
     {
         "id": 371,
         "airdate": "2006-03-26",
-        "episode_number": 371,
+        "episode_number": 15,
         "image_path": "/episode/371.webp",
         "name": "Homer Simpson, This is Your Wife",
         "season": 17,
@@ -3341,7 +3341,7 @@
     {
         "id": 372,
         "airdate": "2006-04-02",
-        "episode_number": 372,
+        "episode_number": 16,
         "image_path": "/episode/372.webp",
         "name": "Million-Dollar Abie",
         "season": 17,
@@ -3350,7 +3350,7 @@
     {
         "id": 373,
         "airdate": "2006-04-09",
-        "episode_number": 373,
+        "episode_number": 17,
         "image_path": "/episode/373.webp",
         "name": "Kiss Kiss Bang Bangalore",
         "season": 17,
@@ -3359,7 +3359,7 @@
     {
         "id": 374,
         "airdate": "2006-04-23",
-        "episode_number": 374,
+        "episode_number": 18,
         "image_path": "/episode/374.webp",
         "name": "The Wettest Stories Ever Told",
         "season": 17,
@@ -3368,7 +3368,7 @@
     {
         "id": 375,
         "airdate": "2006-04-30",
-        "episode_number": 375,
+        "episode_number": 19,
         "image_path": "/episode/375.webp",
         "name": "Girls Just Want to Have Sums",
         "season": 17,
@@ -3377,7 +3377,7 @@
     {
         "id": 376,
         "airdate": "2006-05-07",
-        "episode_number": 376,
+        "episode_number": 20,
         "image_path": "/episode/376.webp",
         "name": "Regarding Margie",
         "season": 17,
@@ -3386,7 +3386,7 @@
     {
         "id": 377,
         "airdate": "2006-05-14",
-        "episode_number": 377,
+        "episode_number": 21,
         "image_path": "/episode/377.webp",
         "name": "The Monkey Suit",
         "season": 17,
@@ -3395,7 +3395,7 @@
     {
         "id": 378,
         "airdate": "2006-05-21",
-        "episode_number": 378,
+        "episode_number": 22,
         "image_path": "/episode/378.webp",
         "name": "Marge and Homer Turn a Couple Play",
         "season": 17,
@@ -3404,7 +3404,7 @@
     {
         "id": 379,
         "airdate": "2006-09-10",
-        "episode_number": 379,
+        "episode_number": 1,
         "image_path": "/episode/379.webp",
         "name": "The Mook, the Chef, the Wife and Her Homer",
         "season": 18,
@@ -3413,7 +3413,7 @@
     {
         "id": 380,
         "airdate": "2006-09-17",
-        "episode_number": 380,
+        "episode_number": 2,
         "image_path": "/episode/380.webp",
         "name": "Jazzy and the Pussycats",
         "season": 18,
@@ -3422,7 +3422,7 @@
     {
         "id": 381,
         "airdate": "2006-09-24",
-        "episode_number": 381,
+        "episode_number": 3,
         "image_path": "/episode/381.webp",
         "name": "Please Homer, Don't Hammer 'Em",
         "season": 18,
@@ -3431,7 +3431,7 @@
     {
         "id": 382,
         "airdate": "2006-11-05",
-        "episode_number": 382,
+        "episode_number": 4,
         "image_path": "/episode/382.webp",
         "name": "Treehouse of Horror XVII",
         "season": 18,
@@ -3440,7 +3440,7 @@
     {
         "id": 383,
         "airdate": "2006-11-12",
-        "episode_number": 383,
+        "episode_number": 5,
         "image_path": "/episode/383.webp",
         "name": "G.I. D'oh",
         "season": 18,
@@ -3449,7 +3449,7 @@
     {
         "id": 384,
         "airdate": "2006-11-19",
-        "episode_number": 384,
+        "episode_number": 6,
         "image_path": "/episode/384.webp",
         "name": "Moe'N'a Lisa",
         "season": 18,
@@ -3458,7 +3458,7 @@
     {
         "id": 385,
         "airdate": "2006-11-26",
-        "episode_number": 385,
+        "episode_number": 7,
         "image_path": "/episode/385.webp",
         "name": "Ice Cream of Margie (with the Light Blue Hair)",
         "season": 18,
@@ -3467,7 +3467,7 @@
     {
         "id": 386,
         "airdate": "2006-12-10",
-        "episode_number": 386,
+        "episode_number": 8,
         "image_path": "/episode/386.webp",
         "name": "The Haw-Hawed Couple",
         "season": 18,
@@ -3476,7 +3476,7 @@
     {
         "id": 387,
         "airdate": "2006-12-17",
-        "episode_number": 387,
+        "episode_number": 9,
         "image_path": "/episode/387.webp",
         "name": "Kill Gil, Volumes I & II",
         "season": 18,
@@ -3485,7 +3485,7 @@
     {
         "id": 388,
         "airdate": "",
-        "episode_number": 388,
+        "episode_number": 10,
         "image_path": "/episode/388.webp",
         "name": "The Wife Aquatic",
         "season": 18,
@@ -3494,7 +3494,7 @@
     {
         "id": 389,
         "airdate": "2007-01-28",
-        "episode_number": 389,
+        "episode_number": 11,
         "image_path": "/episode/389.webp",
         "name": "Revenge is a Dish Best Served Three Times",
         "season": 18,
@@ -3503,7 +3503,7 @@
     {
         "id": 390,
         "airdate": "2007-02-11",
-        "episode_number": 390,
+        "episode_number": 12,
         "image_path": "/episode/390.webp",
         "name": "Little Big Girl",
         "season": 18,
@@ -3512,7 +3512,7 @@
     {
         "id": 391,
         "airdate": "2007-02-18",
-        "episode_number": 391,
+        "episode_number": 13,
         "image_path": "/episode/391.webp",
         "name": "Springfield Up",
         "season": 18,
@@ -3521,7 +3521,7 @@
     {
         "id": 392,
         "airdate": "2007-03-04",
-        "episode_number": 392,
+        "episode_number": 14,
         "image_path": "/episode/392.webp",
         "name": "Yokel Chords",
         "season": 18,
@@ -3530,7 +3530,7 @@
     {
         "id": 393,
         "airdate": "2007-03-11",
-        "episode_number": 393,
+        "episode_number": 15,
         "image_path": "/episode/393.webp",
         "name": "Rome-Old and Julie-Eh",
         "season": 18,
@@ -3539,7 +3539,7 @@
     {
         "id": 394,
         "airdate": "",
-        "episode_number": 394,
+        "episode_number": 16,
         "image_path": "/episode/394.webp",
         "name": "Homerazzi",
         "season": 18,
@@ -3548,7 +3548,7 @@
     {
         "id": 395,
         "airdate": "2007-04-22",
-        "episode_number": 395,
+        "episode_number": 17,
         "image_path": "/episode/395.webp",
         "name": "Marge Gamer",
         "season": 18,
@@ -3557,7 +3557,7 @@
     {
         "id": 396,
         "airdate": "2007-04-29",
-        "episode_number": 396,
+        "episode_number": 18,
         "image_path": "/episode/396.webp",
         "name": "The Boys of Bummer",
         "season": 18,
@@ -3566,7 +3566,7 @@
     {
         "id": 397,
         "airdate": "2007-05-06",
-        "episode_number": 397,
+        "episode_number": 19,
         "image_path": "/episode/397.webp",
         "name": "Crook and Ladder",
         "season": 18,
@@ -3575,7 +3575,7 @@
     {
         "id": 398,
         "airdate": "2007-05-13",
-        "episode_number": 398,
+        "episode_number": 20,
         "image_path": "/episode/398.webp",
         "name": "Stop, or My Dog Will Shoot!",
         "season": 18,
@@ -3584,7 +3584,7 @@
     {
         "id": 399,
         "airdate": "2007-05-20",
-        "episode_number": 399,
+        "episode_number": 21,
         "image_path": "/episode/399.webp",
         "name": "24 Minutes",
         "season": 18,
@@ -3593,7 +3593,7 @@
     {
         "id": 400,
         "airdate": "2007-05-20",
-        "episode_number": 400,
+        "episode_number": 22,
         "image_path": "/episode/400.webp",
         "name": "You Kent Always Say What You Want",
         "season": 18,
@@ -3602,7 +3602,7 @@
     {
         "id": 401,
         "airdate": "2007-09-23",
-        "episode_number": 401,
+        "episode_number": 1,
         "image_path": "/episode/401.webp",
         "name": "He Loves to Fly and He D'ohs",
         "season": 19,
@@ -3611,7 +3611,7 @@
     {
         "id": 402,
         "airdate": "2007-09-30",
-        "episode_number": 402,
+        "episode_number": 2,
         "image_path": "/episode/402.webp",
         "name": "The Homer of Seville",
         "season": 19,
@@ -3620,7 +3620,7 @@
     {
         "id": 403,
         "airdate": "2007-10-07",
-        "episode_number": 403,
+        "episode_number": 3,
         "image_path": "/episode/403.webp",
         "name": "Midnight Towboy",
         "season": 19,
@@ -3629,7 +3629,7 @@
     {
         "id": 404,
         "airdate": "2007-10-14",
-        "episode_number": 404,
+        "episode_number": 4,
         "image_path": "/episode/404.webp",
         "name": "I Don't Wanna Know Why the Caged Bird Sings",
         "season": 19,
@@ -3638,7 +3638,7 @@
     {
         "id": 405,
         "airdate": "2007-11-04",
-        "episode_number": 405,
+        "episode_number": 5,
         "image_path": "/episode/405.webp",
         "name": "Treehouse of Horror XVIII",
         "season": 19,
@@ -3647,7 +3647,7 @@
     {
         "id": 406,
         "airdate": "2007-11-11",
-        "episode_number": 406,
+        "episode_number": 6,
         "image_path": "/episode/406.webp",
         "name": "Little Orphan Millie",
         "season": 19,
@@ -3656,7 +3656,7 @@
     {
         "id": 407,
         "airdate": "2007-11-18",
-        "episode_number": 407,
+        "episode_number": 7,
         "image_path": "/episode/407.webp",
         "name": "Husbands and Knives",
         "season": 19,
@@ -3665,7 +3665,7 @@
     {
         "id": 408,
         "airdate": "2007-11-25",
-        "episode_number": 408,
+        "episode_number": 8,
         "image_path": "/episode/408.webp",
         "name": "Funeral for a Fiend",
         "season": 19,
@@ -3674,7 +3674,7 @@
     {
         "id": 409,
         "airdate": "2007-12-16",
-        "episode_number": 409,
+        "episode_number": 9,
         "image_path": "/episode/409.webp",
         "name": "Eternal Moonshine of the Simpson Mind",
         "season": 19,
@@ -3683,7 +3683,7 @@
     {
         "id": 410,
         "airdate": "2008-01-06",
-        "episode_number": 410,
+        "episode_number": 10,
         "image_path": "/episode/410.webp",
         "name": "E. Pluribus Wiggum",
         "season": 19,
@@ -3692,7 +3692,7 @@
     {
         "id": 411,
         "airdate": "2008-01-27",
-        "episode_number": 411,
+        "episode_number": 11,
         "image_path": "/episode/411.webp",
         "name": "That '90s Show",
         "season": 19,
@@ -3701,7 +3701,7 @@
     {
         "id": 412,
         "airdate": "2008-02-17",
-        "episode_number": 412,
+        "episode_number": 12,
         "image_path": "/episode/412.webp",
         "name": "Love, Springfieldian Style",
         "season": 19,
@@ -3710,7 +3710,7 @@
     {
         "id": 413,
         "airdate": "2008-03-02",
-        "episode_number": 413,
+        "episode_number": 13,
         "image_path": "/episode/413.webp",
         "name": "The Debarted",
         "season": 19,
@@ -3719,7 +3719,7 @@
     {
         "id": 414,
         "airdate": "2008-03-09",
-        "episode_number": 414,
+        "episode_number": 14,
         "image_path": "/episode/414.webp",
         "name": "Dial \"N\" for Nerder",
         "season": 19,
@@ -3728,7 +3728,7 @@
     {
         "id": 415,
         "airdate": "2008-03-30",
-        "episode_number": 415,
+        "episode_number": 15,
         "image_path": "/episode/415.webp",
         "name": "Smoke on the Daughter",
         "season": 19,
@@ -3737,7 +3737,7 @@
     {
         "id": 416,
         "airdate": "2008-04-13",
-        "episode_number": 416,
+        "episode_number": 16,
         "image_path": "/episode/416.webp",
         "name": "Papa Don't Leech",
         "season": 19,
@@ -3746,7 +3746,7 @@
     {
         "id": 417,
         "airdate": "2008-04-27",
-        "episode_number": 417,
+        "episode_number": 17,
         "image_path": "/episode/417.webp",
         "name": "Apocalypse Cow",
         "season": 19,
@@ -3755,7 +3755,7 @@
     {
         "id": 418,
         "airdate": "2008-05-04",
-        "episode_number": 418,
+        "episode_number": 18,
         "image_path": "/episode/418.webp",
         "name": "Any Given Sundance",
         "season": 19,
@@ -3764,7 +3764,7 @@
     {
         "id": 419,
         "airdate": "2008-05-11",
-        "episode_number": 419,
+        "episode_number": 19,
         "image_path": "/episode/419.webp",
         "name": "Mona Leaves-a",
         "season": 19,
@@ -3773,7 +3773,7 @@
     {
         "id": 420,
         "airdate": "2008-05-18",
-        "episode_number": 420,
+        "episode_number": 20,
         "image_path": "/episode/420.webp",
         "name": "All About Lisa",
         "season": 19,
@@ -3782,7 +3782,7 @@
     {
         "id": 421,
         "airdate": "2008-09-28",
-        "episode_number": 421,
+        "episode_number": 1,
         "image_path": "/episode/421.webp",
         "name": "Sex, Pies, and Idiot Scrapes",
         "season": 20,
@@ -3791,7 +3791,7 @@
     {
         "id": 422,
         "airdate": "2008-10-05",
-        "episode_number": 422,
+        "episode_number": 2,
         "image_path": "/episode/422.webp",
         "name": "Lost Verizon",
         "season": 20,
@@ -3800,7 +3800,7 @@
     {
         "id": 423,
         "airdate": "2008-10-19",
-        "episode_number": 423,
+        "episode_number": 3,
         "image_path": "/episode/423.webp",
         "name": "Double, Double, Boy in Trouble",
         "season": 20,
@@ -3809,7 +3809,7 @@
     {
         "id": 424,
         "airdate": "2008-11-02",
-        "episode_number": 424,
+        "episode_number": 4,
         "image_path": "/episode/424.webp",
         "name": "Treehouse of Horror XIX",
         "season": 20,
@@ -3818,7 +3818,7 @@
     {
         "id": 425,
         "airdate": "2008-11-09",
-        "episode_number": 425,
+        "episode_number": 5,
         "image_path": "/episode/425.webp",
         "name": "Dangerous Curves",
         "season": 20,
@@ -3827,7 +3827,7 @@
     {
         "id": 426,
         "airdate": "2008-11-16",
-        "episode_number": 426,
+        "episode_number": 6,
         "image_path": "/episode/426.webp",
         "name": "Homer and Lisa Exchange Cross Words",
         "season": 20,
@@ -3836,7 +3836,7 @@
     {
         "id": 427,
         "airdate": "2008-11-30",
-        "episode_number": 427,
+        "episode_number": 7,
         "image_path": "/episode/427.webp",
         "name": "MyPods and Boomsticks",
         "season": 20,
@@ -3845,7 +3845,7 @@
     {
         "id": 428,
         "airdate": "2008-12-07",
-        "episode_number": 428,
+        "episode_number": 8,
         "image_path": "/episode/428.webp",
         "name": "The Burns and the Bees",
         "season": 20,
@@ -3854,7 +3854,7 @@
     {
         "id": 429,
         "airdate": "2009-01-25",
-        "episode_number": 429,
+        "episode_number": 9,
         "image_path": "/episode/429.webp",
         "name": "Lisa the Drama Queen",
         "season": 20,
@@ -3863,7 +3863,7 @@
     {
         "id": 430,
         "airdate": "2009-02-15",
-        "episode_number": 430,
+        "episode_number": 10,
         "image_path": "/episode/430.webp",
         "name": "Take My Life, Please",
         "season": 20,
@@ -3872,7 +3872,7 @@
     {
         "id": 431,
         "airdate": "2009-03-01",
-        "episode_number": 431,
+        "episode_number": 11,
         "image_path": "/episode/431.webp",
         "name": "How the Test Was Won",
         "season": 20,
@@ -3881,7 +3881,7 @@
     {
         "id": 432,
         "airdate": "2009-03-08",
-        "episode_number": 432,
+        "episode_number": 12,
         "image_path": "/episode/432.webp",
         "name": "No Loan Again, Naturally",
         "season": 20,
@@ -3890,7 +3890,7 @@
     {
         "id": 433,
         "airdate": "2009-03-15",
-        "episode_number": 433,
+        "episode_number": 13,
         "image_path": "/episode/433.webp",
         "name": "Gone Maggie Gone",
         "season": 20,
@@ -3899,7 +3899,7 @@
     {
         "id": 434,
         "airdate": "",
-        "episode_number": 434,
+        "episode_number": 14,
         "image_path": "/episode/434.webp",
         "name": "In the Name of the Grandfather",
         "season": 20,
@@ -3908,7 +3908,7 @@
     {
         "id": 435,
         "airdate": "2009-03-29",
-        "episode_number": 435,
+        "episode_number": 15,
         "image_path": "/episode/435.webp",
         "name": "Wedding for Disaster",
         "season": 20,
@@ -3917,7 +3917,7 @@
     {
         "id": 436,
         "airdate": "2009-04-05",
-        "episode_number": 436,
+        "episode_number": 16,
         "image_path": "/episode/436.webp",
         "name": "Eeny Teeny Maya, Moe",
         "season": 20,
@@ -3926,7 +3926,7 @@
     {
         "id": 437,
         "airdate": "2009-04-19",
-        "episode_number": 437,
+        "episode_number": 17,
         "image_path": "/episode/437.webp",
         "name": "The Good, the Sad and the Drugly",
         "season": 20,
@@ -3935,7 +3935,7 @@
     {
         "id": 438,
         "airdate": "2009-04-26",
-        "episode_number": 438,
+        "episode_number": 18,
         "image_path": "/episode/438.webp",
         "name": "Father Knows Worst",
         "season": 20,
@@ -3944,7 +3944,7 @@
     {
         "id": 439,
         "airdate": "2009-05-03",
-        "episode_number": 439,
+        "episode_number": 19,
         "image_path": "/episode/439.webp",
         "name": "Waverly Hills, 9-0-2-1-D'oh",
         "season": 20,
@@ -3953,7 +3953,7 @@
     {
         "id": 440,
         "airdate": "2009-05-10",
-        "episode_number": 440,
+        "episode_number": 20,
         "image_path": "/episode/440.webp",
         "name": "Four Great Women and a Manicure",
         "season": 20,
@@ -3962,7 +3962,7 @@
     {
         "id": 441,
         "airdate": "2009-05-17",
-        "episode_number": 441,
+        "episode_number": 21,
         "image_path": "/episode/441.webp",
         "name": "Coming to Homerica",
         "season": 20,
@@ -3971,7 +3971,7 @@
     {
         "id": 442,
         "airdate": "2009-09-27",
-        "episode_number": 442,
+        "episode_number": 1,
         "image_path": "/episode/442.webp",
         "name": "Homer the Whopper",
         "season": 21,
@@ -3980,7 +3980,7 @@
     {
         "id": 443,
         "airdate": "2009-10-04",
-        "episode_number": 443,
+        "episode_number": 2,
         "image_path": "/episode/443.webp",
         "name": "Bart Gets a \"Z\"",
         "season": 21,
@@ -3989,7 +3989,7 @@
     {
         "id": 444,
         "airdate": "2009-10-11",
-        "episode_number": 444,
+        "episode_number": 3,
         "image_path": "/episode/444.webp",
         "name": "The Great Wife Hope",
         "season": 21,
@@ -3998,7 +3998,7 @@
     {
         "id": 445,
         "airdate": "",
-        "episode_number": 445,
+        "episode_number": 4,
         "image_path": "/episode/445.webp",
         "name": "Treehouse of Horror XX",
         "season": 21,
@@ -4007,7 +4007,7 @@
     {
         "id": 446,
         "airdate": "2009-11-15",
-        "episode_number": 446,
+        "episode_number": 5,
         "image_path": "/episode/446.webp",
         "name": "The Devil Wears Nada",
         "season": 21,
@@ -4016,7 +4016,7 @@
     {
         "id": 447,
         "airdate": "2009-11-22",
-        "episode_number": 447,
+        "episode_number": 6,
         "image_path": "/episode/447.webp",
         "name": "Pranks and Greens",
         "season": 21,
@@ -4025,7 +4025,7 @@
     {
         "id": 448,
         "airdate": "2009-11-29",
-        "episode_number": 448,
+        "episode_number": 7,
         "image_path": "/episode/448.webp",
         "name": "Rednecks and Broomsticks",
         "season": 21,
@@ -4034,7 +4034,7 @@
     {
         "id": 449,
         "airdate": "2009-12-13",
-        "episode_number": 449,
+        "episode_number": 8,
         "image_path": "/episode/449.webp",
         "name": "O Brother, Where Bart Thou?",
         "season": 21,
@@ -4043,7 +4043,7 @@
     {
         "id": 450,
         "airdate": "2010-01-03",
-        "episode_number": 450,
+        "episode_number": 9,
         "image_path": "/episode/450.webp",
         "name": "Thursdays with Abie",
         "season": 21,
@@ -4052,7 +4052,7 @@
     {
         "id": 451,
         "airdate": "2010-01-10",
-        "episode_number": 451,
+        "episode_number": 10,
         "image_path": "/episode/451.webp",
         "name": "Once Upon a Time in Springfield",
         "season": 21,
@@ -4061,7 +4061,7 @@
     {
         "id": 452,
         "airdate": "2010-01-31",
-        "episode_number": 452,
+        "episode_number": 11,
         "image_path": "/episode/452.webp",
         "name": "Million Dollar Maybe",
         "season": 21,
@@ -4070,7 +4070,7 @@
     {
         "id": 453,
         "airdate": "2010-02-14",
-        "episode_number": 453,
+        "episode_number": 12,
         "image_path": "/episode/453.webp",
         "name": "Boy Meets Curl",
         "season": 21,
@@ -4079,7 +4079,7 @@
     {
         "id": 454,
         "airdate": "2010-02-21",
-        "episode_number": 454,
+        "episode_number": 13,
         "image_path": "/episode/454.webp",
         "name": "The Color Yellow",
         "season": 21,
@@ -4088,7 +4088,7 @@
     {
         "id": 455,
         "airdate": "2010-03-14",
-        "episode_number": 455,
+        "episode_number": 14,
         "image_path": "/episode/455.webp",
         "name": "Postcards From the Wedge",
         "season": 21,
@@ -4097,7 +4097,7 @@
     {
         "id": 456,
         "airdate": "2010-03-21",
-        "episode_number": 456,
+        "episode_number": 15,
         "image_path": "/episode/456.webp",
         "name": "Stealing First Base",
         "season": 21,
@@ -4106,7 +4106,7 @@
     {
         "id": 457,
         "airdate": "2010-03-28",
-        "episode_number": 457,
+        "episode_number": 16,
         "image_path": "/episode/457.webp",
         "name": "The Greatest Story Ever D'ohed",
         "season": 21,
@@ -4115,7 +4115,7 @@
     {
         "id": 458,
         "airdate": "2010-04-11",
-        "episode_number": 458,
+        "episode_number": 17,
         "image_path": "/episode/458.webp",
         "name": "American History X-cellent",
         "season": 21,
@@ -4124,7 +4124,7 @@
     {
         "id": 459,
         "airdate": "2010-04-18",
-        "episode_number": 459,
+        "episode_number": 18,
         "image_path": "/episode/459.webp",
         "name": "Chief of Hearts",
         "season": 21,
@@ -4133,7 +4133,7 @@
     {
         "id": 460,
         "airdate": "2010-04-25",
-        "episode_number": 460,
+        "episode_number": 19,
         "image_path": "/episode/460.webp",
         "name": "The Squirt and the Whale",
         "season": 21,
@@ -4142,7 +4142,7 @@
     {
         "id": 461,
         "airdate": "2010-05-02",
-        "episode_number": 461,
+        "episode_number": 20,
         "image_path": "/episode/461.webp",
         "name": "To Surveil With Love",
         "season": 21,
@@ -4151,7 +4151,7 @@
     {
         "id": 462,
         "airdate": "2010-05-09",
-        "episode_number": 462,
+        "episode_number": 21,
         "image_path": "/episode/462.webp",
         "name": "Moe Letter Blues",
         "season": 21,
@@ -4160,7 +4160,7 @@
     {
         "id": 463,
         "airdate": "2010-05-16",
-        "episode_number": 463,
+        "episode_number": 22,
         "image_path": "/episode/463.webp",
         "name": "The Bob Next Door",
         "season": 21,
@@ -4169,7 +4169,7 @@
     {
         "id": 464,
         "airdate": "2010-05-23",
-        "episode_number": 464,
+        "episode_number": 23,
         "image_path": "/episode/464.webp",
         "name": "Judge Me Tender",
         "season": 21,
@@ -4178,7 +4178,7 @@
     {
         "id": 465,
         "airdate": "2010-09-26",
-        "episode_number": 465,
+        "episode_number": 1,
         "image_path": "/episode/465.webp",
         "name": "Elementary School Musical",
         "season": 22,
@@ -4187,7 +4187,7 @@
     {
         "id": 466,
         "airdate": "2010-10-03",
-        "episode_number": 466,
+        "episode_number": 2,
         "image_path": "/episode/466.webp",
         "name": "Loan-a Lisa",
         "season": 22,
@@ -4196,7 +4196,7 @@
     {
         "id": 467,
         "airdate": "2010-10-10",
-        "episode_number": 467,
+        "episode_number": 3,
         "image_path": "/episode/467.webp",
         "name": "MoneyBART",
         "season": 22,
@@ -4205,7 +4205,7 @@
     {
         "id": 468,
         "airdate": "2010-11-07",
-        "episode_number": 468,
+        "episode_number": 4,
         "image_path": "/episode/468.webp",
         "name": "Treehouse of Horror XXI",
         "season": 22,
@@ -4214,7 +4214,7 @@
     {
         "id": 469,
         "airdate": "2010-11-14",
-        "episode_number": 469,
+        "episode_number": 5,
         "image_path": "/episode/469.webp",
         "name": "Lisa Simpson, This Isn't Your Life",
         "season": 22,
@@ -4223,7 +4223,7 @@
     {
         "id": 470,
         "airdate": "2010-11-21",
-        "episode_number": 470,
+        "episode_number": 6,
         "image_path": "/episode/470.webp",
         "name": "The Fool Monty",
         "season": 22,
@@ -4232,7 +4232,7 @@
     {
         "id": 471,
         "airdate": "2010-11-28",
-        "episode_number": 471,
+        "episode_number": 7,
         "image_path": "/episode/471.webp",
         "name": "How Munched is That Birdie in the Window?",
         "season": 22,
@@ -4241,7 +4241,7 @@
     {
         "id": 472,
         "airdate": "2010-12-05",
-        "episode_number": 472,
+        "episode_number": 8,
         "image_path": "/episode/472.webp",
         "name": "The Fight Before Christmas",
         "season": 22,
@@ -4250,7 +4250,7 @@
     {
         "id": 473,
         "airdate": "2010-12-12",
-        "episode_number": 473,
+        "episode_number": 9,
         "image_path": "/episode/473.webp",
         "name": "Donnie Fatso",
         "season": 22,
@@ -4259,7 +4259,7 @@
     {
         "id": 474,
         "airdate": "2011-01-09",
-        "episode_number": 474,
+        "episode_number": 10,
         "image_path": "/episode/474.webp",
         "name": "Moms I'd Like to Forget",
         "season": 22,
@@ -4268,7 +4268,7 @@
     {
         "id": 475,
         "airdate": "2011-01-16",
-        "episode_number": 475,
+        "episode_number": 11,
         "image_path": "/episode/475.webp",
         "name": "Flaming Moe",
         "season": 22,
@@ -4277,7 +4277,7 @@
     {
         "id": 476,
         "airdate": "2011-01-23",
-        "episode_number": 476,
+        "episode_number": 12,
         "image_path": "/episode/476.webp",
         "name": "Homer the Father",
         "season": 22,
@@ -4286,7 +4286,7 @@
     {
         "id": 477,
         "airdate": "2011-02-13",
-        "episode_number": 477,
+        "episode_number": 13,
         "image_path": "/episode/477.webp",
         "name": "The Blue and the Gray",
         "season": 22,
@@ -4295,7 +4295,7 @@
     {
         "id": 478,
         "airdate": "2011-02-20",
-        "episode_number": 478,
+        "episode_number": 14,
         "image_path": "/episode/478.webp",
         "name": "Angry Dad: The Movie",
         "season": 22,
@@ -4304,7 +4304,7 @@
     {
         "id": 479,
         "airdate": "2011-03-06",
-        "episode_number": 479,
+        "episode_number": 15,
         "image_path": "/episode/479.webp",
         "name": "The Scorpion's Tale",
         "season": 22,
@@ -4313,7 +4313,7 @@
     {
         "id": 480,
         "airdate": "2011-03-13",
-        "episode_number": 480,
+        "episode_number": 16,
         "image_path": "/episode/480.webp",
         "name": "A Midsummer's Nice Dream",
         "season": 22,
@@ -4322,7 +4322,7 @@
     {
         "id": 481,
         "airdate": "2011-03-27",
-        "episode_number": 481,
+        "episode_number": 17,
         "image_path": "/episode/481.webp",
         "name": "Love is a Many Strangled Thing",
         "season": 22,
@@ -4331,7 +4331,7 @@
     {
         "id": 482,
         "airdate": "2011-04-10",
-        "episode_number": 482,
+        "episode_number": 18,
         "image_path": "/episode/482.webp",
         "name": "The Great Simpsina",
         "season": 22,
@@ -4340,7 +4340,7 @@
     {
         "id": 483,
         "airdate": "2011-05-01",
-        "episode_number": 483,
+        "episode_number": 19,
         "image_path": "/episode/483.webp",
         "name": "The Real Housewives of Fat Tony",
         "season": 22,
@@ -4349,7 +4349,7 @@
     {
         "id": 484,
         "airdate": "2011-05-08",
-        "episode_number": 484,
+        "episode_number": 20,
         "image_path": "/episode/484.webp",
         "name": "Homer Scissorhands",
         "season": 22,
@@ -4358,7 +4358,7 @@
     {
         "id": 485,
         "airdate": "2011-05-15",
-        "episode_number": 485,
+        "episode_number": 21,
         "image_path": "/episode/485.webp",
         "name": "500 Keys",
         "season": 22,
@@ -4367,7 +4367,7 @@
     {
         "id": 486,
         "airdate": "2011-05-22",
-        "episode_number": 486,
+        "episode_number": 22,
         "image_path": "/episode/486.webp",
         "name": "The Ned-liest Catch",
         "season": 22,
@@ -4376,7 +4376,7 @@
     {
         "id": 487,
         "airdate": "2011-09-25",
-        "episode_number": 487,
+        "episode_number": 1,
         "image_path": "/episode/487.webp",
         "name": "The Falcon and the D'ohman",
         "season": 23,
@@ -4385,7 +4385,7 @@
     {
         "id": 488,
         "airdate": "2011-10-02",
-        "episode_number": 488,
+        "episode_number": 2,
         "image_path": "/episode/488.webp",
         "name": "Bart Stops to Smell the Roosevelts",
         "season": 23,
@@ -4394,7 +4394,7 @@
     {
         "id": 489,
         "airdate": "2011-10-30",
-        "episode_number": 489,
+        "episode_number": 3,
         "image_path": "/episode/489.webp",
         "name": "Treehouse of Horror XXII",
         "season": 23,
@@ -4403,7 +4403,7 @@
     {
         "id": 490,
         "airdate": "2011-11-06",
-        "episode_number": 490,
+        "episode_number": 4,
         "image_path": "/episode/490.webp",
         "name": "Replaceable You",
         "season": 23,
@@ -4412,7 +4412,7 @@
     {
         "id": 491,
         "airdate": "2011-11-13",
-        "episode_number": 491,
+        "episode_number": 5,
         "image_path": "/episode/491.webp",
         "name": "The Food Wife",
         "season": 23,
@@ -4421,7 +4421,7 @@
     {
         "id": 492,
         "airdate": "2011-11-20",
-        "episode_number": 492,
+        "episode_number": 6,
         "image_path": "/episode/492.webp",
         "name": "The Book Job",
         "season": 23,
@@ -4430,7 +4430,7 @@
     {
         "id": 493,
         "airdate": "2011-11-27",
-        "episode_number": 493,
+        "episode_number": 7,
         "image_path": "/episode/493.webp",
         "name": "The Man in the Blue Flannel Pants",
         "season": 23,
@@ -4439,7 +4439,7 @@
     {
         "id": 494,
         "airdate": "2011-12-04",
-        "episode_number": 494,
+        "episode_number": 8,
         "image_path": "/episode/494.webp",
         "name": "The Ten-Per-Cent Solution",
         "season": 23,
@@ -4448,7 +4448,7 @@
     {
         "id": 495,
         "airdate": "2011-12-11",
-        "episode_number": 495,
+        "episode_number": 9,
         "image_path": "/episode/495.webp",
         "name": "Holidays of Future Passed",
         "season": 23,
@@ -4457,7 +4457,7 @@
     {
         "id": 496,
         "airdate": "2012-01-08",
-        "episode_number": 496,
+        "episode_number": 10,
         "image_path": "/episode/496.webp",
         "name": "Politically Inept, with Homer Simpson",
         "season": 23,
@@ -4466,7 +4466,7 @@
     {
         "id": 497,
         "airdate": "2012-01-15",
-        "episode_number": 497,
+        "episode_number": 11,
         "image_path": "/episode/497.webp",
         "name": "The D'oh-cial Network",
         "season": 23,
@@ -4475,7 +4475,7 @@
     {
         "id": 498,
         "airdate": "2012-01-29",
-        "episode_number": 498,
+        "episode_number": 12,
         "image_path": "/episode/498.webp",
         "name": "Moe Goes from Rags to Riches",
         "season": 23,
@@ -4484,7 +4484,7 @@
     {
         "id": 499,
         "airdate": "2012-02-12",
-        "episode_number": 499,
+        "episode_number": 13,
         "image_path": "/episode/499.webp",
         "name": "The Daughter Also Rises",
         "season": 23,
@@ -4493,7 +4493,7 @@
     {
         "id": 500,
         "airdate": "2012-02-19",
-        "episode_number": 500,
+        "episode_number": 14,
         "image_path": "/episode/500.webp",
         "name": "At Long Last Leave",
         "season": 23,
@@ -4502,7 +4502,7 @@
     {
         "id": 501,
         "airdate": "2012-03-04",
-        "episode_number": 501,
+        "episode_number": 15,
         "image_path": "/episode/501.webp",
         "name": "Exit Through the Kwik-E-Mart",
         "season": 23,
@@ -4511,7 +4511,7 @@
     {
         "id": 502,
         "airdate": "2012-03-11",
-        "episode_number": 502,
+        "episode_number": 16,
         "image_path": "/episode/502.webp",
         "name": "How I Wet Your Mother",
         "season": 23,
@@ -4520,7 +4520,7 @@
     {
         "id": 503,
         "airdate": "2012-03-18",
-        "episode_number": 503,
+        "episode_number": 17,
         "image_path": "/episode/503.webp",
         "name": "Them, Robot",
         "season": 23,
@@ -4529,7 +4529,7 @@
     {
         "id": 504,
         "airdate": "2012-04-15",
-        "episode_number": 504,
+        "episode_number": 18,
         "image_path": "/episode/504.webp",
         "name": "Beware My Cheating Bart",
         "season": 23,
@@ -4538,7 +4538,7 @@
     {
         "id": 505,
         "airdate": "2012-04-29",
-        "episode_number": 505,
+        "episode_number": 19,
         "image_path": "/episode/505.webp",
         "name": "A Totally Fun Thing Bart Will Never Do Again",
         "season": 23,
@@ -4547,7 +4547,7 @@
     {
         "id": 506,
         "airdate": "2012-05-06",
-        "episode_number": 506,
+        "episode_number": 20,
         "image_path": "/episode/506.webp",
         "name": "The Spy Who Learned Me",
         "season": 23,
@@ -4556,7 +4556,7 @@
     {
         "id": 507,
         "airdate": "2012-05-13",
-        "episode_number": 507,
+        "episode_number": 21,
         "image_path": "/episode/507.webp",
         "name": "Ned 'N Edna's Blend Agenda",
         "season": 23,
@@ -4565,7 +4565,7 @@
     {
         "id": 508,
         "airdate": "2012-05-20",
-        "episode_number": 508,
+        "episode_number": 22,
         "image_path": "/episode/508.webp",
         "name": "Lisa Goes Gaga",
         "season": 23,
@@ -4574,7 +4574,7 @@
     {
         "id": 509,
         "airdate": "2012-09-30",
-        "episode_number": 509,
+        "episode_number": 1,
         "image_path": "/episode/509.webp",
         "name": "Moonshine River",
         "season": 24,
@@ -4583,7 +4583,7 @@
     {
         "id": 510,
         "airdate": "2012-10-07",
-        "episode_number": 510,
+        "episode_number": 2,
         "image_path": "/episode/510.webp",
         "name": "Treehouse of Horror XXIII",
         "season": 24,
@@ -4592,7 +4592,7 @@
     {
         "id": 511,
         "airdate": "2012-11-04",
-        "episode_number": 511,
+        "episode_number": 3,
         "image_path": "/episode/511.webp",
         "name": "Adventures in Baby-Getting",
         "season": 24,
@@ -4601,7 +4601,7 @@
     {
         "id": 512,
         "airdate": "2012-11-11",
-        "episode_number": 512,
+        "episode_number": 4,
         "image_path": "/episode/512.webp",
         "name": "Gone Abie Gone",
         "season": 24,
@@ -4610,7 +4610,7 @@
     {
         "id": 513,
         "airdate": "2012-11-18",
-        "episode_number": 513,
+        "episode_number": 5,
         "image_path": "/episode/513.webp",
         "name": "Penny-Wiseguys",
         "season": 24,
@@ -4619,7 +4619,7 @@
     {
         "id": 514,
         "airdate": "2012-11-25",
-        "episode_number": 514,
+        "episode_number": 6,
         "image_path": "/episode/514.webp",
         "name": "A Tree Grows in Springfield",
         "season": 24,
@@ -4628,7 +4628,7 @@
     {
         "id": 515,
         "airdate": "2012-12-09",
-        "episode_number": 515,
+        "episode_number": 7,
         "image_path": "/episode/515.webp",
         "name": "The Day the Earth Stood Cool",
         "season": 24,
@@ -4637,7 +4637,7 @@
     {
         "id": 516,
         "airdate": "2012-12-16",
-        "episode_number": 516,
+        "episode_number": 8,
         "image_path": "/episode/516.webp",
         "name": "To Cur, with Love",
         "season": 24,
@@ -4646,7 +4646,7 @@
     {
         "id": 517,
         "airdate": "2013-01-06",
-        "episode_number": 517,
+        "episode_number": 9,
         "image_path": "/episode/517.webp",
         "name": "Homer Goes to Prep School",
         "season": 24,
@@ -4655,7 +4655,7 @@
     {
         "id": 518,
         "airdate": "2013-01-13",
-        "episode_number": 518,
+        "episode_number": 10,
         "image_path": "/episode/518.webp",
         "name": "A Test Before Trying",
         "season": 24,
@@ -4664,7 +4664,7 @@
     {
         "id": 519,
         "airdate": "2013-01-27",
-        "episode_number": 519,
+        "episode_number": 11,
         "image_path": "/episode/519.webp",
         "name": "Changing of the Guardian",
         "season": 24,
@@ -4673,7 +4673,7 @@
     {
         "id": 520,
         "airdate": "2013-02-10",
-        "episode_number": 520,
+        "episode_number": 12,
         "image_path": "/episode/520.webp",
         "name": "Love is a Many-Splintered Thing",
         "season": 24,
@@ -4682,7 +4682,7 @@
     {
         "id": 521,
         "airdate": "2013-02-17",
-        "episode_number": 521,
+        "episode_number": 13,
         "image_path": "/episode/521.webp",
         "name": "Hardly Kirk-ing",
         "season": 24,
@@ -4691,7 +4691,7 @@
     {
         "id": 522,
         "airdate": "2013-03-03",
-        "episode_number": 522,
+        "episode_number": 14,
         "image_path": "/episode/522.webp",
         "name": "Gorgeous Grampa",
         "season": 24,
@@ -4700,7 +4700,7 @@
     {
         "id": 523,
         "airdate": "2013-03-10",
-        "episode_number": 523,
+        "episode_number": 15,
         "image_path": "/episode/523.webp",
         "name": "Black-Eyed, Please",
         "season": 24,
@@ -4709,7 +4709,7 @@
     {
         "id": 524,
         "airdate": "2013-03-17",
-        "episode_number": 524,
+        "episode_number": 16,
         "image_path": "/episode/524.webp",
         "name": "Dark Knight Court",
         "season": 24,
@@ -4718,7 +4718,7 @@
     {
         "id": 525,
         "airdate": "2013-04-14",
-        "episode_number": 525,
+        "episode_number": 17,
         "image_path": "/episode/525.webp",
         "name": "What Animated Women Want",
         "season": 24,
@@ -4727,7 +4727,7 @@
     {
         "id": 526,
         "airdate": "2013-04-28",
-        "episode_number": 526,
+        "episode_number": 18,
         "image_path": "/episode/526.webp",
         "name": "Pulpit Friction",
         "season": 24,
@@ -4736,7 +4736,7 @@
     {
         "id": 527,
         "airdate": "2013-05-05",
-        "episode_number": 527,
+        "episode_number": 19,
         "image_path": "/episode/527.webp",
         "name": "Whiskey Business",
         "season": 24,
@@ -4745,7 +4745,7 @@
     {
         "id": 528,
         "airdate": "2013-05-12",
-        "episode_number": 528,
+        "episode_number": 20,
         "image_path": "/episode/528.webp",
         "name": "The Fabulous Faker Boy",
         "season": 24,
@@ -4754,7 +4754,7 @@
     {
         "id": 529,
         "airdate": "2013-05-19",
-        "episode_number": 529,
+        "episode_number": 21,
         "image_path": "/episode/529.webp",
         "name": "The Saga of Carl",
         "season": 24,
@@ -4763,7 +4763,7 @@
     {
         "id": 530,
         "airdate": "2013-05-19",
-        "episode_number": 530,
+        "episode_number": 22,
         "image_path": "/episode/530.webp",
         "name": "Dangers on a Train",
         "season": 24,
@@ -4772,7 +4772,7 @@
     {
         "id": 531,
         "airdate": "2013-09-29",
-        "episode_number": 531,
+        "episode_number": 1,
         "image_path": "/episode/531.webp",
         "name": "Homerland",
         "season": 25,
@@ -4781,7 +4781,7 @@
     {
         "id": 532,
         "airdate": "",
-        "episode_number": 532,
+        "episode_number": 2,
         "image_path": "/episode/532.webp",
         "name": "Treehouse of Horror XXIV",
         "season": 25,
@@ -4790,7 +4790,7 @@
     {
         "id": 533,
         "airdate": "2013-11-03",
-        "episode_number": 533,
+        "episode_number": 3,
         "image_path": "/episode/533.webp",
         "name": "Four Regrettings and a Funeral",
         "season": 25,
@@ -4799,7 +4799,7 @@
     {
         "id": 534,
         "airdate": "2013-11-10",
-        "episode_number": 534,
+        "episode_number": 4,
         "image_path": "/episode/534.webp",
         "name": "Yolo",
         "season": 25,
@@ -4808,7 +4808,7 @@
     {
         "id": 535,
         "airdate": "2013-11-17",
-        "episode_number": 535,
+        "episode_number": 5,
         "image_path": "/episode/535.webp",
         "name": "Labor Pains",
         "season": 25,
@@ -4817,7 +4817,7 @@
     {
         "id": 536,
         "airdate": "2013-11-24",
-        "episode_number": 536,
+        "episode_number": 6,
         "image_path": "/episode/536.webp",
         "name": "The Kid is All Right",
         "season": 25,
@@ -4826,7 +4826,7 @@
     {
         "id": 537,
         "airdate": "2013-12-08",
-        "episode_number": 537,
+        "episode_number": 7,
         "image_path": "/episode/537.webp",
         "name": "Yellow Subterfuge",
         "season": 25,
@@ -4835,7 +4835,7 @@
     {
         "id": 538,
         "airdate": "2013-12-15",
-        "episode_number": 538,
+        "episode_number": 8,
         "image_path": "/episode/538.webp",
         "name": "White Christmas Blues",
         "season": 25,
@@ -4844,7 +4844,7 @@
     {
         "id": 539,
         "airdate": "2014-01-05",
-        "episode_number": 539,
+        "episode_number": 9,
         "image_path": "/episode/539.webp",
         "name": "Steal This Episode",
         "season": 25,
@@ -4853,7 +4853,7 @@
     {
         "id": 540,
         "airdate": "2014-01-12",
-        "episode_number": 540,
+        "episode_number": 10,
         "image_path": "/episode/540.webp",
         "name": "Married to the Blob",
         "season": 25,
@@ -4862,7 +4862,7 @@
     {
         "id": 541,
         "airdate": "2014-01-26",
-        "episode_number": 541,
+        "episode_number": 11,
         "image_path": "/episode/541.webp",
         "name": "Specs and the City",
         "season": 25,
@@ -4871,7 +4871,7 @@
     {
         "id": 542,
         "airdate": "2014-03-09",
-        "episode_number": 542,
+        "episode_number": 12,
         "image_path": "/episode/542.webp",
         "name": "Diggs",
         "season": 25,
@@ -4880,7 +4880,7 @@
     {
         "id": 543,
         "airdate": "2014-03-09",
-        "episode_number": 543,
+        "episode_number": 13,
         "image_path": "/episode/543.webp",
         "name": "The Man Who Grew Too Much",
         "season": 25,
@@ -4889,7 +4889,7 @@
     {
         "id": 544,
         "airdate": "2014-03-16",
-        "episode_number": 544,
+        "episode_number": 14,
         "image_path": "/episode/544.webp",
         "name": "The Winter of His Content",
         "season": 25,
@@ -4898,7 +4898,7 @@
     {
         "id": 545,
         "airdate": "2014-03-23",
-        "episode_number": 545,
+        "episode_number": 15,
         "image_path": "/episode/545.webp",
         "name": "The War of Art",
         "season": 25,
@@ -4907,7 +4907,7 @@
     {
         "id": 546,
         "airdate": "2014-03-30",
-        "episode_number": 546,
+        "episode_number": 16,
         "image_path": "/episode/546.webp",
         "name": "You Don't Have to Live Like a Referee",
         "season": 25,
@@ -4916,7 +4916,7 @@
     {
         "id": 547,
         "airdate": "",
-        "episode_number": 547,
+        "episode_number": 17,
         "image_path": "/episode/547.webp",
         "name": "Luca$",
         "season": 25,
@@ -4925,7 +4925,7 @@
     {
         "id": 548,
         "airdate": "",
-        "episode_number": 548,
+        "episode_number": 18,
         "image_path": "/episode/548.webp",
         "name": "Days of Future Future",
         "season": 25,
@@ -4934,7 +4934,7 @@
     {
         "id": 549,
         "airdate": "2014-04-27",
-        "episode_number": 549,
+        "episode_number": 19,
         "image_path": "/episode/549.webp",
         "name": "What to Expect When Bart's Expecting",
         "season": 25,
@@ -4943,7 +4943,7 @@
     {
         "id": 550,
         "airdate": "2014-05-04",
-        "episode_number": 550,
+        "episode_number": 20,
         "image_path": "/episode/550.webp",
         "name": "Brick Like Me",
         "season": 25,
@@ -4952,7 +4952,7 @@
     {
         "id": 551,
         "airdate": "2014-05-11",
-        "episode_number": 551,
+        "episode_number": 21,
         "image_path": "/episode/551.webp",
         "name": "Pay Pal",
         "season": 25,
@@ -4961,7 +4961,7 @@
     {
         "id": 552,
         "airdate": "2014-05-18",
-        "episode_number": 552,
+        "episode_number": 22,
         "image_path": "/episode/552.webp",
         "name": "The Yellow Badge of Cowardge",
         "season": 25,
@@ -4970,7 +4970,7 @@
     {
         "id": 553,
         "airdate": "2014-09-28",
-        "episode_number": 553,
+        "episode_number": 1,
         "image_path": "/episode/553.webp",
         "name": "Clown in the Dumps",
         "season": 26,
@@ -4979,7 +4979,7 @@
     {
         "id": 554,
         "airdate": "2014-10-05",
-        "episode_number": 554,
+        "episode_number": 2,
         "image_path": "/episode/554.webp",
         "name": "The Wreck of the Relationship",
         "season": 26,
@@ -4988,7 +4988,7 @@
     {
         "id": 555,
         "airdate": "2014-10-12",
-        "episode_number": 555,
+        "episode_number": 3,
         "image_path": "/episode/555.webp",
         "name": "Super Franchise Me",
         "season": 26,
@@ -4997,7 +4997,7 @@
     {
         "id": 556,
         "airdate": "2014-10-19",
-        "episode_number": 556,
+        "episode_number": 4,
         "image_path": "/episode/556.webp",
         "name": "Treehouse of Horror XXV",
         "season": 26,
@@ -5006,7 +5006,7 @@
     {
         "id": 557,
         "airdate": "2014-11-02",
-        "episode_number": 557,
+        "episode_number": 5,
         "image_path": "/episode/557.webp",
         "name": "Opposites A-Frack",
         "season": 26,
@@ -5015,7 +5015,7 @@
     {
         "id": 558,
         "airdate": "2014-11-09",
-        "episode_number": 558,
+        "episode_number": 6,
         "image_path": "/episode/558.webp",
         "name": "Simpsorama",
         "season": 26,
@@ -5024,7 +5024,7 @@
     {
         "id": 559,
         "airdate": "2014-11-16",
-        "episode_number": 559,
+        "episode_number": 7,
         "image_path": "/episode/559.webp",
         "name": "Blazed and Confused",
         "season": 26,
@@ -5033,7 +5033,7 @@
     {
         "id": 560,
         "airdate": "2014-11-23",
-        "episode_number": 560,
+        "episode_number": 8,
         "image_path": "/episode/560.webp",
         "name": "Covercraft",
         "season": 26,
@@ -5042,7 +5042,7 @@
     {
         "id": 561,
         "airdate": "2014-12-07",
-        "episode_number": 561,
+        "episode_number": 9,
         "image_path": "/episode/561.webp",
         "name": "I Won't Be Home for Christmas",
         "season": 26,
@@ -5051,7 +5051,7 @@
     {
         "id": 562,
         "airdate": "2015-01-04",
-        "episode_number": 562,
+        "episode_number": 10,
         "image_path": "/episode/562.webp",
         "name": "The Man Who Came to Be Dinner",
         "season": 26,
@@ -5060,7 +5060,7 @@
     {
         "id": 563,
         "airdate": "2015-01-11",
-        "episode_number": 563,
+        "episode_number": 11,
         "image_path": "/episode/563.webp",
         "name": "Bart's New Friend",
         "season": 26,
@@ -5069,7 +5069,7 @@
     {
         "id": 564,
         "airdate": "2015-01-25",
-        "episode_number": 564,
+        "episode_number": 12,
         "image_path": "/episode/564.webp",
         "name": "The Musk Who Fell to Earth",
         "season": 26,
@@ -5078,7 +5078,7 @@
     {
         "id": 565,
         "airdate": "2015-02-08",
-        "episode_number": 565,
+        "episode_number": 13,
         "image_path": "/episode/565.webp",
         "name": "Walking Big & Tall",
         "season": 26,
@@ -5087,7 +5087,7 @@
     {
         "id": 566,
         "airdate": "2015-02-15",
-        "episode_number": 566,
+        "episode_number": 14,
         "image_path": "/episode/566.webp",
         "name": "My Fare Lady",
         "season": 26,
@@ -5096,7 +5096,7 @@
     {
         "id": 567,
         "airdate": "2015-03-01",
-        "episode_number": 567,
+        "episode_number": 15,
         "image_path": "/episode/567.webp",
         "name": "The Princess Guide",
         "season": 26,
@@ -5105,7 +5105,7 @@
     {
         "id": 568,
         "airdate": "2015-03-08",
-        "episode_number": 568,
+        "episode_number": 16,
         "image_path": "/episode/568.webp",
         "name": "Sky Police",
         "season": 26,
@@ -5114,7 +5114,7 @@
     {
         "id": 569,
         "airdate": "2015-03-15",
-        "episode_number": 569,
+        "episode_number": 17,
         "image_path": "/episode/569.webp",
         "name": "Waiting for Duffman",
         "season": 26,
@@ -5123,7 +5123,7 @@
     {
         "id": 570,
         "airdate": "2015-04-19",
-        "episode_number": 570,
+        "episode_number": 18,
         "image_path": "/episode/570.webp",
         "name": "Peeping Mom",
         "season": 26,
@@ -5132,7 +5132,7 @@
     {
         "id": 571,
         "airdate": "2015-04-26",
-        "episode_number": 571,
+        "episode_number": 19,
         "image_path": "/episode/571.webp",
         "name": "The Kids Are All Fight",
         "season": 26,
@@ -5141,7 +5141,7 @@
     {
         "id": 572,
         "airdate": "2015-05-03",
-        "episode_number": 572,
+        "episode_number": 20,
         "image_path": "/episode/572.webp",
         "name": "Let's Go Fly a Coot",
         "season": 26,
@@ -5150,7 +5150,7 @@
     {
         "id": 573,
         "airdate": "2015-05-10",
-        "episode_number": 573,
+        "episode_number": 21,
         "image_path": "/episode/573.webp",
         "name": "Bull-E",
         "season": 26,
@@ -5159,7 +5159,7 @@
     {
         "id": 574,
         "airdate": "2015-05-17",
-        "episode_number": 574,
+        "episode_number": 22,
         "image_path": "/episode/574.webp",
         "name": "Mathlete's Feat",
         "season": 26,
@@ -5168,7 +5168,7 @@
     {
         "id": 575,
         "airdate": "2015-09-27",
-        "episode_number": 575,
+        "episode_number": 1,
         "image_path": "/episode/575.webp",
         "name": "Every Man's Dream",
         "season": 27,
@@ -5177,7 +5177,7 @@
     {
         "id": 576,
         "airdate": "2015-10-04",
-        "episode_number": 576,
+        "episode_number": 2,
         "image_path": "/episode/576.webp",
         "name": "Cue Detective",
         "season": 27,
@@ -5186,7 +5186,7 @@
     {
         "id": 577,
         "airdate": "2015-10-11",
-        "episode_number": 577,
+        "episode_number": 3,
         "image_path": "/episode/577.webp",
         "name": "Puffless",
         "season": 27,
@@ -5195,7 +5195,7 @@
     {
         "id": 578,
         "airdate": "2015-10-18",
-        "episode_number": 578,
+        "episode_number": 4,
         "image_path": "/episode/578.webp",
         "name": "Halloween of Horror",
         "season": 27,
@@ -5204,7 +5204,7 @@
     {
         "id": 579,
         "airdate": "2015-10-25",
-        "episode_number": 579,
+        "episode_number": 5,
         "image_path": "/episode/579.webp",
         "name": "Treehouse of Horror XXVI",
         "season": 27,
@@ -5213,7 +5213,7 @@
     {
         "id": 580,
         "airdate": "",
-        "episode_number": 580,
+        "episode_number": 6,
         "image_path": "/episode/580.webp",
         "name": "Friend with Benefit",
         "season": 27,
@@ -5222,7 +5222,7 @@
     {
         "id": 581,
         "airdate": "2015-11-22",
-        "episode_number": 581,
+        "episode_number": 7,
         "image_path": "/episode/581.webp",
         "name": "Lisa with an \"S\"",
         "season": 27,
@@ -5231,7 +5231,7 @@
     {
         "id": 582,
         "airdate": "",
-        "episode_number": 582,
+        "episode_number": 8,
         "image_path": "/episode/582.webp",
         "name": "Paths of Glory",
         "season": 27,
@@ -5240,7 +5240,7 @@
     {
         "id": 583,
         "airdate": "2015-12-13",
-        "episode_number": 583,
+        "episode_number": 9,
         "image_path": "/episode/583.webp",
         "name": "Barthood",
         "season": 27,
@@ -5249,7 +5249,7 @@
     {
         "id": 584,
         "airdate": "",
-        "episode_number": 584,
+        "episode_number": 10,
         "image_path": "/episode/584.webp",
         "name": "The Girl Code",
         "season": 27,
@@ -5258,7 +5258,7 @@
     {
         "id": 585,
         "airdate": "",
-        "episode_number": 585,
+        "episode_number": 11,
         "image_path": "/episode/585.webp",
         "name": "Teenage Mutant Milk-caused Hurdles",
         "season": 27,
@@ -5267,7 +5267,7 @@
     {
         "id": 586,
         "airdate": "",
-        "episode_number": 586,
+        "episode_number": 12,
         "image_path": "/episode/586.webp",
         "name": "Much Apu About Something",
         "season": 27,
@@ -5276,7 +5276,7 @@
     {
         "id": 587,
         "airdate": "2016-02-14",
-        "episode_number": 587,
+        "episode_number": 13,
         "image_path": "/episode/587.webp",
         "name": "Love Is in the N2-O2-Ar-CO2-Ne-He-CH4",
         "season": 27,
@@ -5285,7 +5285,7 @@
     {
         "id": 588,
         "airdate": "2016-02-21",
-        "episode_number": 588,
+        "episode_number": 14,
         "image_path": "/episode/588.webp",
         "name": "Gal of Constant Sorrow",
         "season": 27,
@@ -5294,7 +5294,7 @@
     {
         "id": 589,
         "airdate": "2016-03-06",
-        "episode_number": 589,
+        "episode_number": 15,
         "image_path": "/episode/589.webp",
         "name": "Lisa the Veterinarian",
         "season": 27,
@@ -5303,7 +5303,7 @@
     {
         "id": 590,
         "airdate": "2016-03-13",
-        "episode_number": 590,
+        "episode_number": 16,
         "image_path": "/episode/590.webp",
         "name": "The Marge-ian Chronicles",
         "season": 27,
@@ -5312,7 +5312,7 @@
     {
         "id": 591,
         "airdate": "2016-04-03",
-        "episode_number": 591,
+        "episode_number": 17,
         "image_path": "/episode/591.webp",
         "name": "The Burns Cage",
         "season": 27,
@@ -5321,7 +5321,7 @@
     {
         "id": 592,
         "airdate": "2016-04-10",
-        "episode_number": 592,
+        "episode_number": 18,
         "image_path": "/episode/592.webp",
         "name": "How Lisa Got Her Marge Back",
         "season": 27,
@@ -5330,7 +5330,7 @@
     {
         "id": 593,
         "airdate": "2016-04-24",
-        "episode_number": 593,
+        "episode_number": 19,
         "image_path": "/episode/593.webp",
         "name": "Fland Canyon",
         "season": 27,
@@ -5339,7 +5339,7 @@
     {
         "id": 594,
         "airdate": "2016-05-08",
-        "episode_number": 594,
+        "episode_number": 20,
         "image_path": "/episode/594.webp",
         "name": "To Courier with Love",
         "season": 27,
@@ -5348,7 +5348,7 @@
     {
         "id": 595,
         "airdate": "2016-05-15",
-        "episode_number": 595,
+        "episode_number": 21,
         "image_path": "/episode/595.webp",
         "name": "Simprovised",
         "season": 27,
@@ -5357,7 +5357,7 @@
     {
         "id": 596,
         "airdate": "2016-05-22",
-        "episode_number": 596,
+        "episode_number": 22,
         "image_path": "/episode/596.webp",
         "name": "Orange is the New Yellow",
         "season": 27,
@@ -5366,7 +5366,7 @@
     {
         "id": 597,
         "airdate": "2016-09-25",
-        "episode_number": 597,
+        "episode_number": 1,
         "image_path": "/episode/597.webp",
         "name": "Monty Burns' Fleeing Circus",
         "season": 28,
@@ -5375,7 +5375,7 @@
     {
         "id": 598,
         "airdate": "2016-10-02",
-        "episode_number": 598,
+        "episode_number": 2,
         "image_path": "/episode/598.webp",
         "name": "Friends and Family",
         "season": 28,
@@ -5384,7 +5384,7 @@
     {
         "id": 599,
         "airdate": "2016-10-09",
-        "episode_number": 599,
+        "episode_number": 3,
         "image_path": "/episode/599.webp",
         "name": "The Town",
         "season": 28,
@@ -5393,7 +5393,7 @@
     {
         "id": 600,
         "airdate": "",
-        "episode_number": 600,
+        "episode_number": 4,
         "image_path": "/episode/600.webp",
         "name": "Treehouse of Horror XXVII",
         "season": 28,
@@ -5402,7 +5402,7 @@
     {
         "id": 601,
         "airdate": "2016-10-23",
-        "episode_number": 601,
+        "episode_number": 5,
         "image_path": "/episode/601.webp",
         "name": "Trust But Clarify",
         "season": 28,
@@ -5411,7 +5411,7 @@
     {
         "id": 602,
         "airdate": "2016-11-06",
-        "episode_number": 602,
+        "episode_number": 6,
         "image_path": "/episode/602.webp",
         "name": "There Will Be Buds",
         "season": 28,
@@ -5420,7 +5420,7 @@
     {
         "id": 603,
         "airdate": "2016-11-13",
-        "episode_number": 603,
+        "episode_number": 7,
         "image_path": "/episode/603.webp",
         "name": "Havana Wild Weekend",
         "season": 28,
@@ -5429,7 +5429,7 @@
     {
         "id": 604,
         "airdate": "2016-11-20",
-        "episode_number": 604,
+        "episode_number": 8,
         "image_path": "/episode/604.webp",
         "name": "Dad Behavior",
         "season": 28,
@@ -5438,7 +5438,7 @@
     {
         "id": 605,
         "airdate": "2016-12-04",
-        "episode_number": 605,
+        "episode_number": 9,
         "image_path": "/episode/605.webp",
         "name": "The Last Traction Hero",
         "season": 28,
@@ -5447,7 +5447,7 @@
     {
         "id": 606,
         "airdate": "2016-12-11",
-        "episode_number": 606,
+        "episode_number": 10,
         "image_path": "/episode/606.webp",
         "name": "The Nightmare After Krustmas",
         "season": 28,
@@ -5456,7 +5456,7 @@
     {
         "id": 607,
         "airdate": "2017-01-08",
-        "episode_number": 607,
+        "episode_number": 11,
         "image_path": "/episode/607.webp",
         "name": "Pork and Burns",
         "season": 28,
@@ -5465,7 +5465,7 @@
     {
         "id": 608,
         "airdate": "2017-01-15",
-        "episode_number": 608,
+        "episode_number": 12,
         "image_path": "/episode/608.webp",
         "name": "The Great Phatsby (1)",
         "season": 28,
@@ -5474,7 +5474,7 @@
     {
         "id": 609,
         "airdate": "2017-01-15",
-        "episode_number": 609,
+        "episode_number": 13,
         "image_path": "/episode/609.webp",
         "name": "The Great Phatsby (2)",
         "season": 28,
@@ -5483,7 +5483,7 @@
     {
         "id": 610,
         "airdate": "2017-02-12",
-        "episode_number": 610,
+        "episode_number": 14,
         "image_path": "/episode/610.webp",
         "name": "Fatzcarraldo",
         "season": 28,
@@ -5492,7 +5492,7 @@
     {
         "id": 611,
         "airdate": "2017-02-19",
-        "episode_number": 611,
+        "episode_number": 15,
         "image_path": "/episode/611.webp",
         "name": "The Cad and the Hat",
         "season": 28,
@@ -5501,7 +5501,7 @@
     {
         "id": 612,
         "airdate": "2017-03-05",
-        "episode_number": 612,
+        "episode_number": 16,
         "image_path": "/episode/612.webp",
         "name": "Kamp Krustier",
         "season": 28,
@@ -5510,7 +5510,7 @@
     {
         "id": 613,
         "airdate": "2017-03-12",
-        "episode_number": 613,
+        "episode_number": 17,
         "image_path": "/episode/613.webp",
         "name": "22 For 30",
         "season": 28,
@@ -5519,7 +5519,7 @@
     {
         "id": 614,
         "airdate": "2017-03-19",
-        "episode_number": 614,
+        "episode_number": 18,
         "image_path": "/episode/614.webp",
         "name": "A Father's Watch",
         "season": 28,
@@ -5528,7 +5528,7 @@
     {
         "id": 615,
         "airdate": "2017-04-02",
-        "episode_number": 615,
+        "episode_number": 19,
         "image_path": "/episode/615.webp",
         "name": "The Caper Chase",
         "season": 28,
@@ -5537,7 +5537,7 @@
     {
         "id": 616,
         "airdate": "",
-        "episode_number": 616,
+        "episode_number": 20,
         "image_path": "/episode/616.webp",
         "name": "Looking for Mr. Goodbart",
         "season": 28,
@@ -5546,7 +5546,7 @@
     {
         "id": 617,
         "airdate": "2017-05-07",
-        "episode_number": 617,
+        "episode_number": 21,
         "image_path": "/episode/617.webp",
         "name": "Moho House",
         "season": 28,
@@ -5555,7 +5555,7 @@
     {
         "id": 618,
         "airdate": "2017-05-21",
-        "episode_number": 618,
+        "episode_number": 22,
         "image_path": "/episode/618.webp",
         "name": "Dogtown",
         "season": 28,
@@ -5564,7 +5564,7 @@
     {
         "id": 619,
         "airdate": "",
-        "episode_number": 619,
+        "episode_number": 1,
         "image_path": "/episode/619.webp",
         "name": "The Serfsons",
         "season": 29,
@@ -5573,7 +5573,7 @@
     {
         "id": 620,
         "airdate": "2017-10-08",
-        "episode_number": 620,
+        "episode_number": 2,
         "image_path": "/episode/620.webp",
         "name": "Springfield Splendor",
         "season": 29,
@@ -5582,7 +5582,7 @@
     {
         "id": 621,
         "airdate": "2017-10-15",
-        "episode_number": 621,
+        "episode_number": 3,
         "image_path": "/episode/621.webp",
         "name": "Whistler's Father",
         "season": 29,
@@ -5591,7 +5591,7 @@
     {
         "id": 622,
         "airdate": "2017-10-22",
-        "episode_number": 622,
+        "episode_number": 4,
         "image_path": "/episode/622.webp",
         "name": "Treehouse of Horror XXVIII",
         "season": 29,
@@ -5600,7 +5600,7 @@
     {
         "id": 623,
         "airdate": "2017-11-05",
-        "episode_number": 623,
+        "episode_number": 5,
         "image_path": "/episode/623.webp",
         "name": "Grampy Can Ya Hear Me",
         "season": 29,
@@ -5609,7 +5609,7 @@
     {
         "id": 624,
         "airdate": "",
-        "episode_number": 624,
+        "episode_number": 6,
         "image_path": "/episode/624.webp",
         "name": "The Old Blue Mayor She Ain't What She Used to Be",
         "season": 29,
@@ -5618,7 +5618,7 @@
     {
         "id": 625,
         "airdate": "",
-        "episode_number": 625,
+        "episode_number": 7,
         "image_path": "/episode/625.webp",
         "name": "Singin' in the Lane",
         "season": 29,
@@ -5627,7 +5627,7 @@
     {
         "id": 626,
         "airdate": "2017-12-03",
-        "episode_number": 626,
+        "episode_number": 8,
         "image_path": "/episode/626.webp",
         "name": "Mr. Lisa's Opus",
         "season": 29,
@@ -5636,7 +5636,7 @@
     {
         "id": 627,
         "airdate": "2017-12-10",
-        "episode_number": 627,
+        "episode_number": 9,
         "image_path": "/episode/627.webp",
         "name": "Gone Boy",
         "season": 29,
@@ -5645,7 +5645,7 @@
     {
         "id": 628,
         "airdate": "2018-01-07",
-        "episode_number": 628,
+        "episode_number": 10,
         "image_path": "/episode/628.webp",
         "name": "Haw-Haw Land",
         "season": 29,
@@ -5654,7 +5654,7 @@
     {
         "id": 629,
         "airdate": "2018-01-14",
-        "episode_number": 629,
+        "episode_number": 11,
         "image_path": "/episode/629.webp",
         "name": "Frink Gets Testy",
         "season": 29,
@@ -5663,7 +5663,7 @@
     {
         "id": 630,
         "airdate": "2018-03-18",
-        "episode_number": 630,
+        "episode_number": 12,
         "image_path": "/episode/630.webp",
         "name": "Homer Is Where the Art Isn't",
         "season": 29,
@@ -5672,7 +5672,7 @@
     {
         "id": 631,
         "airdate": "2018-03-25",
-        "episode_number": 631,
+        "episode_number": 13,
         "image_path": "/episode/631.webp",
         "name": "3 Scenes Plus a Tag from a Marriage",
         "season": 29,
@@ -5681,7 +5681,7 @@
     {
         "id": 632,
         "airdate": "2018-04-01",
-        "episode_number": 632,
+        "episode_number": 14,
         "image_path": "/episode/632.webp",
         "name": "Fears of a Clown",
         "season": 29,
@@ -5690,7 +5690,7 @@
     {
         "id": 633,
         "airdate": "2018-04-08",
-        "episode_number": 633,
+        "episode_number": 15,
         "image_path": "/episode/633.webp",
         "name": "No Good Read Goes Unpunished",
         "season": 29,
@@ -5699,7 +5699,7 @@
     {
         "id": 634,
         "airdate": "2018-04-15",
-        "episode_number": 634,
+        "episode_number": 16,
         "image_path": "/episode/634.webp",
         "name": "King Leer",
         "season": 29,
@@ -5708,7 +5708,7 @@
     {
         "id": 635,
         "airdate": "2018-04-22",
-        "episode_number": 635,
+        "episode_number": 17,
         "image_path": "/episode/635.webp",
         "name": "Lisa Gets the Blues",
         "season": 29,
@@ -5717,7 +5717,7 @@
     {
         "id": 636,
         "airdate": "2018-04-29",
-        "episode_number": 636,
+        "episode_number": 18,
         "image_path": "/episode/636.webp",
         "name": "Forgive and Regret",
         "season": 29,
@@ -5726,7 +5726,7 @@
     {
         "id": 637,
         "airdate": "2018-05-06",
-        "episode_number": 637,
+        "episode_number": 19,
         "image_path": "/episode/637.webp",
         "name": "Left Behind",
         "season": 29,
@@ -5735,7 +5735,7 @@
     {
         "id": 638,
         "airdate": "",
-        "episode_number": 638,
+        "episode_number": 20,
         "image_path": "/episode/638.webp",
         "name": "Throw Grampa from the Dane",
         "season": 29,
@@ -5744,7 +5744,7 @@
     {
         "id": 639,
         "airdate": "",
-        "episode_number": 639,
+        "episode_number": 21,
         "image_path": "/episode/639.webp",
         "name": "Flanders' Ladder",
         "season": 29,
@@ -5753,7 +5753,7 @@
     {
         "id": 640,
         "airdate": "",
-        "episode_number": 640,
+        "episode_number": 1,
         "image_path": "/episode/640.webp",
         "name": "Bart's Not Dead",
         "season": 30,
@@ -5762,7 +5762,7 @@
     {
         "id": 641,
         "airdate": "",
-        "episode_number": 641,
+        "episode_number": 2,
         "image_path": "/episode/641.webp",
         "name": "Heartbreak Hotel",
         "season": 30,
@@ -5771,7 +5771,7 @@
     {
         "id": 642,
         "airdate": "",
-        "episode_number": 642,
+        "episode_number": 3,
         "image_path": "/episode/642.webp",
         "name": "My Way or the Highway to Heaven",
         "season": 30,
@@ -5780,7 +5780,7 @@
     {
         "id": 643,
         "airdate": "",
-        "episode_number": 643,
+        "episode_number": 4,
         "image_path": "/episode/643.webp",
         "name": "Treehouse of Horror XXIX",
         "season": 30,
@@ -5789,7 +5789,7 @@
     {
         "id": 644,
         "airdate": "2018-11-04",
-        "episode_number": 644,
+        "episode_number": 5,
         "image_path": "/episode/644.webp",
         "name": "Baby You Can't Drive My Car",
         "season": 30,
@@ -5798,7 +5798,7 @@
     {
         "id": 645,
         "airdate": "2018-11-11",
-        "episode_number": 645,
+        "episode_number": 6,
         "image_path": "/episode/645.webp",
         "name": "From Russia Without Love",
         "season": 30,
@@ -5807,7 +5807,7 @@
     {
         "id": 646,
         "airdate": "2018-11-18",
-        "episode_number": 646,
+        "episode_number": 7,
         "image_path": "/episode/646.webp",
         "name": "Werking Mom",
         "season": 30,
@@ -5816,7 +5816,7 @@
     {
         "id": 647,
         "airdate": "2018-11-25",
-        "episode_number": 647,
+        "episode_number": 8,
         "image_path": "/episode/647.webp",
         "name": "Krusty the Clown",
         "season": 30,
@@ -5825,7 +5825,7 @@
     {
         "id": 648,
         "airdate": "2018-12-02",
-        "episode_number": 648,
+        "episode_number": 9,
         "image_path": "/episode/648.webp",
         "name": "Daddicus Finch",
         "season": 30,
@@ -5834,7 +5834,7 @@
     {
         "id": 649,
         "airdate": "2018-12-09",
-        "episode_number": 649,
+        "episode_number": 10,
         "image_path": "/episode/649.webp",
         "name": "'Tis the 30th Season",
         "season": 30,
@@ -5843,7 +5843,7 @@
     {
         "id": 650,
         "airdate": "2019-01-06",
-        "episode_number": 650,
+        "episode_number": 11,
         "image_path": "/episode/650.webp",
         "name": "Mad About the Toy",
         "season": 30,
@@ -5852,7 +5852,7 @@
     {
         "id": 651,
         "airdate": "2019-01-13",
-        "episode_number": 651,
+        "episode_number": 12,
         "image_path": "/episode/651.webp",
         "name": "The Girl on the Bus",
         "season": 30,
@@ -5861,7 +5861,7 @@
     {
         "id": 652,
         "airdate": "2019-02-10",
-        "episode_number": 652,
+        "episode_number": 13,
         "image_path": "/episode/652.webp",
         "name": "I'm Dancing as Fat as I Can",
         "season": 30,
@@ -5870,7 +5870,7 @@
     {
         "id": 653,
         "airdate": "2019-02-17",
-        "episode_number": 653,
+        "episode_number": 14,
         "image_path": "/episode/653.webp",
         "name": "The Clown Stays in the Picture",
         "season": 30,
@@ -5879,7 +5879,7 @@
     {
         "id": 654,
         "airdate": "2019-03-03",
-        "episode_number": 654,
+        "episode_number": 15,
         "image_path": "/episode/654.webp",
         "name": "101 Mitigations",
         "season": 30,
@@ -5888,7 +5888,7 @@
     {
         "id": 655,
         "airdate": "2019-03-10",
-        "episode_number": 655,
+        "episode_number": 16,
         "image_path": "/episode/655.webp",
         "name": "I Want You (She's So Heavy)",
         "season": 30,
@@ -5897,7 +5897,7 @@
     {
         "id": 656,
         "airdate": "2019-03-17",
-        "episode_number": 656,
+        "episode_number": 17,
         "image_path": "/episode/656.webp",
         "name": "E My Sports",
         "season": 30,
@@ -5906,7 +5906,7 @@
     {
         "id": 657,
         "airdate": "2019-03-24",
-        "episode_number": 657,
+        "episode_number": 18,
         "image_path": "/episode/657.webp",
         "name": "Bart vs. Itchy & Scratchy",
         "season": 30,
@@ -5915,7 +5915,7 @@
     {
         "id": 658,
         "airdate": "2019-03-31",
-        "episode_number": 658,
+        "episode_number": 19,
         "image_path": "/episode/658.webp",
         "name": "Girl's in the Band",
         "season": 30,
@@ -5924,7 +5924,7 @@
     {
         "id": 659,
         "airdate": "2019-04-07",
-        "episode_number": 659,
+        "episode_number": 20,
         "image_path": "/episode/659.webp",
         "name": "I'm Just a Girl Who Can't Say D'oh",
         "season": 30,
@@ -5933,7 +5933,7 @@
     {
         "id": 660,
         "airdate": "2019-04-28",
-        "episode_number": 660,
+        "episode_number": 21,
         "image_path": "/episode/660.webp",
         "name": "D'oh Canada",
         "season": 30,
@@ -5942,7 +5942,7 @@
     {
         "id": 661,
         "airdate": "2019-05-05",
-        "episode_number": 661,
+        "episode_number": 22,
         "image_path": "/episode/661.webp",
         "name": "Woo-hoo Dunnit?",
         "season": 30,
@@ -5951,7 +5951,7 @@
     {
         "id": 662,
         "airdate": "2019-05-12",
-        "episode_number": 662,
+        "episode_number": 23,
         "image_path": "/episode/662.webp",
         "name": "Crystal Blue-Haired Persuasion",
         "season": 30,
@@ -5960,7 +5960,7 @@
     {
         "id": 663,
         "airdate": "",
-        "episode_number": 663,
+        "episode_number": 1,
         "image_path": "/episode/663.webp",
         "name": "The Winter of Our Monetized Content",
         "season": 31,
@@ -5969,7 +5969,7 @@
     {
         "id": 664,
         "airdate": "2019-10-06",
-        "episode_number": 664,
+        "episode_number": 2,
         "image_path": "/episode/664.webp",
         "name": "Go Big or Go Homer",
         "season": 31,
@@ -5978,7 +5978,7 @@
     {
         "id": 665,
         "airdate": "2019-10-13",
-        "episode_number": 665,
+        "episode_number": 3,
         "image_path": "/episode/665.webp",
         "name": "The Fat Blue Line",
         "season": 31,
@@ -5987,7 +5987,7 @@
     {
         "id": 666,
         "airdate": "2019-10-20",
-        "episode_number": 666,
+        "episode_number": 4,
         "image_path": "/episode/666.webp",
         "name": "Treehouse of Horror XXX",
         "season": 31,
@@ -5996,7 +5996,7 @@
     {
         "id": 667,
         "airdate": "2019-11-03",
-        "episode_number": 667,
+        "episode_number": 5,
         "image_path": "/episode/667.webp",
         "name": "Gorillas on the Mast",
         "season": 31,
@@ -6005,7 +6005,7 @@
     {
         "id": 668,
         "airdate": "2019-11-10",
-        "episode_number": 668,
+        "episode_number": 6,
         "image_path": "/episode/668.webp",
         "name": "Marge the Lumberjill",
         "season": 31,
@@ -6014,7 +6014,7 @@
     {
         "id": 669,
         "airdate": "2019-11-17",
-        "episode_number": 669,
+        "episode_number": 7,
         "image_path": "/episode/669.webp",
         "name": "Livin' La Pura Vida",
         "season": 31,
@@ -6023,7 +6023,7 @@
     {
         "id": 670,
         "airdate": "2019-11-24",
-        "episode_number": 670,
+        "episode_number": 8,
         "image_path": "/episode/670.webp",
         "name": "Thanksgiving of Horror",
         "season": 31,
@@ -6032,7 +6032,7 @@
     {
         "id": 671,
         "airdate": "2019-12-01",
-        "episode_number": 671,
+        "episode_number": 9,
         "image_path": "/episode/671.webp",
         "name": "Todd, Todd, Why Hast Thou Forsaken Me?",
         "season": 31,
@@ -6041,7 +6041,7 @@
     {
         "id": 672,
         "airdate": "",
-        "episode_number": 672,
+        "episode_number": 10,
         "image_path": "/episode/672.webp",
         "name": "Bobby, It's Cold Outside",
         "season": 31,
@@ -6050,7 +6050,7 @@
     {
         "id": 673,
         "airdate": "2020-01-05",
-        "episode_number": 673,
+        "episode_number": 11,
         "image_path": "/episode/673.webp",
         "name": "Hail to the Teeth",
         "season": 31,
@@ -6059,7 +6059,7 @@
     {
         "id": 674,
         "airdate": "2020-02-16",
-        "episode_number": 674,
+        "episode_number": 12,
         "image_path": "/episode/674.webp",
         "name": "The Miseducation of Lisa Simpson",
         "season": 31,
@@ -6068,7 +6068,7 @@
     {
         "id": 675,
         "airdate": "2020-02-23",
-        "episode_number": 675,
+        "episode_number": 13,
         "image_path": "/episode/675.webp",
         "name": "Frinkcoin",
         "season": 31,
@@ -6077,7 +6077,7 @@
     {
         "id": 676,
         "airdate": "2020-03-01",
-        "episode_number": 676,
+        "episode_number": 14,
         "image_path": "/episode/676.webp",
         "name": "Bart the Bad Guy",
         "season": 31,
@@ -6086,7 +6086,7 @@
     {
         "id": 677,
         "airdate": "2020-03-08",
-        "episode_number": 677,
+        "episode_number": 15,
         "image_path": "/episode/677.webp",
         "name": "Screenless",
         "season": 31,
@@ -6095,7 +6095,7 @@
     {
         "id": 678,
         "airdate": "2020-03-15",
-        "episode_number": 678,
+        "episode_number": 16,
         "image_path": "/episode/678.webp",
         "name": "Better Off Ned (episode)",
         "season": 31,
@@ -6104,7 +6104,7 @@
     {
         "id": 679,
         "airdate": "2020-03-22",
-        "episode_number": 679,
+        "episode_number": 17,
         "image_path": "/episode/679.webp",
         "name": "Highway to Well",
         "season": 31,
@@ -6113,7 +6113,7 @@
     {
         "id": 680,
         "airdate": "",
-        "episode_number": 680,
+        "episode_number": 18,
         "image_path": "/episode/680.webp",
         "name": "The Incredible Lightness of Being a Baby",
         "season": 31,
@@ -6122,7 +6122,7 @@
     {
         "id": 681,
         "airdate": "2020-04-26",
-        "episode_number": 681,
+        "episode_number": 19,
         "image_path": "/episode/681.webp",
         "name": "Warrin' Priests (Part One)",
         "season": 31,
@@ -6131,7 +6131,7 @@
     {
         "id": 682,
         "airdate": "2020-05-03",
-        "episode_number": 682,
+        "episode_number": 20,
         "image_path": "/episode/682.webp",
         "name": "Warrin' Priests (Part Two)",
         "season": 31,
@@ -6140,7 +6140,7 @@
     {
         "id": 683,
         "airdate": "2020-05-10",
-        "episode_number": 683,
+        "episode_number": 21,
         "image_path": "/episode/683.webp",
         "name": "The Hateful Eight-Year-Olds",
         "season": 31,
@@ -6149,7 +6149,7 @@
     {
         "id": 684,
         "airdate": "2020-05-17",
-        "episode_number": 684,
+        "episode_number": 22,
         "image_path": "/episode/684.webp",
         "name": "The Way of the Dog",
         "season": 31,
@@ -6158,7 +6158,7 @@
     {
         "id": 685,
         "airdate": "2020-09-27",
-        "episode_number": 685,
+        "episode_number": 1,
         "image_path": "/episode/685.webp",
         "name": "Undercover Burns",
         "season": 32,
@@ -6167,7 +6167,7 @@
     {
         "id": 686,
         "airdate": "2020-10-04",
-        "episode_number": 686,
+        "episode_number": 2,
         "image_path": "/episode/686.webp",
         "name": "I, Carumbus",
         "season": 32,
@@ -6176,7 +6176,7 @@
     {
         "id": 687,
         "airdate": "2020-10-11",
-        "episode_number": 687,
+        "episode_number": 3,
         "image_path": "/episode/687.webp",
         "name": "Now Museum, Now You Don't",
         "season": 32,
@@ -6185,7 +6185,7 @@
     {
         "id": 688,
         "airdate": "",
-        "episode_number": 688,
+        "episode_number": 4,
         "image_path": "/episode/688.webp",
         "name": "Treehouse of Horror XXXI",
         "season": 32,
@@ -6194,7 +6194,7 @@
     {
         "id": 689,
         "airdate": "2020-11-08",
-        "episode_number": 689,
+        "episode_number": 5,
         "image_path": "/episode/689.webp",
         "name": "The 7 Beer Itch",
         "season": 32,
@@ -6203,7 +6203,7 @@
     {
         "id": 690,
         "airdate": "2020-11-15",
-        "episode_number": 690,
+        "episode_number": 6,
         "image_path": "/episode/690.webp",
         "name": "Podcast News",
         "season": 32,
@@ -6212,7 +6212,7 @@
     {
         "id": 691,
         "airdate": "2020-11-22",
-        "episode_number": 691,
+        "episode_number": 7,
         "image_path": "/episode/691.webp",
         "name": "Three Dreams Denied",
         "season": 32,
@@ -6221,7 +6221,7 @@
     {
         "id": 692,
         "airdate": "2020-11-29",
-        "episode_number": 692,
+        "episode_number": 8,
         "image_path": "/episode/692.webp",
         "name": "The Road to Cincinnati",
         "season": 32,
@@ -6230,7 +6230,7 @@
     {
         "id": 693,
         "airdate": "2020-12-06",
-        "episode_number": 693,
+        "episode_number": 9,
         "image_path": "/episode/693.webp",
         "name": "Sorry Not Sorry",
         "season": 32,
@@ -6239,7 +6239,7 @@
     {
         "id": 694,
         "airdate": "2020-12-13",
-        "episode_number": 694,
+        "episode_number": 10,
         "image_path": "/episode/694.webp",
         "name": "A Springfield Summer Christmas for Christmas",
         "season": 32,
@@ -6248,7 +6248,7 @@
     {
         "id": 695,
         "airdate": "2021-01-03",
-        "episode_number": 695,
+        "episode_number": 11,
         "image_path": "/episode/695.webp",
         "name": "The Dad-Feelings Limited",
         "season": 32,
@@ -6257,7 +6257,7 @@
     {
         "id": 696,
         "airdate": "",
-        "episode_number": 696,
+        "episode_number": 12,
         "image_path": "/episode/696.webp",
         "name": "Diary Queen",
         "season": 32,
@@ -6266,7 +6266,7 @@
     {
         "id": 697,
         "airdate": "2021-02-28",
-        "episode_number": 697,
+        "episode_number": 13,
         "image_path": "/episode/697.webp",
         "name": "Wad Goals",
         "season": 32,
@@ -6275,7 +6275,7 @@
     {
         "id": 698,
         "airdate": "2021-03-07",
-        "episode_number": 698,
+        "episode_number": 14,
         "image_path": "/episode/698.webp",
         "name": "Yokel Hero",
         "season": 32,
@@ -6284,7 +6284,7 @@
     {
         "id": 699,
         "airdate": "2021-03-14",
-        "episode_number": 699,
+        "episode_number": 15,
         "image_path": "/episode/699.webp",
         "name": "Do PizzaBots Dream of Electric Guitars?",
         "season": 32,
@@ -6293,7 +6293,7 @@
     {
         "id": 700,
         "airdate": "2021-03-21",
-        "episode_number": 700,
+        "episode_number": 16,
         "image_path": "/episode/700.webp",
         "name": "Manger Things",
         "season": 32,
@@ -6302,7 +6302,7 @@
     {
         "id": 701,
         "airdate": "2021-03-28",
-        "episode_number": 701,
+        "episode_number": 17,
         "image_path": "/episode/701.webp",
         "name": "Uncut Femmes",
         "season": 32,
@@ -6311,7 +6311,7 @@
     {
         "id": 702,
         "airdate": "2021-04-11",
-        "episode_number": 702,
+        "episode_number": 18,
         "image_path": "/episode/702.webp",
         "name": "Burger Kings",
         "season": 32,
@@ -6320,7 +6320,7 @@
     {
         "id": 703,
         "airdate": "2021-04-18",
-        "episode_number": 703,
+        "episode_number": 19,
         "image_path": "/episode/703.webp",
         "name": "Panic on the Streets of Springfield",
         "season": 32,
@@ -6329,7 +6329,7 @@
     {
         "id": 704,
         "airdate": "",
-        "episode_number": 704,
+        "episode_number": 20,
         "image_path": "/episode/704.webp",
         "name": "Mother and Child Reunion",
         "season": 32,
@@ -6338,7 +6338,7 @@
     {
         "id": 705,
         "airdate": "2021-05-16",
-        "episode_number": 705,
+        "episode_number": 21,
         "image_path": "/episode/705.webp",
         "name": "The Man from G.R.A.M.P.A.",
         "season": 32,
@@ -6347,7 +6347,7 @@
     {
         "id": 706,
         "airdate": "2021-05-23",
-        "episode_number": 706,
+        "episode_number": 22,
         "image_path": "/episode/706.webp",
         "name": "The Last Barfighter",
         "season": 32,
@@ -6356,7 +6356,7 @@
     {
         "id": 707,
         "airdate": "2021-09-26",
-        "episode_number": 707,
+        "episode_number": 1,
         "image_path": "/episode/707.webp",
         "name": "The Star of the Backstage",
         "season": 33,
@@ -6365,7 +6365,7 @@
     {
         "id": 708,
         "airdate": "2021-10-03",
-        "episode_number": 708,
+        "episode_number": 2,
         "image_path": "/episode/708.webp",
         "name": "Bart's In Jail!",
         "season": 33,
@@ -6374,7 +6374,7 @@
     {
         "id": 709,
         "airdate": "2021-10-10",
-        "episode_number": 709,
+        "episode_number": 3,
         "image_path": "/episode/709.webp",
         "name": "Treehouse of Horror XXXII",
         "season": 33,
@@ -6383,7 +6383,7 @@
     {
         "id": 710,
         "airdate": "2021-10-17",
-        "episode_number": 710,
+        "episode_number": 4,
         "image_path": "/episode/710.webp",
         "name": "The Wayz We Were",
         "season": 33,
@@ -6392,7 +6392,7 @@
     {
         "id": 711,
         "airdate": "2021-10-24",
-        "episode_number": 711,
+        "episode_number": 5,
         "image_path": "/episode/711.webp",
         "name": "Lisa's Belly",
         "season": 33,
@@ -6401,7 +6401,7 @@
     {
         "id": 712,
         "airdate": "2021-11-07",
-        "episode_number": 712,
+        "episode_number": 6,
         "image_path": "/episode/712.webp",
         "name": "A Serious Flanders: Part One",
         "season": 33,
@@ -6410,7 +6410,7 @@
     {
         "id": 713,
         "airdate": "2021-11-14",
-        "episode_number": 713,
+        "episode_number": 7,
         "image_path": "/episode/713.webp",
         "name": "A Serious Flanders: Part Two",
         "season": 33,
@@ -6419,7 +6419,7 @@
     {
         "id": 714,
         "airdate": "2021-11-21",
-        "episode_number": 714,
+        "episode_number": 8,
         "image_path": "/episode/714.webp",
         "name": "Portrait of a Lackey on Fire",
         "season": 33,
@@ -6428,7 +6428,7 @@
     {
         "id": 715,
         "airdate": "2021-11-28",
-        "episode_number": 715,
+        "episode_number": 9,
         "image_path": "/episode/715.webp",
         "name": "Mothers and Other Strangers",
         "season": 33,
@@ -6437,7 +6437,7 @@
     {
         "id": 716,
         "airdate": "2021-12-19",
-        "episode_number": 716,
+        "episode_number": 10,
         "image_path": "/episode/716.webp",
         "name": "A Made Maggie",
         "season": 33,
@@ -6446,7 +6446,7 @@
     {
         "id": 717,
         "airdate": "2022-01-02",
-        "episode_number": 717,
+        "episode_number": 11,
         "image_path": "/episode/717.webp",
         "name": "The Longest Marge",
         "season": 33,
@@ -6455,7 +6455,7 @@
     {
         "id": 718,
         "airdate": "2022-02-27",
-        "episode_number": 718,
+        "episode_number": 12,
         "image_path": "/episode/718.webp",
         "name": "Pixelated and Afraid",
         "season": 33,
@@ -6464,7 +6464,7 @@
     {
         "id": 719,
         "airdate": "2022-03-06",
-        "episode_number": 719,
+        "episode_number": 13,
         "image_path": "/episode/719.webp",
         "name": "Boyz N the Highlands",
         "season": 33,
@@ -6473,7 +6473,7 @@
     {
         "id": 720,
         "airdate": "2022-03-13",
-        "episode_number": 720,
+        "episode_number": 14,
         "image_path": "/episode/720.webp",
         "name": "You Won't Believe What This Episode is About - Act Three Will Shock You!",
         "season": 33,
@@ -6482,7 +6482,7 @@
     {
         "id": 721,
         "airdate": "2022-03-20",
-        "episode_number": 721,
+        "episode_number": 15,
         "image_path": "/episode/721.webp",
         "name": "Bart the Cool Kid",
         "season": 33,
@@ -6491,7 +6491,7 @@
     {
         "id": 722,
         "airdate": "2022-03-27",
-        "episode_number": 722,
+        "episode_number": 16,
         "image_path": "/episode/722.webp",
         "name": "Pretty Whittle Liar",
         "season": 33,
@@ -6500,7 +6500,7 @@
     {
         "id": 723,
         "airdate": "2022-04-10",
-        "episode_number": 723,
+        "episode_number": 17,
         "image_path": "/episode/723.webp",
         "name": "The Sound of Bleeding Gums",
         "season": 33,
@@ -6509,7 +6509,7 @@
     {
         "id": 724,
         "airdate": "2022-04-24",
-        "episode_number": 724,
+        "episode_number": 18,
         "image_path": "/episode/724.webp",
         "name": "My Octopus and a Teacher",
         "season": 33,
@@ -6518,7 +6518,7 @@
     {
         "id": 725,
         "airdate": "",
-        "episode_number": 725,
+        "episode_number": 19,
         "image_path": "/episode/725.webp",
         "name": "Girls Just Shauna Have Fun",
         "season": 33,
@@ -6527,7 +6527,7 @@
     {
         "id": 726,
         "airdate": "2022-05-08",
-        "episode_number": 726,
+        "episode_number": 20,
         "image_path": "/episode/726.webp",
         "name": "Marge the Meanie",
         "season": 33,
@@ -6536,7 +6536,7 @@
     {
         "id": 727,
         "airdate": "2022-05-15",
-        "episode_number": 727,
+        "episode_number": 21,
         "image_path": "/episode/727.webp",
         "name": "Meat Is Murder",
         "season": 33,
@@ -6545,7 +6545,7 @@
     {
         "id": 728,
         "airdate": "2022-05-22",
-        "episode_number": 728,
+        "episode_number": 22,
         "image_path": "/episode/728.webp",
         "name": "Poorhouse Rock",
         "season": 33,
@@ -6554,7 +6554,7 @@
     {
         "id": 729,
         "airdate": "2022-09-25",
-        "episode_number": 729,
+        "episode_number": 1,
         "image_path": "/episode/729.webp",
         "name": "Habeas Tortoise",
         "season": 34,
@@ -6563,7 +6563,7 @@
     {
         "id": 730,
         "airdate": "2022-10-02",
-        "episode_number": 730,
+        "episode_number": 2,
         "image_path": "/episode/730.webp",
         "name": "One Angry Lisa",
         "season": 34,
@@ -6572,7 +6572,7 @@
     {
         "id": 731,
         "airdate": "2022-10-09",
-        "episode_number": 731,
+        "episode_number": 3,
         "image_path": "/episode/731.webp",
         "name": "Lisa the Boy Scout",
         "season": 34,
@@ -6581,7 +6581,7 @@
     {
         "id": 732,
         "airdate": "2022-10-16",
-        "episode_number": 732,
+        "episode_number": 4,
         "image_path": "/episode/732.webp",
         "name": "The King of Nice",
         "season": 34,
@@ -6590,7 +6590,7 @@
     {
         "id": 733,
         "airdate": "2022-10-23",
-        "episode_number": 733,
+        "episode_number": 5,
         "image_path": "/episode/733.webp",
         "name": "Not It",
         "season": 34,
@@ -6599,7 +6599,7 @@
     {
         "id": 734,
         "airdate": "2022-10-30",
-        "episode_number": 734,
+        "episode_number": 6,
         "image_path": "/episode/734.webp",
         "name": "Treehouse of Horror XXXIII",
         "season": 34,
@@ -6608,7 +6608,7 @@
     {
         "id": 735,
         "airdate": "2022-11-13",
-        "episode_number": 735,
+        "episode_number": 7,
         "image_path": "/episode/735.webp",
         "name": "From Beer to Paternity",
         "season": 34,
@@ -6617,7 +6617,7 @@
     {
         "id": 736,
         "airdate": "2022-11-20",
-        "episode_number": 736,
+        "episode_number": 8,
         "image_path": "/episode/736.webp",
         "name": "Step Brother from the Same Planet",
         "season": 34,
@@ -6626,7 +6626,7 @@
     {
         "id": 737,
         "airdate": "2022-11-27",
-        "episode_number": 737,
+        "episode_number": 9,
         "image_path": "/episode/737.webp",
         "name": "When Nelson Met Lisa",
         "season": 34,
@@ -6635,7 +6635,7 @@
     {
         "id": 738,
         "airdate": "2022-12-04",
-        "episode_number": 738,
+        "episode_number": 10,
         "image_path": "/episode/738.webp",
         "name": "Game Done Changed",
         "season": 34,
@@ -6644,7 +6644,7 @@
     {
         "id": 739,
         "airdate": "2022-12-11",
-        "episode_number": 739,
+        "episode_number": 11,
         "image_path": "/episode/739.webp",
         "name": "Top Goon",
         "season": 34,
@@ -6653,7 +6653,7 @@
     {
         "id": 740,
         "airdate": "2023-01-01",
-        "episode_number": 740,
+        "episode_number": 12,
         "image_path": "/episode/740.webp",
         "name": "My Life as a Vlog",
         "season": 34,
@@ -6662,7 +6662,7 @@
     {
         "id": 741,
         "airdate": "2023-02-19",
-        "episode_number": 741,
+        "episode_number": 13,
         "image_path": "/episode/741.webp",
         "name": "The Many Saints of Springfield",
         "season": 34,
@@ -6671,7 +6671,7 @@
     {
         "id": 742,
         "airdate": "2023-02-26",
-        "episode_number": 742,
+        "episode_number": 14,
         "image_path": "/episode/742.webp",
         "name": "Carl Carlson Rides Again",
         "season": 34,
@@ -6680,7 +6680,7 @@
     {
         "id": 743,
         "airdate": "2023-03-05",
-        "episode_number": 743,
+        "episode_number": 15,
         "image_path": "/episode/743.webp",
         "name": "Bartless",
         "season": 34,
@@ -6689,7 +6689,7 @@
     {
         "id": 744,
         "airdate": "2023-03-12",
-        "episode_number": 744,
+        "episode_number": 16,
         "image_path": "/episode/744.webp",
         "name": "Hostile Kirk Place",
         "season": 34,
@@ -6698,7 +6698,7 @@
     {
         "id": 745,
         "airdate": "2023-03-19",
-        "episode_number": 745,
+        "episode_number": 17,
         "image_path": "/episode/745.webp",
         "name": "Pin Gal",
         "season": 34,
@@ -6707,7 +6707,7 @@
     {
         "id": 746,
         "airdate": "2023-04-23",
-        "episode_number": 746,
+        "episode_number": 18,
         "image_path": "/episode/746.webp",
         "name": "Fan-ily Feud",
         "season": 34,
@@ -6716,7 +6716,7 @@
     {
         "id": 747,
         "airdate": "2023-04-30",
-        "episode_number": 747,
+        "episode_number": 19,
         "image_path": "/episode/747.webp",
         "name": "Write Off This Episode",
         "season": 34,
@@ -6725,7 +6725,7 @@
     {
         "id": 748,
         "airdate": "2023-05-07",
-        "episode_number": 748,
+        "episode_number": 20,
         "image_path": "/episode/748.webp",
         "name": "The Very Hungry Caterpillars",
         "season": 34,
@@ -6734,7 +6734,7 @@
     {
         "id": 749,
         "airdate": "2023-05-14",
-        "episode_number": 749,
+        "episode_number": 21,
         "image_path": "/episode/749.webp",
         "name": "Clown V. Board of Education",
         "season": 34,
@@ -6743,7 +6743,7 @@
     {
         "id": 750,
         "airdate": "2023-05-21",
-        "episode_number": 750,
+        "episode_number": 22,
         "image_path": "/episode/750.webp",
         "name": "Homer's Adventures Through the Windshield Glass",
         "season": 34,
@@ -6752,7 +6752,7 @@
     {
         "id": 751,
         "airdate": "2023-10-01",
-        "episode_number": 751,
+        "episode_number": 1,
         "image_path": "/episode/751.webp",
         "name": "Homer's Crossing",
         "season": 35,
@@ -6761,7 +6761,7 @@
     {
         "id": 752,
         "airdate": "2023-10-08",
-        "episode_number": 752,
+        "episode_number": 2,
         "image_path": "/episode/752.webp",
         "name": "A Mid-Childhood Night's Dream",
         "season": 35,
@@ -6770,7 +6770,7 @@
     {
         "id": 753,
         "airdate": "2023-10-22",
-        "episode_number": 753,
+        "episode_number": 3,
         "image_path": "/episode/753.webp",
         "name": "McMansion & Wife",
         "season": 35,
@@ -6779,7 +6779,7 @@
     {
         "id": 754,
         "airdate": "2023-10-29",
-        "episode_number": 754,
+        "episode_number": 4,
         "image_path": "/episode/754.webp",
         "name": "Thirst Trap: A Corporate Love Story",
         "season": 35,
@@ -6788,7 +6788,7 @@
     {
         "id": 755,
         "airdate": "2023-11-05",
-        "episode_number": 755,
+        "episode_number": 5,
         "image_path": "/episode/755.webp",
         "name": "Treehouse of Horror XXXIV",
         "season": 35,
@@ -6797,7 +6797,7 @@
     {
         "id": 756,
         "airdate": "2023-11-12",
-        "episode_number": 756,
+        "episode_number": 6,
         "image_path": "/episode/756.webp",
         "name": "Iron Marge",
         "season": 35,
@@ -6806,7 +6806,7 @@
     {
         "id": 757,
         "airdate": "2023-11-19",
-        "episode_number": 757,
+        "episode_number": 7,
         "image_path": "/episode/757.webp",
         "name": "It's a Blunderful Life",
         "season": 35,
@@ -6815,7 +6815,7 @@
     {
         "id": 758,
         "airdate": "2023-12-03",
-        "episode_number": 758,
+        "episode_number": 8,
         "image_path": "/episode/758.webp",
         "name": "AE Bonny Romance",
         "season": 35,
@@ -6824,7 +6824,7 @@
     {
         "id": 759,
         "airdate": "2023-12-17",
-        "episode_number": 759,
+        "episode_number": 9,
         "image_path": "/episode/759.webp",
         "name": "Murder, She Boat",
         "season": 35,
@@ -6833,7 +6833,7 @@
     {
         "id": 760,
         "airdate": "2023-12-24",
-        "episode_number": 760,
+        "episode_number": 10,
         "image_path": "/episode/760.webp",
         "name": "Do the Wrong Thing",
         "season": 35,
@@ -6842,7 +6842,7 @@
     {
         "id": 761,
         "airdate": "2024-02-18",
-        "episode_number": 761,
+        "episode_number": 11,
         "image_path": "/episode/761.webp",
         "name": "Frinkenstein's Monster",
         "season": 35,
@@ -6851,7 +6851,7 @@
     {
         "id": 762,
         "airdate": "2024-02-25",
-        "episode_number": 762,
+        "episode_number": 12,
         "image_path": "/episode/762.webp",
         "name": "Lisa Gets an F1",
         "season": 35,
@@ -6860,7 +6860,7 @@
     {
         "id": 763,
         "airdate": "2024-03-24",
-        "episode_number": 763,
+        "episode_number": 13,
         "image_path": "/episode/763.webp",
         "name": "Clan of the Cave Mom",
         "season": 35,
@@ -6869,7 +6869,7 @@
     {
         "id": 764,
         "airdate": "2024-04-07",
-        "episode_number": 764,
+        "episode_number": 14,
         "image_path": "/episode/764.webp",
         "name": "Night of the Living Wage",
         "season": 35,
@@ -6878,7 +6878,7 @@
     {
         "id": 765,
         "airdate": "2024-04-21",
-        "episode_number": 765,
+        "episode_number": 15,
         "image_path": "/episode/765.webp",
         "name": "Cremains of the Day",
         "season": 35,
@@ -6887,7 +6887,7 @@
     {
         "id": 766,
         "airdate": "2024-05-05",
-        "episode_number": 766,
+        "episode_number": 16,
         "image_path": "/episode/766.webp",
         "name": "The Tell-Tale Pants",
         "season": 35,
@@ -6896,7 +6896,7 @@
     {
         "id": 767,
         "airdate": "2024-05-12",
-        "episode_number": 767,
+        "episode_number": 17,
         "image_path": "/episode/767.webp",
         "name": "The Tipping Point",
         "season": 35,
@@ -6905,7 +6905,7 @@
     {
         "id": 768,
         "airdate": "2024-05-19",
-        "episode_number": 768,
+        "episode_number": 18,
         "image_path": "/episode/768.webp",
         "name": "Bart's Brain",
         "season": 35,

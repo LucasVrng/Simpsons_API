@@ -18,9 +18,10 @@ document.getElementById("loginForm").addEventListener("submit", async (e) => {
 
     if (res.ok) {
       setAccessToken(data.accessToken);
-      setTimeout(() => window.location.href = "index.html", 1500);
       document.getElementById("message").textContent = "Login réussi !";
-      setTimeout(() => window.location.href = "index.html", 1500);
+      const redirect = localStorage.getItem("redirectAfterLogin");
+      localStorage.removeItem("redirectAfterLogin");
+      setTimeout(() => { window.location.href = redirect || "/index.html"; }, 1500);
     } else {
       document.getElementById("message").textContent = data.message;
     }

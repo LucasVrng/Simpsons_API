@@ -1,0 +1,71 @@
+/* header.css */
+#site-header {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: 1000;
+  background: white;
+  border-bottom: 3px solid #1a1a1a;
+  box-shadow: 0 3px 0 #1a1a1a;
+  padding: 0 24px;
+  height: 56px;
+}
+
+.header-inner {
+  max-width: 1200px;
+  margin: 0 auto;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.header-logo {
+  font-size: 18px;
+  font-weight: 700;
+  color: #1a1a1a;
+  text-decoration: none;
+  font-family: Simpsons, Arial, sans-serif;
+  letter-spacing: 1px;
+}
+
+.header-nav {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.header-username {
+  font-size: 13px;
+  color: #888;
+}
+
+.header-btn {
+  padding: 8px 18px;
+  border-radius: 50px;
+  font-size: 13px;
+  font-weight: 600;
+  cursor: pointer;
+  border: 2px solid #1a1a1a;
+  background: white;
+  text-decoration: none;
+  color: #1a1a1a;
+  transition: all 0.15s ease;
+  box-shadow: 3px 3px 0 #1a1a1a;
+}
+
+.header-btn:hover {
+  background: #f5c518;
+  transform: translate(-1px, -1px);
+  box-shadow: 4px 4px 0 #1a1a1a;
+}
+
+.header-btn--primary {
+  background: #f5c518;
+}
+
+/* Décale le contenu sous le header fixe */
+body {
+  padding-top: 72px;
+}

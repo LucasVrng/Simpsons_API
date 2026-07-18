@@ -1,6 +1,5 @@
 body {
   font-family: Arial, sans-serif;
-  background-color: gradient(to right, #ffefba, #ffffff);
   margin: 0;
   padding: 20px;
 }
@@ -26,17 +25,18 @@ body {
   border-radius: 50px;
   cursor: pointer;
   background-color: white;
-  box-shadow: rgb(0 0 0 / 5%) 0 0 8px;
+  border: 3px solid #1a1a1a;
+  box-shadow: 4px 4px 0 #1a1a1a;
   letter-spacing: 1.5px;
   text-transform: uppercase;
   font-size: 15px;
-  transition: all 0.5s ease;
-  border: none;
+  transition: all 0.2s ease;
 }
 
 #previouspage:hover {
-  background-color: yellow;
-  transform: translateX(-5px);
+  background-color: #f5c518;
+  transform: translate(-2px, -2px);
+  box-shadow: 6px 6px 0 #1a1a1a;
 }
 
 .search-controls {
@@ -50,9 +50,16 @@ body {
 
 #episode-input {
   width: 300px;
-  padding: 10px;
-  border: 1px solid #ccc;
-  border-radius: 15px;
+  padding: 10px 16px;
+  border: 2px solid #1a1a1a;
+  border-radius: 50px;
+  font-size: 14px;
+  outline: none;
+  transition: border-color 0.2s;
+}
+
+#episode-input:focus {
+  border-color: #f5c518;
 }
 
 #number-of-results {
@@ -73,72 +80,151 @@ body {
   white-space: nowrap;
 }
 
+/* ── Grille ─────────────────────────────── */
 #all-episodes-container {
   margin-top: 20px;
-  display: flex;
-  flex-wrap: wrap;
-  gap: 20px;
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
+  gap: 24px;
 }
 
+/* ── Carte ──────────────────────────────── */
 .episode-card {
-  display: inline-block;
-  width: 280px;
-  gap: 10px;
-  height: auto;
-  border: 5px black solid;
-  border-radius: 20px;
-  background-color: white;
-  padding: 25px;
-  transition: transform 0.2s ease-in-out;
-  text-align: center;
-  justify-content: center;
-  align-items: center;
-  transition: all 0.2s ease-in-out;
+  border-radius: 14px;
+  border: 3px solid #1a1a1a;
+  box-shadow: 4px 4px 0 #1a1a1a;
+  background: white;
+  overflow: hidden;
+  cursor: pointer;
+  transition: transform 0.15s ease, box-shadow 0.15s ease;
+  position: relative;
+  text-align: left;
 }
 
 .episode-card:hover {
-  cursor: pointer;
-  transform: scale(1.05) rotate(2deg);
+  transform: translate(-3px, -3px);
+  box-shadow: 7px 7px 0 #1a1a1a;
+}
+
+/* Image */
+.episode-card #image {
+  width: 100%;
+  height: 160px;
+  object-fit: cover;
+  display: block;
+  border: none;
+  border-bottom: 3px solid #1a1a1a;
+  border-radius: 0;
+  transition: transform 0.2s ease;
 }
 
 .episode-card:hover #image {
-  transform: scale(1.05) rotate(-5deg);
+  transform: scale(1.04);
 }
 
-.episode-card #name {
-  color: yellow;
-  font-family: Mario286;
-  text-shadow: black 2px 2px 2px;
-  letter-spacing: 2px;
-}
-
-.episode-card #synopsis {
-  color: orange;
-}
-
-.episode-card #season {
-  color: green;
-}
-
-.episode-card #number {
-  color: red;
-}
-
-.episode-card #image {
+/* Cœur en overlay */
+.episode-card .heart-overlay {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  width: 32px;
+  height: 32px;
+  border-radius: 50%;
+  background: white;
+  border: 2px solid #1a1a1a;
+  display: flex;
   align-items: center;
   justify-content: center;
-  width: 80%;
-  height: auto;
-  border: 5px solid black;
-  border-radius: 10px;
-  transition: all 0.2s ease-in-out;
+  font-size: 15px;
+  cursor: pointer;
+  transition: border-color 0.15s, transform 0.15s;
+  z-index: 1;
 }
 
+.episode-card .heart-overlay:hover {
+  border-color: #f43f5e;
+  transform: scale(1.15);
+}
+
+/* Corps de la carte */
+.episode-card .card-body {
+  padding: 12px 14px 14px;
+}
+
+/* Badges saison / épisode */
+.episode-card .badge-row {
+  display: flex;
+  gap: 6px;
+  margin-bottom: 8px;
+}
+
+.badge {
+  font-size: 11px;
+  font-weight: 600;
+  padding: 2px 9px;
+  border-radius: 20px;
+  border: 1.5px solid;
+}
+
+.badge-season {
+  background: #fff8e1;
+  color: #b45309;
+  border-color: #f5c518;
+}
+
+.badge-ep {
+  background: #f0fdf4;
+  color: #166534;
+  border-color: #86efac;
+}
+
+/* Titre */
+.episode-card #name {
+  font-size: 13px;
+  font-weight: 700;
+  color: #1a1a1a;
+  font-family: Mario286;
+  text-shadow: none;
+  letter-spacing: 0.5px;
+  margin: 0 0 4px;
+  line-height: 1.3;
+}
+
+/* Date */
+.episode-card #air-date {
+  font-size: 11px;
+  color: #888;
+  margin: 0 0 10px;
+}
+
+/* Cacher les anciens champs redondants */
+.episode-card #number,
+.episode-card #season {
+  display: none;
+}
+
+/* Dots de notation */
+.rating-dots {
+  display: flex;
+  gap: 4px;
+}
+
+.rating-dot {
+  width: 7px;
+  height: 7px;
+  border-radius: 50%;
+  background: #e5e7eb;
+}
+
+.rating-dot.filled {
+  background: #f5c518;
+}
+
+/* ── Pagination ──────────────────────────── */
 #pagination {
   display: flex;
   align-items: center;
   justify-content: center;
-  text-align: center;
   margin-top: 10px;
   gap: 150px;
   padding: 35px;
@@ -146,23 +232,23 @@ body {
 
 #prev-btn,
 #next-btn {
-  width: 20%;
-  padding: 17px 40px;
+  padding: 14px 32px;
   border-radius: 50px;
   cursor: pointer;
   background-color: white;
-  box-shadow: rgb(0 0 0 / 5%) 0 0 8px;
+  border: 3px solid #1a1a1a;
+  box-shadow: 4px 4px 0 #1a1a1a;
   letter-spacing: 1.5px;
   text-transform: uppercase;
   font-size: 15px;
-  transition: all 0.5s ease;
+  transition: all 0.2s ease;
 }
 
 #prev-btn:hover,
 #next-btn:hover {
-  background-color: yellow;
-  box-shadow: yellow;
-  transform: scale(1.1);
+  background-color: #f5c518;
+  transform: translate(-2px, -2px);
+  box-shadow: 6px 6px 0 #1a1a1a;
 }
 
 #page-info {

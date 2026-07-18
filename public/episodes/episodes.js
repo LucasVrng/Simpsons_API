@@ -106,15 +106,23 @@
       console.log(episode.description);
       episodeDiv.innerHTML = `  
               <img src="${portrait}" alt="${episode.name}" id="image"/>
-              <h3 id="name">${episode.name}</h3>
-              <p id="id" style="display: none">${episode.id}</p>
-              <p id="air-date">Air Date: ${episode.airdate ? episode.airdate : "Unknown"}</p> 
-              <p id="number">Episode Number: ${episode.episode_number ? episode.episode_number : "Unknown"}</p>
-              <p id="season">Season: ${episode.season ? episode.season : "Unknown"}</p>
-              <label class="custom-checkbox" onclick="event.stopPropagation()">
-                <input type="checkbox" onclick="toggleLike(${episode.id})" ></input>
-                <span></span>
-              </label>
+              <button class="heart-overlay" onclick="event.stopPropagation()">🤍</button>
+              <div class="card-body">
+                <div class="badge-row">
+                  <span class="badge badge-season">S${episode.season ?? "?"}</span>
+                  <span class="badge badge-ep">Ep. ${episode.episode_number ?? "?"}</span>
+                </div>
+                <p id="name">${episode.name}</p>
+                <p id="air-date">${episode.airdate ?? "Date inconnue"}</p>
+                <p id="id" style="display:none">${episode.id}</p>
+                <div class="rating-dots">
+                  <div class="rating-dot"></div>
+                  <div class="rating-dot"></div>
+                  <div class="rating-dot"></div>
+                  <div class="rating-dot"></div>
+                  <div class="rating-dot"></div>
+                </div>
+              </div>
           `;
       container.appendChild(episodeDiv);
     });

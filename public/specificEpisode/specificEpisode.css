@@ -1,106 +1,328 @@
 body {
   font-family: Arial, sans-serif;
-  background: linear-gradient(to right, #ffefba, #ffffff);
   margin: 0;
   padding: 20px;
 }
 
+#previouspage {
+  width: auto;
+  padding: 12px 24px;
+  border-radius: 50px;
+  cursor: pointer;
+  background-color: white;
+  border: 3px solid #1a1a1a;
+  box-shadow: 4px 4px 0 #1a1a1a;
+  letter-spacing: 1.5px;
+  text-transform: uppercase;
+  font-size: 14px;
+  transition: all 0.2s ease;
+  margin-bottom: 16px;
+  display: inline-block;
+}
+
+#previouspage:hover {
+  background-color: #f5c518;
+  transform: translate(-2px, -2px);
+  box-shadow: 6px 6px 0 #1a1a1a;
+}
+
+/* ── Barre de recherche ─────────────────── */
+.search-wrapper {
+  position: relative;
+  width: 380px;
+  margin: 0 auto 24px;
+}
+
+#episode-search-input {
+  width: 100%;
+  padding: 11px 18px;
+  border: 3px solid #1a1a1a;
+  border-radius: 50px;
+  font-size: 14px;
+  outline: none;
+  box-sizing: border-box;
+  transition: border-color 0.2s, box-shadow 0.2s;
+  box-shadow: 3px 3px 0 #1a1a1a;
+}
+
+#episode-search-input:focus {
+  border-color: #f5c518;
+  box-shadow: 3px 3px 0 #f5c518;
+}
+
+#episode-search-results {
+  position: absolute;
+  top: calc(100% + 6px);
+  left: 0;
+  right: 0;
+  background: white;
+  border: 2px solid #1a1a1a;
+  border-radius: 14px;
+  box-shadow: 4px 4px 0 #1a1a1a;
+  list-style: none;
+  margin: 0;
+  padding: 6px 0;
+  z-index: 100;
+  max-height: 280px;
+  overflow-y: auto;
+}
+
+#episode-search-results li {
+  padding: 10px 16px;
+  cursor: pointer;
+  font-size: 13px;
+  color: #1a1a1a;
+  transition: background 0.1s;
+}
+
+#episode-search-results li:hover {
+  background: #fff8e1;
+}
+
+#episode-search-results .no-result {
+  color: #888;
+  cursor: default;
+  font-style: italic;
+}
+
+/* ── Spinner ────────────────────────────── */
+#episode-spinner {
+  justify-content: center;
+  margin: 12px 0;
+}
+
+#episode-spinner:not([hidden]) {
+  display: flex;
+}
+
+.spinner {
+  width: 32px;
+  height: 32px;
+  border: 4px solid #e5e7eb;
+  border-top-color: #f5c518;
+  border-radius: 50%;
+  animation: spin 0.7s linear infinite;
+}
+
+@keyframes spin {
+  to { transform: rotate(360deg); }
+}
+
+/* ── Conteneur principal ────────────────── */
 #episodecontainer {
   display: flex;
   justify-content: center;
   align-items: center;
-  min-height: 80vh;
+  min-height: 60vh;
 }
 
+/* ── Carte spécifique ───────────────────── */
 .episode-card {
   display: flex;
-  gap: 15px;
-  width: 1200px;
-  height: auto;
-  border: 5px black solid;
-  border-radius: 20px;
-  background-color: white;
-  padding: 25px;
-  align-items: flex-start;
+  width: min(1100px, 100%);
+  border: 3px solid #1a1a1a;
+  border-radius: 18px;
+  box-shadow: 6px 6px 0 #1a1a1a;
+  background: white;
+  overflow: hidden;
 }
 
-#name {
-  color: yellow;
-  margin-top: 10px;
-  font-family: Simpsons;
-  text-shadow: black 0.1em 0.1em 0.2em;
-}
-
-#season {
-  color: orange;
-  font-family: Mario286;
-  font-style: italic;
-}
-
-#episode_number {
-  color: green;
-  font-family: Mario286;
-}
-
-#airdate {
-  color: red;
-  font-family: Mario286;
+/* Côté image */
+.image-container {
+  position: relative;
+  width: 420px;
+  flex-shrink: 0;
 }
 
 #image {
-  width: 650px;
-  height: auto;
-  border: 5px solid black;
-  border-radius: 10px;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+  border: none;
+  border-radius: 0;
 }
+
+/* Tag saison en overlay sur l'image */
+.image-container::after {
+  content: attr(data-tag);
+  position: absolute;
+  bottom: 14px;
+  left: 14px;
+  background: #1a1a1a;
+  color: #f5c518;
+  font-size: 11px;
+  font-weight: 700;
+  letter-spacing: 1px;
+  padding: 5px 12px;
+  border-radius: 20px;
+  text-transform: uppercase;
+}
+
+/* Côté infos */
+.info-container {
+  flex: 1;
+  padding: 28px 32px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  min-height: 380px;
+  overflow-y: auto;
+}
+
+#name {
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 28px;
+  color: #f5c518;
+  text-shadow: #1a1a1a 2px 2px 0;
+  margin: 0;
+  line-height: 1.2;
+}
+
+.meta-row {
+  display: flex;
+  gap: 16px;
+  flex-wrap: wrap;
+}
+
+.meta-item {
+  font-size: 12px;
+  color: #888;
+  display: flex;
+  align-items: center;
+  gap: 5px;
+}
+
+#episode_number { color: #16a34a; font-family: Mario286; margin: 0; }
+#season         { color: #d97706; font-family: Mario286; font-style: italic; margin: 0; }
+#airdate        { color: #dc2626; font-family: Mario286; margin: 0; }
 
 #synopsis {
-  color: gray;
   font-family: Mario286;
+  color: #555;
+  font-size: 13px;
+  line-height: 1.7;
+  flex: 1;
+  margin: 0;
 }
 
+/* ── Zone actions (étoiles + cœur) ─────── */
+.actions-row {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+  padding-top: 12px;
+  border-top: 1.5px solid #f3f4f6;
+  margin-top: auto;
+}
+
+/* ── Pagination ──────────────────────────── */
 #pagination {
   display: flex;
   align-items: center;
   justify-content: center;
-  text-align: center;
-  gap: 150px;
+  gap: 60px;
+  padding: 28px 0;
 }
 
 #prev-btn,
 #next-btn {
-  width: 20%;
-  padding: 17px 40px;
+  padding: 14px 32px;
   border-radius: 50px;
   cursor: pointer;
   background-color: white;
-  box-shadow: rgb(0 0 0 / 5%) 0 0 8px;
+  border: 3px solid #1a1a1a;
+  box-shadow: 4px 4px 0 #1a1a1a;
   letter-spacing: 1.5px;
   text-transform: uppercase;
-  font-size: 15px;
-  transition: all 0.5s ease;
+  font-size: 14px;
+  transition: all 0.2s ease;
 }
 
 #prev-btn:hover,
 #next-btn:hover {
-  background-color: yellow;
-  transform: scale(1.1);
+  background-color: #f5c518;
+  transform: translate(-2px, -2px);
+  box-shadow: 6px 6px 0 #1a1a1a;
 }
 
-#previouspage {
-  width: 14%;
-  padding: 14px;
-  border-radius: 50px;
-  cursor: pointer;
-  background-color: white;
-  box-shadow: rgb(0 0 0 / 5%) 0 0 8px;
-  letter-spacing: 1.5px;
-  text-transform: uppercase;
-  font-size: 15px;
-  transition: all 0.5s ease;
+#prev-btn:disabled,
+#next-btn:disabled {
+  opacity: 0.4;
+  cursor: not-allowed;
+  transform: none;
+  box-shadow: 4px 4px 0 #1a1a1a;
 }
 
-#previouspage:hover {
-  background-color: yellow;
-  transform: translateX(-5%);
+/* ── Loading text ────────────────────────── */
+.loading-text {
+  color: #aaa;
+  font-style: italic;
+  animation: pulse 1.2s infinite;
+}
+
+@keyframes pulse {
+  0%, 100% { opacity: 1; }
+  50%       { opacity: 0.3; }
+}
+
+/* ── Bouton désactivé pendant chargement ── */
+.btn--loading {
+  opacity: 0.4;
+  cursor: not-allowed;
+}
+
+/* ── Responsive ─────────────────────────── */
+@media (max-width: 768px) {
+
+  /* Carte en colonne au lieu de ligne */
+  .episode-card {
+    flex-direction: column;
+    width: 100%;
+  }
+
+  /* Image pleine largeur en haut */
+  .image-container {
+    width: 100%;
+    height: 220px;
+  }
+
+  #image {
+    width: 100%;
+    height: 220px;
+    object-fit: cover;
+  }
+
+  /* Infos sous l'image */
+  .info-container {
+    padding: 16px 18px;
+    min-height: unset;
+  }
+
+  #name {
+    font-size: 20px;
+  }
+
+  /* Barre de recherche pleine largeur */
+  .search-wrapper {
+    width: 90%;
+  }
+
+  /* Boutons pagination plus petits */
+  #prev-btn,
+  #next-btn {
+    padding: 12px 18px;
+    font-size: 12px;
+    width: 44%;
+  }
+
+  #pagination {
+    gap: 16px;
+    padding: 20px 0;
+  }
+
+  #previouspage {
+    font-size: 12px;
+    padding: 10px 16px;
+  }
 }

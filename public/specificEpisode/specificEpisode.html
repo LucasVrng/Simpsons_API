@@ -9,6 +9,8 @@
     <link rel="stylesheet" href="../fonts/fonts.css" />
     <link rel="stylesheet" href="../components/starRating.css">
     <link rel="stylesheet" href="../components/likeButton.css">
+    <link rel="stylesheet" href="../header.css">
+  <link rel="stylesheet" href="../popup.css">
   </head>
   <body>
     <div class="sky">
@@ -20,6 +22,8 @@
       <div class="cloud cloud4"></div>
     </div>
 
+    <div id="site-header"></div>
+
     <button
       id="previouspage"
       onclick="location.href='../episodes/episodes.html'"
@@ -27,12 +31,27 @@
       Go Back
     </button>
 
+    <div id="episode-search-wrapper" class="search-wrapper">
+      <input 
+        type="text" 
+        id="episode-search-input" 
+        placeholder="Search for an episode..." 
+        autocomplete="off"
+      />
+      <ul id="episode-search-results" hidden></ul>
+    </div>
+
+    <!-- Spinner -->
+    <div id="episode-spinner" hidden>
+      <div class="spinner"></div>
+    </div>
+
     <div id="episodecontainer"></div>
 
     <div id="pagination">
-      <button id="prev-btn">Previous Episode</button>
+      <button id="prev-btn">← Previous Episode</button>
 
-      <button id="next-btn">Next Episode</button>
+      <button id="next-btn">Next Episode →</button>
     </div>
 
     <script type="module" src="specificEpisode.js"></script>
