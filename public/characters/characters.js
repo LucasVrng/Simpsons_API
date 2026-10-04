@@ -52,10 +52,14 @@ document
   .addEventListener("click", (event) => {
     const card = event.target.closest(".character-card");
     if (!card) return;
-    localStorage.clear();
-    localStorage.setItem("characterId", card.querySelector("#id").textContent);
-    window.location.href = "../specificCharacter/specificCharacter.html";
-  });
+
+    const characterId = card.querySelector("#id").textContent;
+    const characterBasic = cache.find(e => e.id == characterId);
+
+      localStorage.setItem("characterId", characterId);
+      localStorage.setItem("characterBasic", JSON.stringify(characterBasic));
+      window.location.href = "../specificCharacter/specificCharacter.html";
+    });
 
 function renderPage() {
   if (currentPage == 1) {
@@ -108,9 +112,19 @@ function displayCurrentData(pageData) {
     const portrait = `https://cdn.thesimpsonsapi.com/1280/character/${character.id}.webp`;
     characterDiv.innerHTML = `  
             <img src="${portrait}" alt="${character.name}" id="image"/>
+            <button class="heart-overlay" onclick="event.stopPropagation()">🤍</button>
+            <div class="card-body">
             <h3 id="name">${character.name}</h3>
             <p id="id" style="display: none">${character.id}</p>
             <p id="${character.status}">${character.status ? character.status : "Unknown"}</p> 
+            <div class="rating-dots">
+                  <div class="rating-dot"></div>
+                  <div class="rating-dot"></div>
+                  <div class="rating-dot"></div>
+                  <div class="rating-dot"></div>
+                  <div class="rating-dot"></div>
+                </div>
+                </div>
         `;
     container.appendChild(characterDiv);
   });

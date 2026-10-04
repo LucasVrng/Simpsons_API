@@ -85,3 +85,11 @@ export const initAuth = async () => {
     window.location.href = "/login.html";
   }
 };
+
+// Récupère les likes de plusieurs contenus en une requête
+export const getBulkLikes = (type, ids) =>
+  authFetch(`/likes/${type}?ids=${ids.join(",")}`);
+
+// Récupère les notes de plusieurs contenus en une requête
+export const getBulkRatings = (type, ids) =>
+  authFetch(`/ratings/${type}?ids=${ids.join(",")}`);

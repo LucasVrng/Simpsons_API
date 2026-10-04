@@ -7,6 +7,11 @@
     <link rel="stylesheet" href="specificLocation.css">
     <link rel="stylesheet" href="../background.css">
     <link rel="stylesheet" href="../fonts/fonts.css">
+    <link rel="stylesheet" href="../components/starRating.css">
+    <link rel="stylesheet" href="../components/likeButton.css">
+    <link rel="stylesheet" href="../header.css">
+    <link rel="stylesheet" href="../popup.css">
+    <link rel="stylesheet" href="../searchBar.css">
 </head>
 <body>
 
@@ -19,10 +24,26 @@
         <div class="cloud cloud4"></div>
     </div>
 
+    <div id="site-header"></div>
+
     <button id="previouspage" onclick="location.href='../locations/locations.html'">Previous Page</button>
 
-    <div id="locationcontainer">
+    <div id="location-search-wrapper" class="search-wrapper">
+      <input 
+        type="text" 
+        id="location-search-input" 
+        placeholder="Search for an location..." 
+        autocomplete="off"
+      />
+      <ul id="location-search-results" hidden></ul>
     </div>
+
+    <!-- Spinner -->
+    <div id="location-spinner" hidden>
+      <div class="spinner"></div>
+    </div>  
+
+    <div id="locationcontainer"></div>
 
     <div id="pagination">
         <button id="prev-btn">Previous Location</button>

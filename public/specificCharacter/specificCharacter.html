@@ -7,6 +7,11 @@
     <link rel="stylesheet" href="specificCharacter.css" />
     <link rel="stylesheet" href="../background.css" />
     <link rel="stylesheet" href="../fonts/fonts.css" />
+    <link rel="stylesheet" href="../components/starRating.css">
+    <link rel="stylesheet" href="../components/likeButton.css">
+    <link rel="stylesheet" href="../header.css">
+    <link rel="stylesheet" href="../popup.css">
+    <link rel="stylesheet" href="../searchBar.css">
   </head>
   <body>
     <div class="sky">
@@ -18,22 +23,36 @@
       <div class="cloud cloud4"></div>
     </div>
 
+    <div id="site-header"></div>
+
     <button
       id="previouspage"
       onclick="location.href='../characters/characters.html'"
     >
-      Previous Page
+      Go Back
     </button>
 
-    <div id="loading"></div>
-    <p id="loading-text">Please wait until the characters are loaded</p>
+    <div id="character-search-wrapper" class="search-wrapper">
+      <input 
+        type="text" 
+        id="character-search-input" 
+        placeholder="Search for an character..." 
+        autocomplete="off"
+      />
+      <ul id="character-search-results" hidden></ul>
+    </div>
+
+    <!-- Spinner -->
+    <div id="character-spinner" hidden>
+      <div class="spinner"></div>
+    </div>
 
     <div id="charactercontainer"></div>
 
     <div id="pagination">
-      <button id="prev-btn">Previous Character</button>
+      <button id="prev-btn">← Previous Character</button>
 
-      <button id="next-btn">Next Character</button>
+      <button id="next-btn">Next Character →</button>
     </div>
 
     <script type="module" src="specificCharacter.js"></script>

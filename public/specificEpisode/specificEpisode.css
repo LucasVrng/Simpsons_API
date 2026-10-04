@@ -26,65 +26,6 @@ body {
   box-shadow: 6px 6px 0 #1a1a1a;
 }
 
-/* ── Barre de recherche ─────────────────── */
-.search-wrapper {
-  position: relative;
-  width: 380px;
-  margin: 0 auto 24px;
-}
-
-#episode-search-input {
-  width: 100%;
-  padding: 11px 18px;
-  border: 3px solid #1a1a1a;
-  border-radius: 50px;
-  font-size: 14px;
-  outline: none;
-  box-sizing: border-box;
-  transition: border-color 0.2s, box-shadow 0.2s;
-  box-shadow: 3px 3px 0 #1a1a1a;
-}
-
-#episode-search-input:focus {
-  border-color: #f5c518;
-  box-shadow: 3px 3px 0 #f5c518;
-}
-
-#episode-search-results {
-  position: absolute;
-  top: calc(100% + 6px);
-  left: 0;
-  right: 0;
-  background: white;
-  border: 2px solid #1a1a1a;
-  border-radius: 14px;
-  box-shadow: 4px 4px 0 #1a1a1a;
-  list-style: none;
-  margin: 0;
-  padding: 6px 0;
-  z-index: 100;
-  max-height: 280px;
-  overflow-y: auto;
-}
-
-#episode-search-results li {
-  padding: 10px 16px;
-  cursor: pointer;
-  font-size: 13px;
-  color: #1a1a1a;
-  transition: background 0.1s;
-}
-
-#episode-search-results li:hover {
-  background: #fff8e1;
-}
-
-#episode-search-results .no-result {
-  color: #888;
-  cursor: default;
-  font-style: italic;
-}
-
 /* ── Spinner ────────────────────────────── */
 #episode-spinner {
   justify-content: center;

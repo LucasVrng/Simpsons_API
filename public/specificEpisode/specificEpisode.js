@@ -4,7 +4,7 @@ import { LikeButton } from "../components/LikeButton.js";
 
 const episodesData = await fetch("../database/episodes.json").then(r => r.json());
 
-await initHeader();
+await initHeader(); 
 
 let episodeId = Number(localStorage.getItem("episodeId")) || 1;
 let isLoading = false;

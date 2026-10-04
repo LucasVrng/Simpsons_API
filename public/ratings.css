@@ -1,0 +1,43 @@
+/* Dots de notation */
+.rating-dots {
+  display: flex;
+  gap: 4px;
+}
+
+.rating-dot {
+  width: 7px;
+  height: 7px;
+  border-radius: 50%;
+  background: #e5e7eb;
+}
+
+.rating-dot.filled {
+  background: #f5c518;
+}
+
+/* Cœur en overlay */
+.heart-overlay {
+  position: absolute;
+  width: 32px;
+  height: 32px;
+  border-radius: 50%;
+  background: white;
+  border: 2px solid #1a1a1a;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 15px;
+  cursor: pointer;
+  transition: border-color 0.15s, transform 0.15s;
+  z-index: 1;
+}
+ 
+.episode-card .heart-overlay {
+  top: 10px;
+  right: 10px;
+}
+
+.heart-overlay:hover {
+  border-color: #f43f5e;
+  transform: scale(1.15);
+}

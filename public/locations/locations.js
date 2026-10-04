@@ -40,15 +40,19 @@ document.getElementById("location-input").addEventListener("input", (event) => {
   renderPage();
 });
 
-document
-  .getElementById("all-locations-container")
-  .addEventListener("click", (event) => {
-    const card = event.target.closest(".location-card");
-    if (!card) return;
-    localStorage.clear();
-    localStorage.setItem("locationId", card.querySelector("#id").textContent);
-    window.location.href = "../specificLocation/specificLocation.html";
-  });
+  document
+    .getElementById("all-locations-container")
+    .addEventListener("click", (event) => {
+      const card = event.target.closest(".location-card");
+      if (!card) return;
+
+      const locationId = card.querySelector("#id").textContent;
+      const locationBasic = cache.find(e => e.id == locationId);
+
+      localStorage.setItem("locationId", locationId);
+      localStorage.setItem("locationBasic", JSON.stringify(locationBasic));
+      window.location.href = "../specificLocation/specificLocation.html";
+    });
 
 function renderPage() {
   if (currentPage == 1) {
@@ -101,10 +105,20 @@ function displayCurrentData(pageData) {
     const portrait = `https://cdn.thesimpsonsapi.com/1280/location/${location.id}.webp`;
     locationDiv.innerHTML = `  
             <img src="${portrait}" alt="${location.name}" id="image"/>
+            <button class="heart-overlay" onclick="event.stopPropagation()">🤍</button>
+              <div class="card-body">
             <p id="id" style="display: none">${location.id}</p>
             <h3 id="name">${location.name}</h3>
             <p id="town">Town: ${location.town ? location.town : "Unknown"}</p> 
             <p id="use">Use: ${location.use ? location.use : "Unknown"}</p>
+            <div class="rating-dots">
+                  <div class="rating-dot"></div>
+                  <div class="rating-dot"></div>
+                  <div class="rating-dot"></div>
+                  <div class="rating-dot"></div>
+                  <div class="rating-dot"></div>
+                </div>
+              </div>
         `;
     container.appendChild(locationDiv);
   });
